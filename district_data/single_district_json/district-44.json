@@ -1,0 +1,966 @@
+{
+  "id": 44,
+  "district": 44,
+  "council_member": {
+    "person_id": "7749",
+    "councildist": "NYCC44",
+    "last_name": "Yeger",
+    "first_name": "Kalman",
+    "photo_url": "https://raw.githubusercontent.com/NewYorkCityCouncil/districts/master/thumbnails/district-44.jpg",
+    "facebook_url": "https://www.facebook.com/kalman.yeger",
+    "twitter_url": "https://twitter.com/KalmanYeger",
+    "twitter_handle": "KalmanYeger",
+    "instagram_url": "https://www.instagram.com/kalmanyeger/",
+    "instagram_handle": "kalmanyeger",
+    "party": "democrat",
+    "title": "council-member",
+    "gender": "male",
+    "city_council_url": "https://council.nyc.gov/district-44",
+    "city_council_committees_url": "http://legistar.council.nyc.gov/Departments.aspx",
+    "city_council_legislation_url": "http://legistar.council.nyc.gov/Legislation.aspx",
+    "city_council_council_calendar_url": "https://legistar.council.nyc.gov/Calendar.aspx",
+    "PersonId": 7749,
+    "PersonGuid": "9529746E-868E-4DE6-BCF0-45B0DFE7DE91",
+    "PersonLastModifiedUtc": "2017-12-05T15:39:44.397",
+    "PersonRowVersion": "AAAAAOXGpOw=",
+    "PersonFullName": "Kalman Yeger ",
+    "PersonActiveFlag": 1,
+    "PersonUsedSponsorFlag": 0,
+    "PersonAddress1": "4424 16th Avenue",
+    "PersonCity1": "Brooklyn",
+    "PersonState1": "NY",
+    "PersonZip1": "11204",
+    "PersonPhone": "718-853-2704/2068",
+    "PersonFax": "718-853-3858",
+    "PersonEmail": "Kyeger@council.nyc.gov",
+    "PersonWWW": "https://council.nyc.gov/district-44/",
+    "PersonAddress2": "250 Broadway - 17th Floor - Suite 1738",
+    "PersonCity2": "New York",
+    "PersonState2": "NY",
+    "PersonZip2": "10007",
+    "PersonPhone2": "212-788-7357",
+    "PersonFax2": "",
+    "PersonEmail2": "",
+    "PersonWWW2": "",
+    "committees": [
+      {
+        "OfficeRecordId": 3879,
+        "OfficeRecordGuid": "7E337BB6-FEF6-4AC6-BE19-B0701ABADD8F",
+        "OfficeRecordLastModifiedUtc": "2018-01-11T19:52:23.21",
+        "OfficeRecordRowVersion": "AAAAAOV8hcI=",
+        "OfficeRecordFirstName": "Kalman",
+        "OfficeRecordLastName": "Yeger",
+        "OfficeRecordEmail": "Kyeger@council.nyc.gov",
+        "OfficeRecordFullName": "Kalman Yeger ",
+        "OfficeRecordStartDate": "2018-01-11T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 50,
+        "OfficeRecordPersonId": 7749,
+        "OfficeRecordBodyId": 6,
+        "OfficeRecordBodyName": "Committee on Contracts",
+        "OfficeRecordTitle": "Committee Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 3928,
+        "OfficeRecordGuid": "65DF0A03-EF0F-45F0-9573-F28A2500EBA5",
+        "OfficeRecordLastModifiedUtc": "2018-01-11T20:51:19.14",
+        "OfficeRecordRowVersion": "AAAAAOV8ijQ=",
+        "OfficeRecordFirstName": "Kalman",
+        "OfficeRecordLastName": "Yeger",
+        "OfficeRecordEmail": "Kyeger@council.nyc.gov",
+        "OfficeRecordFullName": "Kalman Yeger ",
+        "OfficeRecordStartDate": "2018-01-11T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 70,
+        "OfficeRecordPersonId": 7749,
+        "OfficeRecordBodyId": 10,
+        "OfficeRecordBodyName": "Committee on Environmental Protection",
+        "OfficeRecordTitle": "Committee Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 3971,
+        "OfficeRecordGuid": "AF2D586E-76DF-4FE4-A607-90D44DA4048D",
+        "OfficeRecordLastModifiedUtc": "2018-01-11T21:33:37.677",
+        "OfficeRecordRowVersion": "AAAAAOV8izU=",
+        "OfficeRecordFirstName": "Kalman",
+        "OfficeRecordLastName": "Yeger",
+        "OfficeRecordEmail": "Kyeger@council.nyc.gov",
+        "OfficeRecordFullName": "Kalman Yeger ",
+        "OfficeRecordStartDate": "2018-01-11T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 70,
+        "OfficeRecordPersonId": 7749,
+        "OfficeRecordBodyId": 13,
+        "OfficeRecordBodyName": "Committee on Governmental Operations",
+        "OfficeRecordTitle": "Committee Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4006,
+        "OfficeRecordGuid": "8128B606-13EA-48C1-A90C-1427972ACBA4",
+        "OfficeRecordLastModifiedUtc": "2018-01-12T16:25:02.113",
+        "OfficeRecordRowVersion": "AAAAAOV8kfU=",
+        "OfficeRecordFirstName": "Kalman",
+        "OfficeRecordLastName": "Yeger",
+        "OfficeRecordEmail": "Kyeger@council.nyc.gov",
+        "OfficeRecordFullName": "Kalman Yeger ",
+        "OfficeRecordStartDate": "2018-01-11T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 70,
+        "OfficeRecordPersonId": 7749,
+        "OfficeRecordBodyId": 5119,
+        "OfficeRecordBodyName": "Committee on Immigration",
+        "OfficeRecordTitle": "Committee Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4050,
+        "OfficeRecordGuid": "E135F41E-81E5-4DBE-A02D-69CFAEF4EA75",
+        "OfficeRecordLastModifiedUtc": "2018-01-12T17:23:21.397",
+        "OfficeRecordRowVersion": "AAAAAOV8kug=",
+        "OfficeRecordFirstName": "Kalman",
+        "OfficeRecordLastName": "Yeger",
+        "OfficeRecordEmail": "Kyeger@council.nyc.gov",
+        "OfficeRecordFullName": "Kalman Yeger ",
+        "OfficeRecordStartDate": "2018-01-11T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 70,
+        "OfficeRecordPersonId": 7749,
+        "OfficeRecordBodyId": 5107,
+        "OfficeRecordBodyName": "Committee on Oversight and Investigations",
+        "OfficeRecordTitle": "Committee Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4113,
+        "OfficeRecordGuid": "8B0E8FEA-1C7E-4252-8FE6-52A83BC54052",
+        "OfficeRecordLastModifiedUtc": "2018-01-12T18:24:08.407",
+        "OfficeRecordRowVersion": "AAAAAOV8lH8=",
+        "OfficeRecordFirstName": "Kalman",
+        "OfficeRecordLastName": "Yeger",
+        "OfficeRecordEmail": "Kyeger@council.nyc.gov",
+        "OfficeRecordFullName": "Kalman Yeger ",
+        "OfficeRecordStartDate": "2018-01-11T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 50,
+        "OfficeRecordPersonId": 7749,
+        "OfficeRecordBodyId": 5213,
+        "OfficeRecordBodyName": "Committee on Technology",
+        "OfficeRecordTitle": "Committee Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4224,
+        "OfficeRecordGuid": "A9AF4BF9-EB7D-4DFF-B75E-1274480D1E2F",
+        "OfficeRecordLastModifiedUtc": "2019-02-28T14:11:50.31",
+        "OfficeRecordRowVersion": "AAAAAOXGpOk=",
+        "OfficeRecordFirstName": "Kalman",
+        "OfficeRecordLastName": "Yeger",
+        "OfficeRecordEmail": "Kyeger@council.nyc.gov",
+        "OfficeRecordFullName": "Kalman Yeger ",
+        "OfficeRecordStartDate": "2018-01-01T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 48,
+        "OfficeRecordPersonId": 7749,
+        "OfficeRecordBodyId": 5257,
+        "OfficeRecordBodyName": "Democratic Conference of the Council of the City of New York ",
+        "OfficeRecordTitle": "Council Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      }
+    ]
+  },
+  "district_boundaries": {
+    "type": "Feature",
+    "id": 1,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -73.9721628924519,
+            40.6331198638061
+          ],
+          [
+            -73.972006045952,
+            40.6322812619203
+          ],
+          [
+            -73.9718543553543,
+            40.6315019689912
+          ],
+          [
+            -73.9717137176349,
+            40.6307553950179
+          ],
+          [
+            -73.9718576032233,
+            40.6306841844086
+          ],
+          [
+            -73.9719749427134,
+            40.6306308808233
+          ],
+          [
+            -73.9718291570705,
+            40.6298716269296
+          ],
+          [
+            -73.9717288777614,
+            40.6299172580675
+          ],
+          [
+            -73.9715694600161,
+            40.6299962566075
+          ],
+          [
+            -73.9713676539262,
+            40.6289374038762
+          ],
+          [
+            -73.9712089368373,
+            40.628097952696
+          ],
+          [
+            -73.9711156517062,
+            40.6275941245898
+          ],
+          [
+            -73.9709226947593,
+            40.626578226218
+          ],
+          [
+            -73.9706646699707,
+            40.6266068876646
+          ],
+          [
+            -73.9695527254956,
+            40.6267303745094
+          ],
+          [
+            -73.9684785664223,
+            40.6268492329835
+          ],
+          [
+            -73.9675537115762,
+            40.6269514635896
+          ],
+          [
+            -73.9666242326852,
+            40.6270523622716
+          ],
+          [
+            -73.9656270804644,
+            40.6271634625317
+          ],
+          [
+            -73.9646285662957,
+            40.6272736983223
+          ],
+          [
+            -73.963701632455,
+            40.6273748986619
+          ],
+          [
+            -73.9627756521293,
+            40.6274771621777
+          ],
+          [
+            -73.9618480026894,
+            40.6275790583325
+          ],
+          [
+            -73.9614655271885,
+            40.6276218591799
+          ],
+          [
+            -73.9612865947482,
+            40.627641880572
+          ],
+          [
+            -73.9611441977794,
+            40.6276577269931
+          ],
+          [
+            -73.9609192013542,
+            40.627682756256
+          ],
+          [
+            -73.9599570798534,
+            40.6277869138738
+          ],
+          [
+            -73.9589955913059,
+            40.6278938359309
+          ],
+          [
+            -73.9580543588442,
+            40.6279793600692
+          ],
+          [
+            -73.9575966952923,
+            40.6256057101323
+          ],
+          [
+            -73.9571439914113,
+            40.6232161277939
+          ],
+          [
+            -73.9566909293201,
+            40.6208261026605
+          ],
+          [
+            -73.9562390697919,
+            40.6184356343205
+          ],
+          [
+            -73.9567661778083,
+            40.6183771296283
+          ],
+          [
+            -73.95718545025,
+            40.6183338898582
+          ],
+          [
+            -73.9581478213338,
+            40.6182254338955
+          ],
+          [
+            -73.9591084727261,
+            40.6181215900461
+          ],
+          [
+            -73.959506820079,
+            40.6180676904169
+          ],
+          [
+            -73.960043748055,
+            40.6180195029801
+          ],
+          [
+            -73.9609648639155,
+            40.6179140976501
+          ],
+          [
+            -73.961888977731,
+            40.6178126758011
+          ],
+          [
+            -73.9628097520575,
+            40.617674603022
+          ],
+          [
+            -73.9638128809623,
+            40.6175976407414
+          ],
+          [
+            -73.9637556158093,
+            40.6173106726854
+          ],
+          [
+            -73.9636238846867,
+            40.6165979762112
+          ],
+          [
+            -73.963566135347,
+            40.6162469614076
+          ],
+          [
+            -73.9633623698601,
+            40.6152126670804
+          ],
+          [
+            -73.9628611689222,
+            40.6125577242045
+          ],
+          [
+            -73.9623809065877,
+            40.6099946122788
+          ],
+          [
+            -73.9619669534275,
+            40.6078513511371
+          ],
+          [
+            -73.9618871070636,
+            40.6073445375581
+          ],
+          [
+            -73.9617333958355,
+            40.60536620192
+          ],
+          [
+            -73.9618239775985,
+            40.6053561461195
+          ],
+          [
+            -73.9625506813022,
+            40.6052776703006
+          ],
+          [
+            -73.9634143076541,
+            40.6051829532406
+          ],
+          [
+            -73.9643436066192,
+            40.6050793970073
+          ],
+          [
+            -73.9653179537173,
+            40.6049741270076
+          ],
+          [
+            -73.9654259057063,
+            40.6049624787312
+          ],
+          [
+            -73.9665319523581,
+            40.6048400022502
+          ],
+          [
+            -73.9667970430352,
+            40.6048106499654
+          ],
+          [
+            -73.9669425645164,
+            40.6047909661959
+          ],
+          [
+            -73.9670639570275,
+            40.6047745448285
+          ],
+          [
+            -73.9681650755966,
+            40.6046406674483
+          ],
+          [
+            -73.9687668389518,
+            40.6045664672101
+          ],
+          [
+            -73.9690961696927,
+            40.6045585518549
+          ],
+          [
+            -73.9700227104459,
+            40.6044519049555
+          ],
+          [
+            -73.9709918369905,
+            40.6043301051509
+          ],
+          [
+            -73.9721788591354,
+            40.6042029478099
+          ],
+          [
+            -73.9723529520037,
+            40.6033563549611
+          ],
+          [
+            -73.9724540476639,
+            40.6026252899901
+          ],
+          [
+            -73.972566768205,
+            40.6018026088103
+          ],
+          [
+            -73.9734097897041,
+            40.6017105844795
+          ],
+          [
+            -73.9743657498981,
+            40.6016039016444
+          ],
+          [
+            -73.9742256819891,
+            40.6026232787838
+          ],
+          [
+            -73.9749997351133,
+            40.6026973424972
+          ],
+          [
+            -73.9757815796244,
+            40.6027660497474
+          ],
+          [
+            -73.9759709490899,
+            40.6038097935752
+          ],
+          [
+            -73.976134569336,
+            40.6046443001931
+          ],
+          [
+            -73.9771074855664,
+            40.6047845936158
+          ],
+          [
+            -73.9780816449974,
+            40.604926704434
+          ],
+          [
+            -73.9791281523636,
+            40.6050768906985
+          ],
+          [
+            -73.9801727136594,
+            40.605187037695
+          ],
+          [
+            -73.980604681144,
+            40.6052359467924
+          ],
+          [
+            -73.9811348469382,
+            40.6052882020749
+          ],
+          [
+            -73.9821017438502,
+            40.6053873241651
+          ],
+          [
+            -73.9830669960071,
+            40.6055052683136
+          ],
+          [
+            -73.9840367592756,
+            40.6056045095727
+          ],
+          [
+            -73.9839986158883,
+            40.605417888935
+          ],
+          [
+            -73.9835327726863,
+            40.6029652071232
+          ],
+          [
+            -73.9844589375067,
+            40.6028620000888
+          ],
+          [
+            -73.9853859728552,
+            40.6027592103872
+          ],
+          [
+            -73.9863866731853,
+            40.6026485504313
+          ],
+          [
+            -73.9863041598493,
+            40.6022368403021
+          ],
+          [
+            -73.9864463310449,
+            40.6021000223707
+          ],
+          [
+            -73.9886915234338,
+            40.6034335427003
+          ],
+          [
+            -73.9908747039249,
+            40.6047775322253
+          ],
+          [
+            -73.9931059425111,
+            40.6061237067659
+          ],
+          [
+            -73.992522263675,
+            40.6066835696743
+          ],
+          [
+            -73.9919417413762,
+            40.6072442763334
+          ],
+          [
+            -73.9913591064395,
+            40.6078025299261
+          ],
+          [
+            -73.9907760006172,
+            40.6083605114454
+          ],
+          [
+            -73.990194881045,
+            40.6089197769359
+          ],
+          [
+            -73.989901107455,
+            40.6092022925489
+          ],
+          [
+            -73.9895684673935,
+            40.6095221802762
+          ],
+          [
+            -73.9889374332543,
+            40.6101240473153
+          ],
+          [
+            -73.9883593559574,
+            40.6106828271017
+          ],
+          [
+            -73.9877779370993,
+            40.6112425583426
+          ],
+          [
+            -73.9871963193176,
+            40.611800620514
+          ],
+          [
+            -73.9866162401987,
+            40.6123613988861
+          ],
+          [
+            -73.9852388754526,
+            40.6115298506761
+          ],
+          [
+            -73.9843838841195,
+            40.6110136576451
+          ],
+          [
+            -73.9841634456548,
+            40.6112255377533
+          ],
+          [
+            -73.9838103714196,
+            40.6115681108064
+          ],
+          [
+            -73.9833528587471,
+            40.6120005389403
+          ],
+          [
+            -73.9832237050762,
+            40.612130446589
+          ],
+          [
+            -73.9826607097868,
+            40.6127007088818
+          ],
+          [
+            -73.9821569367393,
+            40.6131578536677
+          ],
+          [
+            -73.9820624963535,
+            40.613246656623
+          ],
+          [
+            -73.9817498681319,
+            40.6135628620349
+          ],
+          [
+            -73.981438935385,
+            40.6138459262854
+          ],
+          [
+            -73.9808064968552,
+            40.6144553677609
+          ],
+          [
+            -73.9802217089443,
+            40.6150131873783
+          ],
+          [
+            -73.9796396519266,
+            40.6155727854739
+          ],
+          [
+            -73.9790593926142,
+            40.6161340749716
+          ],
+          [
+            -73.9812878179036,
+            40.6174791439837
+          ],
+          [
+            -73.9827377940261,
+            40.618354218156
+          ],
+          [
+            -73.9834901619307,
+            40.6188082630093
+          ],
+          [
+            -73.985695013993,
+            40.6201397533788
+          ],
+          [
+            -73.9878523925214,
+            40.6214432715525
+          ],
+          [
+            -73.9884218574333,
+            40.6208799282262
+          ],
+          [
+            -73.9906759900404,
+            40.6222404860953
+          ],
+          [
+            -73.9931321823374,
+            40.6237234557371
+          ],
+          [
+            -73.9953339511458,
+            40.6250519688085
+          ],
+          [
+            -73.9970177775308,
+            40.6260698551505
+          ],
+          [
+            -73.9974218919856,
+            40.626315013714
+          ],
+          [
+            -73.9975371783767,
+            40.6263849512704
+          ],
+          [
+            -73.9997323261309,
+            40.6277094791838
+          ],
+          [
+            -74.0019315565538,
+            40.6290410080027
+          ],
+          [
+            -74.0030629821939,
+            40.6297234156104
+          ],
+          [
+            -74.0036874152191,
+            40.6301000212857
+          ],
+          [
+            -74.0041387232744,
+            40.630372206132
+          ],
+          [
+            -74.0039527837392,
+            40.6305480214288
+          ],
+          [
+            -74.0037746060648,
+            40.6307198868466
+          ],
+          [
+            -74.0035555511258,
+            40.6309311784419
+          ],
+          [
+            -74.0029528316647,
+            40.6315117507456
+          ],
+          [
+            -74.0023486713056,
+            40.6320927437302
+          ],
+          [
+            -74.0017647125023,
+            40.6326533454661
+          ],
+          [
+            -74.0011793726722,
+            40.6332185281338
+          ],
+          [
+            -74.0033901256732,
+            40.6345465976676
+          ],
+          [
+            -74.002673984132,
+            40.6350270164642
+          ],
+          [
+            -74.0019616327306,
+            40.6355076563716
+          ],
+          [
+            -74.0012419891663,
+            40.6359858145075
+          ],
+          [
+            -74.0005265503195,
+            40.6364639138161
+          ],
+          [
+            -73.9998088655867,
+            40.6369437388792
+          ],
+          [
+            -74.0004708912003,
+            40.6373445592694
+          ],
+          [
+            -73.9998906540922,
+            40.6379042694496
+          ],
+          [
+            -73.9993058908049,
+            40.6384641190397
+          ],
+          [
+            -73.9987233164512,
+            40.6390243353814
+          ],
+          [
+            -73.9976592754223,
+            40.6383823838134
+          ],
+          [
+            -73.9969433110561,
+            40.6388607054513
+          ],
+          [
+            -73.9962288624294,
+            40.6393394354464
+          ],
+          [
+            -73.9955117783607,
+            40.6398179095822
+          ],
+          [
+            -73.9947968359321,
+            40.6402967304582
+          ],
+          [
+            -73.9943341075381,
+            40.6399752144292
+          ],
+          [
+            -73.9919917178814,
+            40.6386053591233
+          ],
+          [
+            -73.9897900777467,
+            40.6372724529048
+          ],
+          [
+            -73.9875858765704,
+            40.6359452492779
+          ],
+          [
+            -73.9870030724958,
+            40.6365045243368
+          ],
+          [
+            -73.9864210273209,
+            40.6370645167036
+          ],
+          [
+            -73.9858381916379,
+            40.6376236693564
+          ],
+          [
+            -73.9836356067174,
+            40.6362928512082
+          ],
+          [
+            -73.9814330149274,
+            40.6349633592035
+          ],
+          [
+            -73.9789743617893,
+            40.6334848862239
+          ],
+          [
+            -73.9787060651739,
+            40.633332577317
+          ],
+          [
+            -73.978652809403,
+            40.633052892682
+          ],
+          [
+            -73.9776178576436,
+            40.6331618841753
+          ],
+          [
+            -73.9764348560386,
+            40.63329736443
+          ],
+          [
+            -73.9755115929767,
+            40.6333939154373
+          ],
+          [
+            -73.9745839977135,
+            40.6334965438848
+          ],
+          [
+            -73.9736554307405,
+            40.6335990925885
+          ],
+          [
+            -73.9725586489797,
+            40.6337216219851
+          ],
+          [
+            -73.9724162494491,
+            40.6330020761903
+          ],
+          [
+            -73.9723127246017,
+            40.6330501559777
+          ],
+          [
+            -73.9721628924519,
+            40.6331198638061
+          ]
+        ]
+      ]
+    },
+    "properties": {
+      "OBJECTID": 1,
+      "CounDist": 44,
+      "Shape__Area": 92757491.6577301,
+      "Shape__Length": 57615.4011780015
+    }
+  }
+}

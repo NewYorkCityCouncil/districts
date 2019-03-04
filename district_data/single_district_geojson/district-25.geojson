@@ -1,0 +1,1059 @@
+{
+  "type": "Feature",
+  "id": 6,
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.8644722675711,
+          40.7340155404405
+        ],
+        [
+          -73.8649188943786,
+          40.7338747755136
+        ],
+        [
+          -73.8652491309927,
+          40.7337705141642
+        ],
+        [
+          -73.8658141110213,
+          40.7335921278585
+        ],
+        [
+          -73.8668294171488,
+          40.7332540455742
+        ],
+        [
+          -73.8679272703805,
+          40.7328808344153
+        ],
+        [
+          -73.8681072283646,
+          40.7328345196671
+        ],
+        [
+          -73.8682790207791,
+          40.7327753367834
+        ],
+        [
+          -73.8683194732435,
+          40.7327618849162
+        ],
+        [
+          -73.8683599387036,
+          40.732748423668
+        ],
+        [
+          -73.8684534403967,
+          40.7327216406322
+        ],
+        [
+          -73.868610897998,
+          40.7326614412452
+        ],
+        [
+          -73.8690497924874,
+          40.7325221829978
+        ],
+        [
+          -73.8693219144875,
+          40.7324358082589
+        ],
+        [
+          -73.8708663341027,
+          40.7319538637792
+        ],
+        [
+          -73.8711237202741,
+          40.7318797938682
+        ],
+        [
+          -73.8712908113697,
+          40.7318245267145
+        ],
+        [
+          -73.8713445042188,
+          40.7318076219513
+        ],
+        [
+          -73.8714994136398,
+          40.7317588514762
+        ],
+        [
+          -73.8719219907288,
+          40.7316221930655
+        ],
+        [
+          -73.873156679145,
+          40.7312522344805
+        ],
+        [
+          -73.8739753380696,
+          40.7310115232308
+        ],
+        [
+          -73.8747955487092,
+          40.7307672912923
+        ],
+        [
+          -73.8750929492173,
+          40.7306796277051
+        ],
+        [
+          -73.87538788043,
+          40.7305989373296
+        ],
+        [
+          -73.876284431627,
+          40.7303213582927
+        ],
+        [
+          -73.8769986501182,
+          40.7300566174369
+        ],
+        [
+          -73.877895435765,
+          40.729724194588
+        ],
+        [
+          -73.8783677002813,
+          40.7295241507758
+        ],
+        [
+          -73.8786601569919,
+          40.7294079405932
+        ],
+        [
+          -73.8796949499214,
+          40.7290184229153
+        ],
+        [
+          -73.8800901840478,
+          40.7289145381793
+        ],
+        [
+          -73.880492091404,
+          40.7288248059797
+        ],
+        [
+          -73.8808862559243,
+          40.7287519941232
+        ],
+        [
+          -73.8808993458967,
+          40.7287495758441
+        ],
+        [
+          -73.8813105864103,
+          40.7286890903995
+        ],
+        [
+          -73.8817244273141,
+          40.7286435178846
+        ],
+        [
+          -73.8820866084374,
+          40.7286186391876
+        ],
+        [
+          -73.8829768438929,
+          40.7285492145766
+        ],
+        [
+          -73.8835346216531,
+          40.7285057118222
+        ],
+        [
+          -73.8840919280392,
+          40.7284576754649
+        ],
+        [
+          -73.8841623649065,
+          40.7284517748519
+        ],
+        [
+          -73.8846155567018,
+          40.7284112703984
+        ],
+        [
+          -73.8850933668685,
+          40.7283685561012
+        ],
+        [
+          -73.8855947206806,
+          40.7282827041266
+        ],
+        [
+          -73.8856133897684,
+          40.7283504413571
+        ],
+        [
+          -73.8856517263033,
+          40.7285046459581
+        ],
+        [
+          -73.8857013671215,
+          40.7287352352125
+        ],
+        [
+          -73.8862902572592,
+          40.7306099671977
+        ],
+        [
+          -73.8867961417091,
+          40.7319308428665
+        ],
+        [
+          -73.8871108625868,
+          40.7327525578105
+        ],
+        [
+          -73.8877034046244,
+          40.7342995875131
+        ],
+        [
+          -73.8882372903675,
+          40.7354494258492
+        ],
+        [
+          -73.8883845838612,
+          40.7357666473269
+        ],
+        [
+          -73.8887622007805,
+          40.7365446289521
+        ],
+        [
+          -73.889673047546,
+          40.738323404966
+        ],
+        [
+          -73.8900529272002,
+          40.7389818687845
+        ],
+        [
+          -73.8901350817247,
+          40.7391527290888
+        ],
+        [
+          -73.8901612508788,
+          40.7392071442168
+        ],
+        [
+          -73.8901788552898,
+          40.7392431994786
+        ],
+        [
+          -73.8902556927811,
+          40.7394005193146
+        ],
+        [
+          -73.8905049961569,
+          40.7399110162312
+        ],
+        [
+          -73.8908881164942,
+          40.7406955110606
+        ],
+        [
+          -73.891271593027,
+          40.7414365148178
+        ],
+        [
+          -73.8916912998631,
+          40.7421531103527
+        ],
+        [
+          -73.8921800713848,
+          40.7428810443189
+        ],
+        [
+          -73.8934445532521,
+          40.7449662212835
+        ],
+        [
+          -73.8944483023243,
+          40.7465435377305
+        ],
+        [
+          -73.8948983132971,
+          40.7472893243114
+        ],
+        [
+          -73.8952418653319,
+          40.7478586692243
+        ],
+        [
+          -73.8954722653078,
+          40.7482139225619
+        ],
+        [
+          -73.8955479074029,
+          40.7483305536331
+        ],
+        [
+          -73.8956461134666,
+          40.7484819728335
+        ],
+        [
+          -73.8956742018183,
+          40.7485264796905
+        ],
+        [
+          -73.8957038945522,
+          40.7485743393566
+        ],
+        [
+          -73.8957322156475,
+          40.7486233186914
+        ],
+        [
+          -73.8961571512093,
+          40.749342868423
+        ],
+        [
+          -73.8963117936069,
+          40.7496359768291
+        ],
+        [
+          -73.8967357925507,
+          40.7505286963486
+        ],
+        [
+          -73.8970336045049,
+          40.7504953643866
+        ],
+        [
+          -73.8971174425403,
+          40.7504859809347
+        ],
+        [
+          -73.8971936261579,
+          40.7504769281558
+        ],
+        [
+          -73.8972911369336,
+          40.7508810483842
+        ],
+        [
+          -73.8974233859141,
+          40.7515498860101
+        ],
+        [
+          -73.8974688615991,
+          40.7517769315493
+        ],
+        [
+          -73.8974996223947,
+          40.7520538711984
+        ],
+        [
+          -73.8975873116158,
+          40.7524145406214
+        ],
+        [
+          -73.8976362118516,
+          40.7525545481983
+        ],
+        [
+          -73.8977280685738,
+          40.7527670712538
+        ],
+        [
+          -73.897935881964,
+          40.7531203866842
+        ],
+        [
+          -73.8983203438933,
+          40.7536980654152
+        ],
+        [
+          -73.8985678659241,
+          40.7540740555199
+        ],
+        [
+          -73.8986308910484,
+          40.7541697907102
+        ],
+        [
+          -73.89869452437,
+          40.7542729213386
+        ],
+        [
+          -73.8989725879118,
+          40.7547235738045
+        ],
+        [
+          -73.8991219116434,
+          40.7549447424956
+        ],
+        [
+          -73.8992476682052,
+          40.7551358678515
+        ],
+        [
+          -73.8998861169203,
+          40.7562106962039
+        ],
+        [
+          -73.8998589871003,
+          40.7562142002203
+        ],
+        [
+          -73.8996898302893,
+          40.7562332964369
+        ],
+        [
+          -73.8997326305235,
+          40.7563467307705
+        ],
+        [
+          -73.899893564031,
+          40.7567713612315
+        ],
+        [
+          -73.9000350555852,
+          40.7570228596598
+        ],
+        [
+          -73.9000310210515,
+          40.7573246855369
+        ],
+        [
+          -73.8999683463209,
+          40.7577759949271
+        ],
+        [
+          -73.8998107494962,
+          40.7577920228987
+        ],
+        [
+          -73.8997027159934,
+          40.7578035808322
+        ],
+        [
+          -73.8992134847436,
+          40.7578559243954
+        ],
+        [
+          -73.8981936628891,
+          40.7579630965473
+        ],
+        [
+          -73.8971926693041,
+          40.7580683239602
+        ],
+        [
+          -73.8962636029231,
+          40.758166753139
+        ],
+        [
+          -73.8953378879585,
+          40.7582632786281
+        ],
+        [
+          -73.8944033449064,
+          40.7583611038347
+        ],
+        [
+          -73.8934739869184,
+          40.7584588708046
+        ],
+        [
+          -73.8925298913382,
+          40.7585582924613
+        ],
+        [
+          -73.8916104066804,
+          40.7586543255782
+        ],
+        [
+          -73.8906921615482,
+          40.7587518023039
+        ],
+        [
+          -73.8897510460766,
+          40.7588491690792
+        ],
+        [
+          -73.888824080799,
+          40.7589455410232
+        ],
+        [
+          -73.8878947982694,
+          40.7590448765071
+        ],
+        [
+          -73.8869660504364,
+          40.759141538676
+        ],
+        [
+          -73.8860376973156,
+          40.7592413090636
+        ],
+        [
+          -73.8851069194096,
+          40.7593381705146
+        ],
+        [
+          -73.8841772619577,
+          40.7594354132284
+        ],
+        [
+          -73.8837135568709,
+          40.7594845721731
+        ],
+        [
+          -73.8832466045686,
+          40.7595340690541
+        ],
+        [
+          -73.8827820103083,
+          40.7595831789542
+        ],
+        [
+          -73.882317438275,
+          40.7596322875063
+        ],
+        [
+          -73.8818604941408,
+          40.7596802316708
+        ],
+        [
+          -73.8813872747325,
+          40.7597298760848
+        ],
+        [
+          -73.88046033183,
+          40.7598270284466
+        ],
+        [
+          -73.8800185219978,
+          40.7598737458396
+        ],
+        [
+          -73.8795287403383,
+          40.7599255276291
+        ],
+        [
+          -73.8785976952797,
+          40.760021759259
+        ],
+        [
+          -73.8776691018295,
+          40.7601220938755
+        ],
+        [
+          -73.8767394014638,
+          40.7602186632199
+        ],
+        [
+          -73.8764568412034,
+          40.758667743069
+        ],
+        [
+          -73.876069287211,
+          40.7565445014829
+        ],
+        [
+          -73.8751401522393,
+          40.7566420856312
+        ],
+        [
+          -73.8742094399021,
+          40.7567398324464
+        ],
+        [
+          -73.8736586265611,
+          40.7568117552583
+        ],
+        [
+          -73.8727120828562,
+          40.7550717902903
+        ],
+        [
+          -73.8726938154333,
+          40.7550382085768
+        ],
+        [
+          -73.8738804047926,
+          40.7549122188592
+        ],
+        [
+          -73.8738715688031,
+          40.7548635277488
+        ],
+        [
+          -73.8736566670865,
+          40.7536801888352
+        ],
+        [
+          -73.8735294145728,
+          40.7529700532608
+        ],
+        [
+          -73.8731613316709,
+          40.7509232823865
+        ],
+        [
+          -73.8740864719093,
+          40.750830978035
+        ],
+        [
+          -73.8750166176417,
+          40.7507327826342
+        ],
+        [
+          -73.8759468649328,
+          40.7506355881741
+        ],
+        [
+          -73.8768769913642,
+          40.7505383053259
+        ],
+        [
+          -73.8778037303686,
+          40.7504401722358
+        ],
+        [
+          -73.8787337453401,
+          40.750342424136
+        ],
+        [
+          -73.8796633789372,
+          40.7502447751794
+        ],
+        [
+          -73.8805945390066,
+          40.7501462749663
+        ],
+        [
+          -73.8815213257719,
+          40.7500480580776
+        ],
+        [
+          -73.8824519961431,
+          40.7499485515974
+        ],
+        [
+          -73.8833816144249,
+          40.7498533675909
+        ],
+        [
+          -73.8843120196111,
+          40.7497534482764
+        ],
+        [
+          -73.8852423999483,
+          40.7496594210289
+        ],
+        [
+          -73.8848567971404,
+          40.7475430790159
+        ],
+        [
+          -73.883937206147,
+          40.7476385100174
+        ],
+        [
+          -73.8837470012945,
+          40.7465783126251
+        ],
+        [
+          -73.8834041079495,
+          40.7464258711855
+        ],
+        [
+          -73.8829906725313,
+          40.7470479896137
+        ],
+        [
+          -73.8828943416842,
+          40.7472007172965
+        ],
+        [
+          -73.8825629115227,
+          40.7476713627603
+        ],
+        [
+          -73.8798190554074,
+          40.7464501739184
+        ],
+        [
+          -73.8793641160235,
+          40.7470420158001
+        ],
+        [
+          -73.8775373118058,
+          40.7462299557243
+        ],
+        [
+          -73.8771601341553,
+          40.7468732995075
+        ],
+        [
+          -73.8767902151001,
+          40.7475188927794
+        ],
+        [
+          -73.8764197243858,
+          40.7481492376253
+        ],
+        [
+          -73.8744431252802,
+          40.7472705821066
+        ],
+        [
+          -73.8723859090896,
+          40.7463553595159
+        ],
+        [
+          -73.871772320631,
+          40.746112352115
+        ],
+        [
+          -73.8716889289945,
+          40.7457434017669
+        ],
+        [
+          -73.8715961811832,
+          40.7453330813134
+        ],
+        [
+          -73.8715705030436,
+          40.7452084766804
+        ],
+        [
+          -73.8713640635353,
+          40.7442795167304
+        ],
+        [
+          -73.8708272249844,
+          40.7445658084743
+        ],
+        [
+          -73.8706337374597,
+          40.7446859532021
+        ],
+        [
+          -73.8701285710659,
+          40.7449996435313
+        ],
+        [
+          -73.8692894047287,
+          40.7452501795841
+        ],
+        [
+          -73.868087148821,
+          40.7456088502072
+        ],
+        [
+          -73.8679110448243,
+          40.7449419841195
+        ],
+        [
+          -73.8678773575365,
+          40.7448235741399
+        ],
+        [
+          -73.8678523813357,
+          40.7447248129344
+        ],
+        [
+          -73.86782831687,
+          40.7446377243364
+        ],
+        [
+          -73.8676864555255,
+          40.7440799856446
+        ],
+        [
+          -73.8674927565726,
+          40.7433103141808
+        ],
+        [
+          -73.8674730982462,
+          40.7421039895099
+        ],
+        [
+          -73.8675587014598,
+          40.7416859642319
+        ],
+        [
+          -73.8675639401548,
+          40.7409501558549
+        ],
+        [
+          -73.8673192003198,
+          40.7402696118283
+        ],
+        [
+          -73.867148103833,
+          40.7398454909614
+        ],
+        [
+          -73.8670411436447,
+          40.7395804569199
+        ],
+        [
+          -73.8667615272788,
+          40.7388986367922
+        ],
+        [
+          -73.8664815210782,
+          40.7382192308606
+        ],
+        [
+          -73.8660960425572,
+          40.7372596957372
+        ],
+        [
+          -73.8658309654528,
+          40.7366514894938
+        ],
+        [
+          -73.8655020213961,
+          40.7359975978709
+        ],
+        [
+          -73.865160059129,
+          40.7353332797237
+        ],
+        [
+          -73.8648164583942,
+          40.7346684814524
+        ],
+        [
+          -73.8646233387462,
+          40.7342899556741
+        ],
+        [
+          -73.8645738909244,
+          40.7341966630575
+        ],
+        [
+          -73.8645037067188,
+          40.7340836649835
+        ],
+        [
+          -73.8644722675711,
+          40.7340155404405
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "OBJECTID": 6,
+    "CounDist": 25,
+    "Shape__Area": 63560955.1930237,
+    "Shape__Length": 44473.2127906555,
+    "id": 25,
+    "council_member": {
+      "person_id": "7563",
+      "councildist": "NYCC25",
+      "last_name": "Dromm",
+      "first_name": "Daniel",
+      "photo_url": "https://raw.githubusercontent.com/NewYorkCityCouncil/districts/master/thumbnails/district-25.jpg",
+      "facebook_url": "https://www.facebook.com/Daniel-Dromm-18241697139",
+      "twitter_url": "https://twitter.com/dromm25",
+      "twitter_handle": "dromm25",
+      "instagram_url": "https://www.instagram.com/dromm25/",
+      "instagram_handle": "dromm25",
+      "party": "democrat",
+      "title": "council-member",
+      "gender": "male",
+      "city_council_url": "https://council.nyc.gov/district-25",
+      "city_council_committees_url": "http://legistar.council.nyc.gov/Departments.aspx",
+      "city_council_legislation_url": "http://legistar.council.nyc.gov/Legislation.aspx",
+      "city_council_council_calendar_url": "https://legistar.council.nyc.gov/Calendar.aspx",
+      "PersonId": 7563,
+      "PersonGuid": "E922D38E-695B-4151-9DA7-8F8A0101CA6D",
+      "PersonLastModifiedUtc": "2015-08-25T15:57:04.463",
+      "PersonRowVersion": "AAAAAOXGpGM=",
+      "PersonFullName": "Daniel Dromm ",
+      "PersonActiveFlag": 1,
+      "PersonUsedSponsorFlag": 0,
+      "PersonAddress1": "37-32 75th Street, Jackson Heights",
+      "PersonCity1": "Queens",
+      "PersonState1": "NY",
+      "PersonZip1": "11372",
+      "PersonPhone": "718-803-6373",
+      "PersonFax": "718-803-9832",
+      "PersonEmail": "Ddromm@council.nyc.gov",
+      "PersonWWW": "http://council.nyc.gov/d25/html/members/home.shtml",
+      "PersonAddress2": "250 Broadway - 18th Floor - Suite 1826",
+      "PersonCity2": "New York",
+      "PersonState2": "NY",
+      "PersonZip2": "10007",
+      "PersonPhone2": "212-788-7066",
+      "PersonFax2": "",
+      "PersonEmail2": "",
+      "PersonWWW2": "",
+      "committees": [
+        {
+          "OfficeRecordId": 3851,
+          "OfficeRecordGuid": "414B764F-15FC-4F7A-8047-0CA22C39490F",
+          "OfficeRecordLastModifiedUtc": "2018-01-11T15:13:08.587",
+          "OfficeRecordRowVersion": "AAAAAOV8hVg=",
+          "OfficeRecordFirstName": "Daniel",
+          "OfficeRecordLastName": "Dromm",
+          "OfficeRecordEmail": "Ddromm@council.nyc.gov",
+          "OfficeRecordFullName": "Daniel Dromm ",
+          "OfficeRecordStartDate": "2018-01-11T00:00:00",
+          "OfficeRecordEndDate": "2021-12-31T00:00:00",
+          "OfficeRecordSort": 50,
+          "OfficeRecordPersonId": 7563,
+          "OfficeRecordBodyId": 3,
+          "OfficeRecordBodyName": "Committee on Aging",
+          "OfficeRecordTitle": "Committee Member",
+          "OfficeRecordVoteDivider": 1.0,
+          "OfficeRecordExtendFlag": 0,
+          "OfficeRecordMemberTypeId": 3,
+          "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+          "OfficeRecordSupportNameId": null,
+          "OfficeRecordSupportFullName": null
+        },
+        {
+          "OfficeRecordId": 3857,
+          "OfficeRecordGuid": "486A05F1-2C50-4BBC-8858-45FD54834E1C",
+          "OfficeRecordLastModifiedUtc": "2018-01-11T15:46:18.743",
+          "OfficeRecordRowVersion": "AAAAAOV8hW8=",
+          "OfficeRecordFirstName": "Daniel",
+          "OfficeRecordLastName": "Dromm",
+          "OfficeRecordEmail": "Ddromm@council.nyc.gov",
+          "OfficeRecordFullName": "Daniel Dromm ",
+          "OfficeRecordStartDate": "2018-01-11T00:00:00",
+          "OfficeRecordEndDate": "2021-12-31T00:00:00",
+          "OfficeRecordSort": 20,
+          "OfficeRecordPersonId": 7563,
+          "OfficeRecordBodyId": 5235,
+          "OfficeRecordBodyName": "Committee on Civil and Human Rights",
+          "OfficeRecordTitle": "Committee Member",
+          "OfficeRecordVoteDivider": 1.0,
+          "OfficeRecordExtendFlag": 0,
+          "OfficeRecordMemberTypeId": 3,
+          "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+          "OfficeRecordSupportNameId": null,
+          "OfficeRecordSupportFullName": null
+        },
+        {
+          "OfficeRecordId": 3865,
+          "OfficeRecordGuid": "AF0D8C6F-38CC-4E98-BE1A-9C7B3CC43B66",
+          "OfficeRecordLastModifiedUtc": "2018-01-11T19:10:55.997",
+          "OfficeRecordRowVersion": "AAAAAOV8hUM=",
+          "OfficeRecordFirstName": "Daniel",
+          "OfficeRecordLastName": "Dromm",
+          "OfficeRecordEmail": "Ddromm@council.nyc.gov",
+          "OfficeRecordFullName": "Daniel Dromm ",
+          "OfficeRecordStartDate": "2018-01-11T00:00:00",
+          "OfficeRecordEndDate": "2021-12-31T00:00:00",
+          "OfficeRecordSort": 30,
+          "OfficeRecordPersonId": 7563,
+          "OfficeRecordBodyId": 4,
+          "OfficeRecordBodyName": "Committee on Civil Service and Labor",
+          "OfficeRecordTitle": "Committee Member",
+          "OfficeRecordVoteDivider": 1.0,
+          "OfficeRecordExtendFlag": 0,
+          "OfficeRecordMemberTypeId": 3,
+          "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+          "OfficeRecordSupportNameId": null,
+          "OfficeRecordSupportFullName": null
+        },
+        {
+          "OfficeRecordId": 3911,
+          "OfficeRecordGuid": "1DFCE0B7-A61E-425F-A42D-9F47A16F1721",
+          "OfficeRecordLastModifiedUtc": "2018-01-11T20:38:31.213",
+          "OfficeRecordRowVersion": "AAAAAOV8ieE=",
+          "OfficeRecordFirstName": "Daniel",
+          "OfficeRecordLastName": "Dromm",
+          "OfficeRecordEmail": "Ddromm@council.nyc.gov",
+          "OfficeRecordFullName": "Daniel Dromm ",
+          "OfficeRecordStartDate": "2018-01-11T00:00:00",
+          "OfficeRecordEndDate": "2021-12-31T00:00:00",
+          "OfficeRecordSort": 90,
+          "OfficeRecordPersonId": 7563,
+          "OfficeRecordBodyId": 9,
+          "OfficeRecordBodyName": "Committee on Education",
+          "OfficeRecordTitle": "Committee Member",
+          "OfficeRecordVoteDivider": 1.0,
+          "OfficeRecordExtendFlag": 0,
+          "OfficeRecordMemberTypeId": 3,
+          "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+          "OfficeRecordSupportNameId": null,
+          "OfficeRecordSupportFullName": null
+        },
+        {
+          "OfficeRecordId": 3929,
+          "OfficeRecordGuid": "45A187DE-05FE-47F2-A31C-8861BFA5DC1A",
+          "OfficeRecordLastModifiedUtc": "2018-01-11T20:56:55.92",
+          "OfficeRecordRowVersion": "AAAAAOV8ij8=",
+          "OfficeRecordFirstName": "Daniel",
+          "OfficeRecordLastName": "Dromm",
+          "OfficeRecordEmail": "Ddromm@council.nyc.gov",
+          "OfficeRecordFullName": "Daniel Dromm ",
+          "OfficeRecordStartDate": "2018-01-11T00:00:00",
+          "OfficeRecordEndDate": "2021-12-31T00:00:00",
+          "OfficeRecordSort": 10,
+          "OfficeRecordPersonId": 7563,
+          "OfficeRecordBodyId": 11,
+          "OfficeRecordBodyName": "Committee on Finance",
+          "OfficeRecordTitle": "CHAIRPERSON",
+          "OfficeRecordVoteDivider": 1.0,
+          "OfficeRecordExtendFlag": 0,
+          "OfficeRecordMemberTypeId": 3,
+          "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+          "OfficeRecordSupportNameId": null,
+          "OfficeRecordSupportFullName": null
+        },
+        {
+          "OfficeRecordId": 4001,
+          "OfficeRecordGuid": "96FCAAD9-7D80-4643-A342-D5B7CB838B7D",
+          "OfficeRecordLastModifiedUtc": "2018-01-12T16:23:07.55",
+          "OfficeRecordRowVersion": "AAAAAOV8keE=",
+          "OfficeRecordFirstName": "Daniel",
+          "OfficeRecordLastName": "Dromm",
+          "OfficeRecordEmail": "Ddromm@council.nyc.gov",
+          "OfficeRecordFullName": "Daniel Dromm ",
+          "OfficeRecordStartDate": "2018-01-11T00:00:00",
+          "OfficeRecordEndDate": "2021-12-31T00:00:00",
+          "OfficeRecordSort": 20,
+          "OfficeRecordPersonId": 7563,
+          "OfficeRecordBodyId": 5119,
+          "OfficeRecordBodyName": "Committee on Immigration",
+          "OfficeRecordTitle": "Committee Member",
+          "OfficeRecordVoteDivider": 1.0,
+          "OfficeRecordExtendFlag": 0,
+          "OfficeRecordMemberTypeId": 3,
+          "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+          "OfficeRecordSupportNameId": null,
+          "OfficeRecordSupportFullName": null
+        },
+        {
+          "OfficeRecordId": 4191,
+          "OfficeRecordGuid": "E10DFEB4-19E3-4A10-8CBA-202C0D9EC953",
+          "OfficeRecordLastModifiedUtc": "2019-02-28T13:52:26.023",
+          "OfficeRecordRowVersion": "AAAAAOXGpGA=",
+          "OfficeRecordFirstName": "Daniel",
+          "OfficeRecordLastName": "Dromm",
+          "OfficeRecordEmail": "Ddromm@council.nyc.gov",
+          "OfficeRecordFullName": "Daniel Dromm ",
+          "OfficeRecordStartDate": "2018-01-01T00:00:00",
+          "OfficeRecordEndDate": "2021-12-31T00:00:00",
+          "OfficeRecordSort": 15,
+          "OfficeRecordPersonId": 7563,
+          "OfficeRecordBodyId": 5257,
+          "OfficeRecordBodyName": "Democratic Conference of the Council of the City of New York ",
+          "OfficeRecordTitle": "Council Member",
+          "OfficeRecordVoteDivider": 1.0,
+          "OfficeRecordExtendFlag": 0,
+          "OfficeRecordMemberTypeId": 3,
+          "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+          "OfficeRecordSupportNameId": null,
+          "OfficeRecordSupportFullName": null
+        }
+      ]
+    }
+  }
+}

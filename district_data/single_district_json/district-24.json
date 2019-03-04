@@ -1,0 +1,1999 @@
+{
+  "id": 24,
+  "district": 24,
+  "council_member": {
+    "person_id": "7633",
+    "councildist": "NYCC24",
+    "last_name": "Lancman",
+    "first_name": "Rory",
+    "photo_url": "https://raw.githubusercontent.com/NewYorkCityCouncil/districts/master/thumbnails/district-24.jpg",
+    "facebook_url": "https://www.facebook.com/RoryLancman",
+    "twitter_url": "https://twitter.com/RoryLancman",
+    "twitter_handle": "RoryLancman",
+    "instagram_url": "https://www.instagram.com/rorylancman/",
+    "instagram_handle": "rorylancman",
+    "party": "democrat",
+    "title": "council-member",
+    "gender": "male",
+    "city_council_url": "https://council.nyc.gov/district-24",
+    "city_council_committees_url": "http://legistar.council.nyc.gov/Departments.aspx",
+    "city_council_legislation_url": "http://legistar.council.nyc.gov/Legislation.aspx",
+    "city_council_council_calendar_url": "https://legistar.council.nyc.gov/Calendar.aspx",
+    "PersonId": 7633,
+    "PersonGuid": "8423EA77-8814-4539-8DCC-9BDC963AC351",
+    "PersonLastModifiedUtc": "2015-08-25T15:57:04.463",
+    "PersonRowVersion": "AAAAAOXGpI8=",
+    "PersonFullName": "Rory I. Lancman",
+    "PersonActiveFlag": 1,
+    "PersonUsedSponsorFlag": 0,
+    "PersonAddress1": "78-40 164th Street, Suite BB, Hillcrest",
+    "PersonCity1": "Queens",
+    "PersonState1": "NY",
+    "PersonZip1": "11366",
+    "PersonPhone": "718-217-4969",
+    "PersonFax": "347-561-6116",
+    "PersonEmail": "Rlancman@council.nyc.gov",
+    "PersonWWW": "http://council.nyc.gov/d24/html/members/home.shtml",
+    "PersonAddress2": "250 Broadway - 17th Floor - Suite 1773",
+    "PersonCity2": "New York",
+    "PersonState2": "NY",
+    "PersonZip2": "10007",
+    "PersonPhone2": "212-788-6956",
+    "PersonFax2": "",
+    "PersonEmail2": "",
+    "PersonWWW2": "",
+    "committees": [
+      {
+        "OfficeRecordId": 3836,
+        "OfficeRecordGuid": "61770D28-C6FC-4E48-B6BC-23EC5B9390F6",
+        "OfficeRecordLastModifiedUtc": "2018-01-02T20:52:44.96",
+        "OfficeRecordRowVersion": "AAAAAOV8k9I=",
+        "OfficeRecordFirstName": "Rory I.",
+        "OfficeRecordLastName": "Lancman",
+        "OfficeRecordEmail": "Rlancman@council.nyc.gov",
+        "OfficeRecordFullName": "Rory I. Lancman",
+        "OfficeRecordStartDate": "2018-01-03T00:00:00",
+        "OfficeRecordEndDate": "2018-01-11T00:00:00",
+        "OfficeRecordSort": 10,
+        "OfficeRecordPersonId": 7633,
+        "OfficeRecordBodyId": 20,
+        "OfficeRecordBodyName": "Committee on Rules, Privileges and Elections",
+        "OfficeRecordTitle": "CHAIRPERSON",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 1,
+        "OfficeRecordMemberType": "CHAIR",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 3883,
+        "OfficeRecordGuid": "476D4D08-ED57-44AF-9816-E97E6F8E62EF",
+        "OfficeRecordLastModifiedUtc": "2018-01-11T20:03:57.437",
+        "OfficeRecordRowVersion": "AAAAAOV8hjI=",
+        "OfficeRecordFirstName": "Rory I.",
+        "OfficeRecordLastName": "Lancman",
+        "OfficeRecordEmail": "Rlancman@council.nyc.gov",
+        "OfficeRecordFullName": "Rory I. Lancman",
+        "OfficeRecordStartDate": "2018-01-11T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 40,
+        "OfficeRecordPersonId": 7633,
+        "OfficeRecordBodyId": 5237,
+        "OfficeRecordBodyName": "Committee on Criminal Justice",
+        "OfficeRecordTitle": "Committee Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 3936,
+        "OfficeRecordGuid": "8A95388C-4B44-48B3-9738-0BB1A03D7EB8",
+        "OfficeRecordLastModifiedUtc": "2018-01-11T21:00:06.513",
+        "OfficeRecordRowVersion": "AAAAAOV8ils=",
+        "OfficeRecordFirstName": "Rory I.",
+        "OfficeRecordLastName": "Lancman",
+        "OfficeRecordEmail": "Rlancman@council.nyc.gov",
+        "OfficeRecordFullName": "Rory I. Lancman",
+        "OfficeRecordStartDate": "2018-01-11T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 80,
+        "OfficeRecordPersonId": 7633,
+        "OfficeRecordBodyId": 11,
+        "OfficeRecordBodyName": "Committee on Finance",
+        "OfficeRecordTitle": "Committee Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4007,
+        "OfficeRecordGuid": "99DAC664-076D-40D8-8B54-5C02EB3F7D29",
+        "OfficeRecordLastModifiedUtc": "2018-01-12T16:30:29.537",
+        "OfficeRecordRowVersion": "AAAAAOV8kgo=",
+        "OfficeRecordFirstName": "Rory I.",
+        "OfficeRecordLastName": "Lancman",
+        "OfficeRecordEmail": "Rlancman@council.nyc.gov",
+        "OfficeRecordFullName": "Rory I. Lancman",
+        "OfficeRecordStartDate": "2018-01-11T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 10,
+        "OfficeRecordPersonId": 7633,
+        "OfficeRecordBodyId": 5242,
+        "OfficeRecordBodyName": "Committee on Justice System",
+        "OfficeRecordTitle": "CHAIRPERSON",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4030,
+        "OfficeRecordGuid": "56BA5E27-3595-44BC-B9FF-6A818D630394",
+        "OfficeRecordLastModifiedUtc": "2018-01-12T16:47:52.58",
+        "OfficeRecordRowVersion": "AAAAAOV8knU=",
+        "OfficeRecordFirstName": "Rory I.",
+        "OfficeRecordLastName": "Lancman",
+        "OfficeRecordEmail": "Rlancman@council.nyc.gov",
+        "OfficeRecordFullName": "Rory I. Lancman",
+        "OfficeRecordStartDate": "2018-01-11T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 120,
+        "OfficeRecordPersonId": 7633,
+        "OfficeRecordBodyId": 17,
+        "OfficeRecordBodyName": "Committee on Land Use",
+        "OfficeRecordTitle": "Committee Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4046,
+        "OfficeRecordGuid": "7AB6C278-FD2C-4A6B-87F8-90C0D47C51E9",
+        "OfficeRecordLastModifiedUtc": "2018-01-12T17:21:45.47",
+        "OfficeRecordRowVersion": "AAAAAOV8ktg=",
+        "OfficeRecordFirstName": "Rory I.",
+        "OfficeRecordLastName": "Lancman",
+        "OfficeRecordEmail": "Rlancman@council.nyc.gov",
+        "OfficeRecordFullName": "Rory I. Lancman",
+        "OfficeRecordStartDate": "2018-01-11T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 30,
+        "OfficeRecordPersonId": 7633,
+        "OfficeRecordBodyId": 5107,
+        "OfficeRecordBodyName": "Committee on Oversight and Investigations",
+        "OfficeRecordTitle": "Committee Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4079,
+        "OfficeRecordGuid": "C9DF9F9E-14F4-4E5F-B0CA-D421F4051AFB",
+        "OfficeRecordLastModifiedUtc": "2018-01-12T17:51:18.107",
+        "OfficeRecordRowVersion": "AAAAAOV8k6k=",
+        "OfficeRecordFirstName": "Rory I.",
+        "OfficeRecordLastName": "Lancman",
+        "OfficeRecordEmail": "Rlancman@council.nyc.gov",
+        "OfficeRecordFullName": "Rory I. Lancman",
+        "OfficeRecordStartDate": "2018-01-11T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 70,
+        "OfficeRecordPersonId": 7633,
+        "OfficeRecordBodyId": 19,
+        "OfficeRecordBodyName": "Committee on Public Safety",
+        "OfficeRecordTitle": "Committee Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4088,
+        "OfficeRecordGuid": "68A20FD3-323E-4192-86FA-15C50B18D2D0",
+        "OfficeRecordLastModifiedUtc": "2018-01-12T18:02:23.32",
+        "OfficeRecordRowVersion": "AAAAAOV8k+A=",
+        "OfficeRecordFirstName": "Rory I.",
+        "OfficeRecordLastName": "Lancman",
+        "OfficeRecordEmail": "Rlancman@council.nyc.gov",
+        "OfficeRecordFullName": "Rory I. Lancman",
+        "OfficeRecordStartDate": "2018-01-11T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 80,
+        "OfficeRecordPersonId": 7633,
+        "OfficeRecordBodyId": 20,
+        "OfficeRecordBodyName": "Committee on Rules, Privileges and Elections",
+        "OfficeRecordTitle": "Committee Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4162,
+        "OfficeRecordGuid": "F7D379E1-F020-4431-B80B-CB124038B011",
+        "OfficeRecordLastModifiedUtc": "2018-01-12T19:13:46.86",
+        "OfficeRecordRowVersion": "AAAAAOV8lds=",
+        "OfficeRecordFirstName": "Rory I.",
+        "OfficeRecordLastName": "Lancman",
+        "OfficeRecordEmail": "Rlancman@council.nyc.gov",
+        "OfficeRecordFullName": "Rory I. Lancman",
+        "OfficeRecordStartDate": "2018-01-04T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 40,
+        "OfficeRecordPersonId": 7633,
+        "OfficeRecordBodyId": 34,
+        "OfficeRecordBodyName": "Subcommittee on Zoning and Franchises",
+        "OfficeRecordTitle": "Committee Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4202,
+        "OfficeRecordGuid": "D399FB02-99DD-41E8-8E70-EBE4B5BE5367",
+        "OfficeRecordLastModifiedUtc": "2019-02-28T13:59:41.48",
+        "OfficeRecordRowVersion": "AAAAAOXGpIw=",
+        "OfficeRecordFirstName": "Rory I.",
+        "OfficeRecordLastName": "Lancman",
+        "OfficeRecordEmail": "Rlancman@council.nyc.gov",
+        "OfficeRecordFullName": "Rory I. Lancman",
+        "OfficeRecordStartDate": "2018-01-01T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 26,
+        "OfficeRecordPersonId": 7633,
+        "OfficeRecordBodyId": 5257,
+        "OfficeRecordBodyName": "Democratic Conference of the Council of the City of New York ",
+        "OfficeRecordTitle": "Council Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      }
+    ]
+  },
+  "district_boundaries": {
+    "type": "Feature",
+    "id": 22,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -73.7866922333339,
+            40.7408612561879
+          ],
+          [
+            -73.7866774923899,
+            40.7408315579814
+          ],
+          [
+            -73.7865751951446,
+            40.7406189111311
+          ],
+          [
+            -73.7866192190158,
+            40.7406059172996
+          ],
+          [
+            -73.7883686751125,
+            40.740127317547
+          ],
+          [
+            -73.7892518598135,
+            40.73988208117
+          ],
+          [
+            -73.7885332994442,
+            40.7383596573816
+          ],
+          [
+            -73.7875757453584,
+            40.7363444178099
+          ],
+          [
+            -73.7867200315064,
+            40.7345403110204
+          ],
+          [
+            -73.7856547106293,
+            40.7322808601802
+          ],
+          [
+            -73.7847868884377,
+            40.7325655149507
+          ],
+          [
+            -73.7839255704062,
+            40.7328455809806
+          ],
+          [
+            -73.7830263103202,
+            40.733138987603
+          ],
+          [
+            -73.7821354312998,
+            40.7312605223109
+          ],
+          [
+            -73.7811829841353,
+            40.7292652001507
+          ],
+          [
+            -73.781161927227,
+            40.7292210260622
+          ],
+          [
+            -73.781135824338,
+            40.7291641550709
+          ],
+          [
+            -73.7808004834108,
+            40.7284335084324
+          ],
+          [
+            -73.780486706912,
+            40.7277598511077
+          ],
+          [
+            -73.7803385631656,
+            40.7274476664265
+          ],
+          [
+            -73.7801719889011,
+            40.7270900524513
+          ],
+          [
+            -73.779853921689,
+            40.7264112242287
+          ],
+          [
+            -73.7795579714467,
+            40.7258220392464
+          ],
+          [
+            -73.7790677959537,
+            40.7249725373
+          ],
+          [
+            -73.778444192963,
+            40.723951103716
+          ],
+          [
+            -73.778039034558,
+            40.723292535136
+          ],
+          [
+            -73.7778773952055,
+            40.7230449697278
+          ],
+          [
+            -73.7777503304663,
+            40.7228503759329
+          ],
+          [
+            -73.7775800582338,
+            40.7226504845652
+          ],
+          [
+            -73.7773818654289,
+            40.7224573288215
+          ],
+          [
+            -73.7773270035938,
+            40.7224009677166
+          ],
+          [
+            -73.777279456343,
+            40.7223546029157
+          ],
+          [
+            -73.777233331976,
+            40.7222982901843
+          ],
+          [
+            -73.7771782570523,
+            40.7222388308314
+          ],
+          [
+            -73.776818493973,
+            40.7218647445964
+          ],
+          [
+            -73.7767097595214,
+            40.7216272946263
+          ],
+          [
+            -73.7762092940181,
+            40.7205457167151
+          ],
+          [
+            -73.7755121463807,
+            40.719102638417
+          ],
+          [
+            -73.7751985216277,
+            40.7184689919419
+          ],
+          [
+            -73.7749072702211,
+            40.717846295307
+          ],
+          [
+            -73.7742493638071,
+            40.7165255391347
+          ],
+          [
+            -73.7739238002339,
+            40.7158144582791
+          ],
+          [
+            -73.773572725553,
+            40.7151283605247
+          ],
+          [
+            -73.7744437571733,
+            40.7149133086742
+          ],
+          [
+            -73.7753006535522,
+            40.7147045784744
+          ],
+          [
+            -73.7757159589501,
+            40.7146067199566
+          ],
+          [
+            -73.7761876577916,
+            40.7144938391624
+          ],
+          [
+            -73.7771248455142,
+            40.7142702588119
+          ],
+          [
+            -73.7773077144196,
+            40.7142175814553
+          ],
+          [
+            -73.778002572022,
+            40.7140593885081
+          ],
+          [
+            -73.7788709502525,
+            40.7138575617321
+          ],
+          [
+            -73.7797269130183,
+            40.7136440349011
+          ],
+          [
+            -73.7799814282043,
+            40.7135828355296
+          ],
+          [
+            -73.7804217182396,
+            40.7134769743142
+          ],
+          [
+            -73.7805903053606,
+            40.7134364403488
+          ],
+          [
+            -73.7817841165598,
+            40.7131482578094
+          ],
+          [
+            -73.7822726429026,
+            40.7130333947617
+          ],
+          [
+            -73.7823678773754,
+            40.7130110079695
+          ],
+          [
+            -73.7824718094547,
+            40.7129848454712
+          ],
+          [
+            -73.7826268516884,
+            40.7129458129032
+          ],
+          [
+            -73.7835621351695,
+            40.7127190527075
+          ],
+          [
+            -73.7844628226252,
+            40.7125021690234
+          ],
+          [
+            -73.785354099474,
+            40.7122918804261
+          ],
+          [
+            -73.7857533633213,
+            40.7121722165148
+          ],
+          [
+            -73.7861614378386,
+            40.712068335578
+          ],
+          [
+            -73.7865766648056,
+            40.7119807567458
+          ],
+          [
+            -73.7869973651359,
+            40.71190987306
+          ],
+          [
+            -73.7874217856446,
+            40.711855942372
+          ],
+          [
+            -73.7878481629128,
+            40.7118190973683
+          ],
+          [
+            -73.7884361901678,
+            40.7119929511546
+          ],
+          [
+            -73.7884459321104,
+            40.711995959663
+          ],
+          [
+            -73.7884557097053,
+            40.7119989214094
+          ],
+          [
+            -73.7884655229438,
+            40.7120018390953
+          ],
+          [
+            -73.7884753600232,
+            40.7120047027934
+          ],
+          [
+            -73.7884852339325,
+            40.7120075215325
+          ],
+          [
+            -73.7884951293158,
+            40.7120102862795
+          ],
+          [
+            -73.7885050615577,
+            40.7120129970626
+          ],
+          [
+            -73.7885150294459,
+            40.7120156628845
+          ],
+          [
+            -73.7885250093121,
+            40.712018283702
+          ],
+          [
+            -73.7885350260624,
+            40.7120208424509
+          ],
+          [
+            -73.788545076098,
+            40.7120233544333
+          ],
+          [
+            -73.788555139292,
+            40.712025822314
+          ],
+          [
+            -73.7885652381867,
+            40.7120282281239
+          ],
+          [
+            -73.7885753608992,
+            40.7120305871498
+          ],
+          [
+            -73.7885855074466,
+            40.712032893989
+          ],
+          [
+            -73.7885956790208,
+            40.7120351459418
+          ],
+          [
+            -73.7886058602346,
+            40.7120373438807
+          ],
+          [
+            -73.7886160782781,
+            40.7120394968605
+          ],
+          [
+            -73.7886263083278,
+            40.7120415958308
+          ],
+          [
+            -73.7886365740837,
+            40.7120436309292
+          ],
+          [
+            -73.7886468399801,
+            40.7120456219018
+          ],
+          [
+            -73.7886571415513,
+            40.7120475589082
+          ],
+          [
+            -73.7886674551287,
+            40.7120494419049
+          ],
+          [
+            -73.7886777807094,
+            40.7120512717923
+          ],
+          [
+            -73.7886881301362,
+            40.7120530458908
+          ],
+          [
+            -73.7886985034005,
+            40.7120547669018
+          ],
+          [
+            -73.7887088768081,
+            40.7120564428865
+          ],
+          [
+            -73.7887192740817,
+            40.7120580567786
+          ],
+          [
+            -73.7887296845504,
+            40.7120596148621
+          ],
+          [
+            -73.7887401164897,
+            40.7120611198539
+          ],
+          [
+            -73.7887505497843,
+            40.7120625708163
+          ],
+          [
+            -73.7887609962938,
+            40.7120639596666
+          ],
+          [
+            -73.788771464251,
+            40.7120653026292
+          ],
+          [
+            -73.7887819335661,
+            40.7120665906619
+          ],
+          [
+            -73.78879241491,
+            40.7120678174809
+          ],
+          [
+            -73.7888029082369,
+            40.7120689974942
+          ],
+          [
+            -73.7888134017581,
+            40.7120701162719
+          ],
+          [
+            -73.7888239084429,
+            40.7120711891467
+          ],
+          [
+            -73.788834424798,
+            40.7120721981018
+          ],
+          [
+            -73.7888449425052,
+            40.7120731539281
+          ],
+          [
+            -73.7888554615673,
+            40.7120740557252
+          ],
+          [
+            -73.7888659902682,
+            40.7120749035081
+          ],
+          [
+            -73.7888765333701,
+            40.7120756882806
+          ],
+          [
+            -73.7888870624138,
+            40.7120764280006
+          ],
+          [
+            -73.7888976046722,
+            40.7120771056085
+          ],
+          [
+            -73.7889081482597,
+            40.7120777372916
+          ],
+          [
+            -73.7889186778487,
+            40.7120783050116
+          ],
+          [
+            -73.7889292206239,
+            40.7120788196246
+          ],
+          [
+            -73.7889397635702,
+            40.7120792802062
+          ],
+          [
+            -73.7889503078685,
+            40.7120796876589
+          ],
+          [
+            -73.7889608381396,
+            40.7120800401536
+          ],
+          [
+            -73.7889713815995,
+            40.7120803386408
+          ],
+          [
+            -73.7889819134249,
+            40.7120805740697
+          ],
+          [
+            -73.7889924335614,
+            40.7120807635501
+          ],
+          [
+            -73.7890029550467,
+            40.7120809008021
+          ],
+          [
+            -73.7890134743705,
+            40.7120809732123
+          ],
+          [
+            -73.7891501756541,
+            40.7120651495065
+          ],
+          [
+            -73.7892847300386,
+            40.71203999329
+          ],
+          [
+            -73.7894154998607,
+            40.7120057960423
+          ],
+          [
+            -73.7902168215721,
+            40.7117253092246
+          ],
+          [
+            -73.7910154862771,
+            40.7114408488476
+          ],
+          [
+            -73.7920299258529,
+            40.7110776349216
+          ],
+          [
+            -73.7930393805864,
+            40.7107193388116
+          ],
+          [
+            -73.7938974802658,
+            40.7103605927716
+          ],
+          [
+            -73.7947319037682,
+            40.7100207251132
+          ],
+          [
+            -73.7956180702181,
+            40.709761342038
+          ],
+          [
+            -73.7963955617747,
+            40.7095398427016
+          ],
+          [
+            -73.7973153886942,
+            40.7092784619314
+          ],
+          [
+            -73.7968902934954,
+            40.7086064608013
+          ],
+          [
+            -73.7963179901482,
+            40.7077313569186
+          ],
+          [
+            -73.7948967083359,
+            40.7054690088118
+          ],
+          [
+            -73.7956913131126,
+            40.7051566260784
+          ],
+          [
+            -73.7968004022239,
+            40.7047057270549
+          ],
+          [
+            -73.7970073779176,
+            40.7046185199474
+          ],
+          [
+            -73.7977050784949,
+            40.7043351686609
+          ],
+          [
+            -73.797962793675,
+            40.7042320378552
+          ],
+          [
+            -73.798548328675,
+            40.7039977894785
+          ],
+          [
+            -73.7991507528588,
+            40.7037597728279
+          ],
+          [
+            -73.8002028558335,
+            40.7033495465702
+          ],
+          [
+            -73.8006169006504,
+            40.7032296955727
+          ],
+          [
+            -73.8011074970241,
+            40.703087676855
+          ],
+          [
+            -73.8022869330956,
+            40.7027462346705
+          ],
+          [
+            -73.8034585940299,
+            40.7024167088497
+          ],
+          [
+            -73.8044435867059,
+            40.70214009792
+          ],
+          [
+            -73.8055163009682,
+            40.7018894949914
+          ],
+          [
+            -73.8063332544129,
+            40.701791824907
+          ],
+          [
+            -73.8068086117015,
+            40.7017844371719
+          ],
+          [
+            -73.8069898091236,
+            40.7017782403459
+          ],
+          [
+            -73.8079285296199,
+            40.7017737951908
+          ],
+          [
+            -73.8078822850608,
+            40.701196334386
+          ],
+          [
+            -73.8077433937313,
+            40.70058994827
+          ],
+          [
+            -73.8086756464952,
+            40.7002692535175
+          ],
+          [
+            -73.8088669051352,
+            40.7001611763634
+          ],
+          [
+            -73.8088669750741,
+            40.7001611314538
+          ],
+          [
+            -73.8088670591883,
+            40.7001610946724
+          ],
+          [
+            -73.8090703988738,
+            40.7000650690136
+          ],
+          [
+            -73.8090705292081,
+            40.7000650061938
+          ],
+          [
+            -73.8090706701654,
+            40.7000649523968
+          ],
+          [
+            -73.8092843013206,
+            40.6999820170994
+          ],
+          [
+            -73.8095060101315,
+            40.6999130356381
+          ],
+          [
+            -73.8095060811732,
+            40.6999130186459
+          ],
+          [
+            -73.8097333670167,
+            40.6998586153995
+          ],
+          [
+            -73.8106019767785,
+            40.6996089665761
+          ],
+          [
+            -73.8110592471196,
+            40.699479127324
+          ],
+          [
+            -73.81147536853,
+            40.6993609669744
+          ],
+          [
+            -73.8123268261648,
+            40.6991181758846
+          ],
+          [
+            -73.8131884972202,
+            40.6988727286529
+          ],
+          [
+            -73.8141828432162,
+            40.6985936920383
+          ],
+          [
+            -73.8142732066801,
+            40.6985671736572
+          ],
+          [
+            -73.8143483622071,
+            40.6985462778017
+          ],
+          [
+            -73.8144168736342,
+            40.6985272334481
+          ],
+          [
+            -73.8146708457545,
+            40.698978972401
+          ],
+          [
+            -73.8149248201609,
+            40.6994307008597
+          ],
+          [
+            -73.8149886573538,
+            40.6995570916208
+          ],
+          [
+            -73.8151407890574,
+            40.6998582690295
+          ],
+          [
+            -73.8153732943776,
+            40.7003185717706
+          ],
+          [
+            -73.8154086670571,
+            40.7003885984602
+          ],
+          [
+            -73.8154639092552,
+            40.7005011252462
+          ],
+          [
+            -73.8155191622889,
+            40.7006136520211
+          ],
+          [
+            -73.8159384171241,
+            40.7015133776296
+          ],
+          [
+            -73.8161399252438,
+            40.701945830266
+          ],
+          [
+            -73.8163796319757,
+            40.7024602253983
+          ],
+          [
+            -73.8165911549611,
+            40.7029236978523
+          ],
+          [
+            -73.8167010001749,
+            40.7031643559621
+          ],
+          [
+            -73.8169680905987,
+            40.7037495458465
+          ],
+          [
+            -73.8170987751332,
+            40.7040380629677
+          ],
+          [
+            -73.8173566784756,
+            40.7045584011897
+          ],
+          [
+            -73.8174014925872,
+            40.7046443137559
+          ],
+          [
+            -73.8181004400399,
+            40.7059819770754
+          ],
+          [
+            -73.8182180978662,
+            40.7061894962686
+          ],
+          [
+            -73.8182870514785,
+            40.7063111123235
+          ],
+          [
+            -73.8186141409691,
+            40.7068616609047
+          ],
+          [
+            -73.8186928407643,
+            40.7068284127631
+          ],
+          [
+            -73.818799434828,
+            40.7069982274227
+          ],
+          [
+            -73.8188669079448,
+            40.707114927583
+          ],
+          [
+            -73.8189959316587,
+            40.7073380751269
+          ],
+          [
+            -73.8190668835716,
+            40.7074607915602
+          ],
+          [
+            -73.8190723592395,
+            40.7074702735668
+          ],
+          [
+            -73.8191263406522,
+            40.7075586456248
+          ],
+          [
+            -73.819162333217,
+            40.7076172166273
+          ],
+          [
+            -73.8191819846741,
+            40.7076540523762
+          ],
+          [
+            -73.8192366668991,
+            40.7077498538148
+          ],
+          [
+            -73.8192893428359,
+            40.707840221081
+          ],
+          [
+            -73.819414452008,
+            40.708048237865
+          ],
+          [
+            -73.8195391562141,
+            40.7082876727772
+          ],
+          [
+            -73.8195472491142,
+            40.7084857515403
+          ],
+          [
+            -73.8196513774204,
+            40.7087630539556
+          ],
+          [
+            -73.8197027889486,
+            40.7088891342888
+          ],
+          [
+            -73.8197894796671,
+            40.7090887219844
+          ],
+          [
+            -73.8198820612117,
+            40.7092867726451
+          ],
+          [
+            -73.8199854572602,
+            40.7094370012815
+          ],
+          [
+            -73.8200960154138,
+            40.7095842477091
+          ],
+          [
+            -73.8203380155768,
+            40.7098690049661
+          ],
+          [
+            -73.8204691860473,
+            40.7099983881985
+          ],
+          [
+            -73.8205313696493,
+            40.7100666503914
+          ],
+          [
+            -73.8205608978202,
+            40.7101180778918
+          ],
+          [
+            -73.8209553862003,
+            40.710521238522
+          ],
+          [
+            -73.8211296474502,
+            40.7106888427301
+          ],
+          [
+            -73.821308537251,
+            40.7108535992283
+          ],
+          [
+            -73.8214919765233,
+            40.7110154340306
+          ],
+          [
+            -73.8216798814488,
+            40.711174274044
+          ],
+          [
+            -73.8218721681995,
+            40.711330048877
+          ],
+          [
+            -73.8220687505798,
+            40.7114826872342
+          ],
+          [
+            -73.822269540015,
+            40.7116321214185
+          ],
+          [
+            -73.8224744479275,
+            40.7117782837332
+          ],
+          [
+            -73.8226541506232,
+            40.7119187444282
+          ],
+          [
+            -73.8228299601713,
+            40.7120620300593
+          ],
+          [
+            -73.8230017998109,
+            40.7122080783907
+          ],
+          [
+            -73.8231695939673,
+            40.7123568253878
+          ],
+          [
+            -73.8233332682466,
+            40.7125082070173
+          ],
+          [
+            -73.823492752996,
+            40.7126621556515
+          ],
+          [
+            -73.8236479785559,
+            40.7128186054636
+          ],
+          [
+            -73.8237988776383,
+            40.7129774879287
+          ],
+          [
+            -73.8239454498248,
+            40.7132415623493
+          ],
+          [
+            -73.8242658818765,
+            40.7138246880177
+          ],
+          [
+            -73.8242907956065,
+            40.7138783290491
+          ],
+          [
+            -73.8245622019833,
+            40.7142632932892
+          ],
+          [
+            -73.8246948301469,
+            40.7144514070451
+          ],
+          [
+            -73.8248336150479,
+            40.7146482559747
+          ],
+          [
+            -73.8254619979994,
+            40.7155579092015
+          ],
+          [
+            -73.8255244657935,
+            40.7156621454254
+          ],
+          [
+            -73.8255522410325,
+            40.7157165082129
+          ],
+          [
+            -73.8255800198649,
+            40.7157708718993
+          ],
+          [
+            -73.8255913970977,
+            40.7157825345592
+          ],
+          [
+            -73.8257153848321,
+            40.7160624069977
+          ],
+          [
+            -73.8257416863717,
+            40.7161115508383
+          ],
+          [
+            -73.8257606393479,
+            40.7161666611507
+          ],
+          [
+            -73.8264364620978,
+            40.7162024201486
+          ],
+          [
+            -73.8264754348407,
+            40.7163161235257
+          ],
+          [
+            -73.8265022158707,
+            40.7164400212228
+          ],
+          [
+            -73.8267556445788,
+            40.7164523517571
+          ],
+          [
+            -73.8269617567157,
+            40.7164732933632
+          ],
+          [
+            -73.8277736224062,
+            40.7165482978027
+          ],
+          [
+            -73.829058635216,
+            40.7167350070287
+          ],
+          [
+            -73.8297099765177,
+            40.7168859525642
+          ],
+          [
+            -73.8302290428414,
+            40.7170161587503
+          ],
+          [
+            -73.8306808918678,
+            40.7171873279987
+          ],
+          [
+            -73.8310214900397,
+            40.7173399870057
+          ],
+          [
+            -73.8313860881148,
+            40.7175595809789
+          ],
+          [
+            -73.83155385009,
+            40.7176888266772
+          ],
+          [
+            -73.8318544478519,
+            40.7179204067618
+          ],
+          [
+            -73.832322657601,
+            40.718338160749
+          ],
+          [
+            -73.8327848535293,
+            40.718810692998
+          ],
+          [
+            -73.8337602752905,
+            40.7198465592461
+          ],
+          [
+            -73.8341296268052,
+            40.7202387964505
+          ],
+          [
+            -73.835549593835,
+            40.7219782890015
+          ],
+          [
+            -73.8358403313501,
+            40.7225422438065
+          ],
+          [
+            -73.8365753691965,
+            40.7241497651566
+          ],
+          [
+            -73.8372309770076,
+            40.7255665670494
+          ],
+          [
+            -73.8375127304618,
+            40.7255077348009
+          ],
+          [
+            -73.8375910424566,
+            40.725707740665
+          ],
+          [
+            -73.8376226228957,
+            40.7257883935234
+          ],
+          [
+            -73.8373689230963,
+            40.7258621015813
+          ],
+          [
+            -73.837684556283,
+            40.7265305556879
+          ],
+          [
+            -73.8379512457762,
+            40.7264558467423
+          ],
+          [
+            -73.8380828272765,
+            40.7264157790213
+          ],
+          [
+            -73.8382144074568,
+            40.7263757021431
+          ],
+          [
+            -73.8385984188547,
+            40.7270351987049
+          ],
+          [
+            -73.8389453758015,
+            40.7276310489446
+          ],
+          [
+            -73.8390009311718,
+            40.7277264564763
+          ],
+          [
+            -73.8392527099919,
+            40.7281588425321
+          ],
+          [
+            -73.8392023344164,
+            40.7282751280474
+          ],
+          [
+            -73.8398178993849,
+            40.7290456521934
+          ],
+          [
+            -73.8405514350578,
+            40.72985299523
+          ],
+          [
+            -73.8410040070552,
+            40.7302871653202
+          ],
+          [
+            -73.8414837105712,
+            40.7307473542666
+          ],
+          [
+            -73.8421238781682,
+            40.7313527019684
+          ],
+          [
+            -73.8427346838909,
+            40.7319591396914
+          ],
+          [
+            -73.8428472233542,
+            40.7320759084581
+          ],
+          [
+            -73.8437171606382,
+            40.7332339962035
+          ],
+          [
+            -73.8440806141965,
+            40.7338560665766
+          ],
+          [
+            -73.8442872404215,
+            40.7342097133241
+          ],
+          [
+            -73.8443557439141,
+            40.7343530589926
+          ],
+          [
+            -73.8444162263791,
+            40.7344795362422
+          ],
+          [
+            -73.8444290568523,
+            40.7345063626453
+          ],
+          [
+            -73.8445155544222,
+            40.7347114444358
+          ],
+          [
+            -73.8445884682787,
+            40.7348879706786
+          ],
+          [
+            -73.8446773543318,
+            40.735120611148
+          ],
+          [
+            -73.844701530091,
+            40.7352163940216
+          ],
+          [
+            -73.8447481570386,
+            40.7353708312219
+          ],
+          [
+            -73.8448021941988,
+            40.7355510698762
+          ],
+          [
+            -73.8448561772995,
+            40.7357597366077
+          ],
+          [
+            -73.8448904548084,
+            40.7359198474187
+          ],
+          [
+            -73.8449274543366,
+            40.736111427478
+          ],
+          [
+            -73.8450336382657,
+            40.7368989216895
+          ],
+          [
+            -73.8450721142573,
+            40.7373423661744
+          ],
+          [
+            -73.8451230301033,
+            40.7379038840919
+          ],
+          [
+            -73.8451553220182,
+            40.7381758893603
+          ],
+          [
+            -73.8452031057576,
+            40.7384936684952
+          ],
+          [
+            -73.8452234202295,
+            40.7386287757521
+          ],
+          [
+            -73.8453244905944,
+            40.7391544026473
+          ],
+          [
+            -73.8453749828152,
+            40.7394306295189
+          ],
+          [
+            -73.8454406457883,
+            40.7397152244349
+          ],
+          [
+            -73.8454860362062,
+            40.739909245942
+          ],
+          [
+            -73.8455048130493,
+            40.7399757295843
+          ],
+          [
+            -73.8454182890684,
+            40.7400181265044
+          ],
+          [
+            -73.8452345785128,
+            40.7401043547399
+          ],
+          [
+            -73.8447668692747,
+            40.7403318520746
+          ],
+          [
+            -73.84343911076,
+            40.740966749605
+          ],
+          [
+            -73.8431949817954,
+            40.7410866453032
+          ],
+          [
+            -73.8423904519497,
+            40.7414680562137
+          ],
+          [
+            -73.8419035621974,
+            40.7416925610843
+          ],
+          [
+            -73.8395936421205,
+            40.7427262127521
+          ],
+          [
+            -73.8391145244067,
+            40.7429222443619
+          ],
+          [
+            -73.8389279504849,
+            40.7429843501092
+          ],
+          [
+            -73.8387395737287,
+            40.7430432229058
+          ],
+          [
+            -73.8385494913192,
+            40.7430988331624
+          ],
+          [
+            -73.8383578004366,
+            40.7431511521905
+          ],
+          [
+            -73.8381645982575,
+            40.7432001531035
+          ],
+          [
+            -73.8379699866913,
+            40.7432458108231
+          ],
+          [
+            -73.8377877319327,
+            40.7432862041353
+          ],
+          [
+            -73.8376848243309,
+            40.7433086078879
+          ],
+          [
+            -73.8376071853515,
+            40.7433203221226
+          ],
+          [
+            -73.837318885789,
+            40.743353602392
+          ],
+          [
+            -73.8372332965526,
+            40.7433637202499
+          ],
+          [
+            -73.8371469000835,
+            40.743372757193
+          ],
+          [
+            -73.8367599140631,
+            40.743411047391
+          ],
+          [
+            -73.8361299619563,
+            40.7434440758788
+          ],
+          [
+            -73.8359170451785,
+            40.7434391621412
+          ],
+          [
+            -73.8349347035576,
+            40.7433756134667
+          ],
+          [
+            -73.8337660387636,
+            40.7432644487986
+          ],
+          [
+            -73.8325781123143,
+            40.743155054289
+          ],
+          [
+            -73.8319604565301,
+            40.7430870218608
+          ],
+          [
+            -73.8310575515483,
+            40.742993029627
+          ],
+          [
+            -73.8303250175842,
+            40.7429247937412
+          ],
+          [
+            -73.8299205423722,
+            40.7428890313873
+          ],
+          [
+            -73.8284735887098,
+            40.742741355225
+          ],
+          [
+            -73.8277823725729,
+            40.7426722263533
+          ],
+          [
+            -73.8270911555001,
+            40.7426030942294
+          ],
+          [
+            -73.826658081388,
+            40.7425345989058
+          ],
+          [
+            -73.8264699414681,
+            40.742500664475
+          ],
+          [
+            -73.8262289886902,
+            40.7424515737455
+          ],
+          [
+            -73.8258051202728,
+            40.742354236794
+          ],
+          [
+            -73.8253752696434,
+            40.7422405089519
+          ],
+          [
+            -73.825191949603,
+            40.7421931711594
+          ],
+          [
+            -73.8244609244009,
+            40.741957808995
+          ],
+          [
+            -73.8235735063166,
+            40.7416720812771
+          ],
+          [
+            -73.8230165860163,
+            40.7414928908933
+          ],
+          [
+            -73.8217020103674,
+            40.7410440216494
+          ],
+          [
+            -73.8212213657266,
+            40.740888072892
+          ],
+          [
+            -73.8210100186007,
+            40.7408179281459
+          ],
+          [
+            -73.8194846897108,
+            40.7402913700358
+          ],
+          [
+            -73.8189080455894,
+            40.7400984941859
+          ],
+          [
+            -73.8186318828381,
+            40.7400071712065
+          ],
+          [
+            -73.8177450834162,
+            40.7397125293773
+          ],
+          [
+            -73.8171606724391,
+            40.7395195433048
+          ],
+          [
+            -73.8166460673955,
+            40.7393605686943
+          ],
+          [
+            -73.8159373319161,
+            40.7391361289129
+          ],
+          [
+            -73.815226060757,
+            40.7389863167203
+          ],
+          [
+            -73.8151047084953,
+            40.7389607537035
+          ],
+          [
+            -73.8150513755606,
+            40.7389514018239
+          ],
+          [
+            -73.8149989469163,
+            40.7389408545951
+          ],
+          [
+            -73.8148963592627,
+            40.7389240114172
+          ],
+          [
+            -73.8140752090884,
+            40.7387891710237
+          ],
+          [
+            -73.8132254057144,
+            40.738710523233
+          ],
+          [
+            -73.8122787665202,
+            40.7386727196747
+          ],
+          [
+            -73.8113986788541,
+            40.7386375756884
+          ],
+          [
+            -73.8104057432507,
+            40.7385979168053
+          ],
+          [
+            -73.8094128088553,
+            40.738558240356
+          ],
+          [
+            -73.8089315535552,
+            40.7385406484179
+          ],
+          [
+            -73.8084503008745,
+            40.7385230553731
+          ],
+          [
+            -73.8080539715755,
+            40.7385085627654
+          ],
+          [
+            -73.8075222051741,
+            40.7384891166403
+          ],
+          [
+            -73.8065802247074,
+            40.7384554802964
+          ],
+          [
+            -73.8056468953417,
+            40.7384269207162
+          ],
+          [
+            -73.8047143013106,
+            40.7384022171043
+          ],
+          [
+            -73.8046668178274,
+            40.7384012540773
+          ],
+          [
+            -73.804616920489,
+            40.7383998465863
+          ],
+          [
+            -73.803637391411,
+            40.7383691202551
+          ],
+          [
+            -73.8026877066097,
+            40.7383393201271
+          ],
+          [
+            -73.8018097273034,
+            40.7383109242174
+          ],
+          [
+            -73.8013229388051,
+            40.73829247059
+          ],
+          [
+            -73.8008928969633,
+            40.7382772837223
+          ],
+          [
+            -73.8000043086078,
+            40.738245893926
+          ],
+          [
+            -73.7991133417207,
+            40.738214408475
+          ],
+          [
+            -73.7982219732017,
+            40.7381828992165
+          ],
+          [
+            -73.7972939890697,
+            40.7381936966183
+          ],
+          [
+            -73.7968493404171,
+            40.7382438099482
+          ],
+          [
+            -73.7964035705396,
+            40.7382906264147
+          ],
+          [
+            -73.7961172300593,
+            40.738344408899
+          ],
+          [
+            -73.7958881995126,
+            40.7383846441278
+          ],
+          [
+            -73.7953391113454,
+            40.7385019417438
+          ],
+          [
+            -73.7944093992911,
+            40.738756498927
+          ],
+          [
+            -73.7936947958083,
+            40.7389583310694
+          ],
+          [
+            -73.7929801986764,
+            40.7391601506866
+          ],
+          [
+            -73.7929174136247,
+            40.7391760308676
+          ],
+          [
+            -73.7928593526816,
+            40.7391880022928
+          ],
+          [
+            -73.7920295574132,
+            40.7394118504573
+          ],
+          [
+            -73.7911166458455,
+            40.7396581087064
+          ],
+          [
+            -73.7902088819891,
+            40.7399029724089
+          ],
+          [
+            -73.7893486538554,
+            40.7401346072786
+          ],
+          [
+            -73.7886524831602,
+            40.7403339834701
+          ],
+          [
+            -73.788483815821,
+            40.7403765480051
+          ],
+          [
+            -73.7875958232443,
+            40.7406262280504
+          ],
+          [
+            -73.78673654762,
+            40.7408500458594
+          ],
+          [
+            -73.7866922333339,
+            40.7408612561879
+          ]
+        ]
+      ]
+    },
+    "properties": {
+      "OBJECTID": 22,
+      "CounDist": 24,
+      "Shape__Area": 185496852.522385,
+      "Shape__Length": 62170.6101607205
+    }
+  }
+}

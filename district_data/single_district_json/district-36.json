@@ -1,0 +1,1037 @@
+{
+  "id": 36,
+  "district": 36,
+  "council_member": {
+    "person_id": "7604",
+    "councildist": "NYCC36",
+    "last_name": "Cornegy",
+    "first_name": "Robert",
+    "photo_url": "https://raw.githubusercontent.com/NewYorkCityCouncil/districts/master/thumbnails/district-36.jpg",
+    "facebook_url": "https://www.facebook.com/CouncilMemberRobertCornegy",
+    "twitter_url": "https://twitter.com/RobertCornegyJr",
+    "twitter_handle": "RobertCornegyJr",
+    "instagram_url": "https://www.instagram.com/rcornegyjr/",
+    "instagram_handle": "rcornegyjr",
+    "party": "democrat",
+    "title": "council-member",
+    "gender": "male",
+    "city_council_url": "https://council.nyc.gov/district-36",
+    "city_council_committees_url": "http://legistar.council.nyc.gov/Departments.aspx",
+    "city_council_legislation_url": "http://legistar.council.nyc.gov/Legislation.aspx",
+    "city_council_council_calendar_url": "https://legistar.council.nyc.gov/Calendar.aspx",
+    "PersonId": 7604,
+    "PersonGuid": "B4071520-5936-406E-9E0E-E5FB4ADF4D68",
+    "PersonLastModifiedUtc": "2015-08-25T15:57:04.463",
+    "PersonRowVersion": "AAAAAOXGpFM=",
+    "PersonFullName": "Robert E. Cornegy, Jr.",
+    "PersonActiveFlag": 1,
+    "PersonUsedSponsorFlag": 0,
+    "PersonAddress1": "1360 Fulton Street, 5th Floor, Suite 500",
+    "PersonCity1": "Brooklyn",
+    "PersonState1": "NY",
+    "PersonZip1": "11216",
+    "PersonPhone": "718-919-0740",
+    "PersonFax": "718-857-2555",
+    "PersonEmail": "RCornegy@council.nyc.gov",
+    "PersonWWW": "http://council.nyc.gov/d36/html/members/home.shtml",
+    "PersonAddress2": "250 Broadway - 17th Floor - Suite 1743",
+    "PersonCity2": "New York",
+    "PersonState2": "NY",
+    "PersonZip2": "10007",
+    "PersonPhone2": "212-788-7354",
+    "PersonFax2": "",
+    "PersonEmail2": "",
+    "PersonWWW2": "",
+    "committees": [
+      {
+        "OfficeRecordId": 3839,
+        "OfficeRecordGuid": "091DE8F4-A9FA-4701-919D-122D048425C3",
+        "OfficeRecordLastModifiedUtc": "2018-01-02T20:55:53.71",
+        "OfficeRecordRowVersion": "AAAAAOV7kxs=",
+        "OfficeRecordFirstName": "Robert E.",
+        "OfficeRecordLastName": "Cornegy, Jr.",
+        "OfficeRecordEmail": "RCornegy@council.nyc.gov",
+        "OfficeRecordFullName": "Robert E. Cornegy, Jr.",
+        "OfficeRecordStartDate": "2018-01-03T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 40,
+        "OfficeRecordPersonId": 7604,
+        "OfficeRecordBodyId": 20,
+        "OfficeRecordBodyName": "Committee on Rules, Privileges and Elections",
+        "OfficeRecordTitle": "Committee Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 3893,
+        "OfficeRecordGuid": "1B490EB0-625E-4643-9F26-DA6915707B6E",
+        "OfficeRecordLastModifiedUtc": "2018-01-11T20:17:22.59",
+        "OfficeRecordRowVersion": "AAAAAOV8iVc=",
+        "OfficeRecordFirstName": "Robert E.",
+        "OfficeRecordLastName": "Cornegy, Jr.",
+        "OfficeRecordEmail": "RCornegy@council.nyc.gov",
+        "OfficeRecordFullName": "Robert E. Cornegy, Jr.",
+        "OfficeRecordStartDate": "2018-01-11T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 40,
+        "OfficeRecordPersonId": 7604,
+        "OfficeRecordBodyId": 7,
+        "OfficeRecordBodyName": "Committee on Economic Development",
+        "OfficeRecordTitle": "Committee Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 3909,
+        "OfficeRecordGuid": "B6E0D428-9FB4-4DB5-9DE7-BD6E0784F085",
+        "OfficeRecordLastModifiedUtc": "2018-01-11T20:37:49.163",
+        "OfficeRecordRowVersion": "AAAAAOV8idk=",
+        "OfficeRecordFirstName": "Robert E.",
+        "OfficeRecordLastName": "Cornegy, Jr.",
+        "OfficeRecordEmail": "RCornegy@council.nyc.gov",
+        "OfficeRecordFullName": "Robert E. Cornegy, Jr.",
+        "OfficeRecordStartDate": "2018-01-11T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 70,
+        "OfficeRecordPersonId": 7604,
+        "OfficeRecordBodyId": 9,
+        "OfficeRecordBodyName": "Committee on Education",
+        "OfficeRecordTitle": "Committee Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 3932,
+        "OfficeRecordGuid": "A6636DD6-BD68-458E-98FF-76D6E0F2F42B",
+        "OfficeRecordLastModifiedUtc": "2018-01-11T20:58:18.493",
+        "OfficeRecordRowVersion": "AAAAAOV8iks=",
+        "OfficeRecordFirstName": "Robert E.",
+        "OfficeRecordLastName": "Cornegy, Jr.",
+        "OfficeRecordEmail": "RCornegy@council.nyc.gov",
+        "OfficeRecordFullName": "Robert E. Cornegy, Jr.",
+        "OfficeRecordStartDate": "2018-01-11T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 40,
+        "OfficeRecordPersonId": 7604,
+        "OfficeRecordBodyId": 11,
+        "OfficeRecordBodyName": "Committee on Finance",
+        "OfficeRecordTitle": "Committee Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 3989,
+        "OfficeRecordGuid": "CCE42B93-4B54-4E12-ABFD-D090B42BB33E",
+        "OfficeRecordLastModifiedUtc": "2018-01-12T16:14:15",
+        "OfficeRecordRowVersion": "AAAAAOV8kao=",
+        "OfficeRecordFirstName": "Robert E.",
+        "OfficeRecordLastName": "Cornegy, Jr.",
+        "OfficeRecordEmail": "RCornegy@council.nyc.gov",
+        "OfficeRecordFullName": "Robert E. Cornegy, Jr.",
+        "OfficeRecordStartDate": "2018-01-11T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 10,
+        "OfficeRecordPersonId": 7604,
+        "OfficeRecordBodyId": 16,
+        "OfficeRecordBodyName": "Committee on Housing and Buildings",
+        "OfficeRecordTitle": "CHAIRPERSON",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4105,
+        "OfficeRecordGuid": "35192C30-E6B4-4596-97A2-C7B9FEC8BB51",
+        "OfficeRecordLastModifiedUtc": "2018-01-12T18:19:09.397",
+        "OfficeRecordRowVersion": "AAAAAOV8lE8=",
+        "OfficeRecordFirstName": "Robert E.",
+        "OfficeRecordLastName": "Cornegy, Jr.",
+        "OfficeRecordEmail": "RCornegy@council.nyc.gov",
+        "OfficeRecordFullName": "Robert E. Cornegy, Jr.",
+        "OfficeRecordStartDate": "2018-01-11T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 20,
+        "OfficeRecordPersonId": 7604,
+        "OfficeRecordBodyId": 22,
+        "OfficeRecordBodyName": "Committee on State and Federal Legislation",
+        "OfficeRecordTitle": "Committee Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4174,
+        "OfficeRecordGuid": "6C8D0BFB-79D1-4726-9F97-2A7C6B86C687",
+        "OfficeRecordLastModifiedUtc": "2018-01-12T19:27:03.52",
+        "OfficeRecordRowVersion": "AAAAAOV8llU=",
+        "OfficeRecordFirstName": "Robert E.",
+        "OfficeRecordLastName": "Cornegy, Jr.",
+        "OfficeRecordEmail": "RCornegy@council.nyc.gov",
+        "OfficeRecordFullName": "Robert E. Cornegy, Jr.",
+        "OfficeRecordStartDate": "2018-01-11T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 10,
+        "OfficeRecordPersonId": 7604,
+        "OfficeRecordBodyId": 5248,
+        "OfficeRecordBodyName": "Task Force on MWBE",
+        "OfficeRecordTitle": "CHAIRPERSON",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 1,
+        "OfficeRecordMemberType": "CHAIR",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4187,
+        "OfficeRecordGuid": "40DACD40-6EA4-4A85-95A2-ED6AE80138CD",
+        "OfficeRecordLastModifiedUtc": "2019-02-28T13:48:33.09",
+        "OfficeRecordRowVersion": "AAAAAOXGpFA=",
+        "OfficeRecordFirstName": "Robert E.",
+        "OfficeRecordLastName": "Cornegy, Jr.",
+        "OfficeRecordEmail": "RCornegy@council.nyc.gov",
+        "OfficeRecordFullName": "Robert E. Cornegy, Jr.",
+        "OfficeRecordStartDate": "2018-01-01T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 11,
+        "OfficeRecordPersonId": 7604,
+        "OfficeRecordBodyId": 5257,
+        "OfficeRecordBodyName": "Democratic Conference of the Council of the City of New York ",
+        "OfficeRecordTitle": "Council Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      }
+    ]
+  },
+  "district_boundaries": {
+    "type": "Feature",
+    "id": 19,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -73.9280447292147,
+            40.6929124281035
+          ],
+          [
+            -73.9279863677957,
+            40.6925719335321
+          ],
+          [
+            -73.9278409191163,
+            40.6918395991712
+          ],
+          [
+            -73.9276949886019,
+            40.6911076237684
+          ],
+          [
+            -73.9275484202735,
+            40.6903773786042
+          ],
+          [
+            -73.9274047265195,
+            40.6896389385448
+          ],
+          [
+            -73.9272559876426,
+            40.6889091937482
+          ],
+          [
+            -73.9271135489042,
+            40.688175904782
+          ],
+          [
+            -73.9269684005601,
+            40.6874460722906
+          ],
+          [
+            -73.9268209545616,
+            40.6867109621397
+          ],
+          [
+            -73.926677245927,
+            40.68597895019
+          ],
+          [
+            -73.9265303051905,
+            40.6852451237825
+          ],
+          [
+            -73.9263856667785,
+            40.6845118717035
+          ],
+          [
+            -73.9262417196455,
+            40.6837798593546
+          ],
+          [
+            -73.9260960379226,
+            40.68304696294
+          ],
+          [
+            -73.9259474235645,
+            40.6823162360473
+          ],
+          [
+            -73.9257872508604,
+            40.6815788810805
+          ],
+          [
+            -73.9257000186344,
+            40.6811869265078
+          ],
+          [
+            -73.9256819851451,
+            40.6811058967761
+          ],
+          [
+            -73.9256263206872,
+            40.6808557806024
+          ],
+          [
+            -73.9255945014827,
+            40.6806948536592
+          ],
+          [
+            -73.9255461726307,
+            40.6804504265608
+          ],
+          [
+            -73.9254807498118,
+            40.6801195422028
+          ],
+          [
+            -73.9254377782674,
+            40.6798966419742
+          ],
+          [
+            -73.9253985215172,
+            40.6796930151852
+          ],
+          [
+            -73.9253422371802,
+            40.6794010587027
+          ],
+          [
+            -73.9252667150576,
+            40.6790814613435
+          ],
+          [
+            -73.9249354080135,
+            40.6790611440288
+          ],
+          [
+            -73.9247346740992,
+            40.6790488343022
+          ],
+          [
+            -73.9245943610551,
+            40.6790402286745
+          ],
+          [
+            -73.9246628378911,
+            40.6782842641989
+          ],
+          [
+            -73.9247794867484,
+            40.6771744477152
+          ],
+          [
+            -73.924784256315,
+            40.6771093974375
+          ],
+          [
+            -73.9247933425403,
+            40.6770234227408
+          ],
+          [
+            -73.9248327751727,
+            40.6763014593732
+          ],
+          [
+            -73.9252458534446,
+            40.6763242631614
+          ],
+          [
+            -73.925493260398,
+            40.6763379201794
+          ],
+          [
+            -73.925701580639,
+            40.676349418803
+          ],
+          [
+            -73.9265864867453,
+            40.6763957949543
+          ],
+          [
+            -73.9271115700366,
+            40.6764249011838
+          ],
+          [
+            -73.927615460318,
+            40.6764526313601
+          ],
+          [
+            -73.9276893334576,
+            40.6756711199336
+          ],
+          [
+            -73.9277628673848,
+            40.6748956509037
+          ],
+          [
+            -73.9272585869717,
+            40.6748681648668
+          ],
+          [
+            -73.9267274631112,
+            40.6748362294209
+          ],
+          [
+            -73.9258583059028,
+            40.6747917990932
+          ],
+          [
+            -73.9253944011965,
+            40.6747661182495
+          ],
+          [
+            -73.9249965154327,
+            40.6747441807886
+          ],
+          [
+            -73.9250829432653,
+            40.6738525897688
+          ],
+          [
+            -73.9251229587705,
+            40.6734072121102
+          ],
+          [
+            -73.9251629746011,
+            40.6729618525075
+          ],
+          [
+            -73.9252470134119,
+            40.6720702969811
+          ],
+          [
+            -73.9252962977718,
+            40.6715406703705
+          ],
+          [
+            -73.9253016892819,
+            40.6714827321597
+          ],
+          [
+            -73.9253073253207,
+            40.6714221602328
+          ],
+          [
+            -73.9253127422013,
+            40.6713639481289
+          ],
+          [
+            -73.9253301419368,
+            40.6711769675931
+          ],
+          [
+            -73.9254148960434,
+            40.6702871057609
+          ],
+          [
+            -73.9254926314479,
+            40.6694425632499
+          ],
+          [
+            -73.9282625762006,
+            40.6695959250192
+          ],
+          [
+            -73.928181779282,
+            40.6704384505843
+          ],
+          [
+            -73.9289220269141,
+            40.670479228906
+          ],
+          [
+            -73.9290242942354,
+            40.6704848611727
+          ],
+          [
+            -73.929124359931,
+            40.6704903728798
+          ],
+          [
+            -73.9292254357097,
+            40.670495940573
+          ],
+          [
+            -73.9293091357539,
+            40.6705005506345
+          ],
+          [
+            -73.9294082635926,
+            40.6705060104223
+          ],
+          [
+            -73.9309525524937,
+            40.6705910558309
+          ],
+          [
+            -73.9337264339196,
+            40.6707420228715
+          ],
+          [
+            -73.9336363280415,
+            40.671634685005
+          ],
+          [
+            -73.9364067532771,
+            40.6717825568105
+          ],
+          [
+            -73.9391774719639,
+            40.6719342512084
+          ],
+          [
+            -73.9400629071742,
+            40.6719821368322
+          ],
+          [
+            -73.9408480543067,
+            40.6720244005222
+          ],
+          [
+            -73.941946476948,
+            40.6720855816481
+          ],
+          [
+            -73.9447118274246,
+            40.6722366642555
+          ],
+          [
+            -73.9474819338678,
+            40.6723878976623
+          ],
+          [
+            -73.9502525605248,
+            40.6725381187257
+          ],
+          [
+            -73.9530207286446,
+            40.6726893167586
+          ],
+          [
+            -73.9543179002797,
+            40.6727616830917
+          ],
+          [
+            -73.9540009958908,
+            40.6736408371673
+          ],
+          [
+            -73.9536888561149,
+            40.6745096197128
+          ],
+          [
+            -73.9533649644512,
+            40.6753938853449
+          ],
+          [
+            -73.9530715575217,
+            40.6762601779678
+          ],
+          [
+            -73.9526792541519,
+            40.6770352357144
+          ],
+          [
+            -73.9528126413168,
+            40.6778524797351
+          ],
+          [
+            -73.9529716310216,
+            40.6786476094336
+          ],
+          [
+            -73.9529881566155,
+            40.678730247069
+          ],
+          [
+            -73.9541290914098,
+            40.6789662284396
+          ],
+          [
+            -73.9552950462365,
+            40.6792114026345
+          ],
+          [
+            -73.9559600541781,
+            40.6793544982433
+          ],
+          [
+            -73.9582935993177,
+            40.6798393861088
+          ],
+          [
+            -73.9613479911142,
+            40.6804717764295
+          ],
+          [
+            -73.9612676867239,
+            40.6805313093781
+          ],
+          [
+            -73.9614250961548,
+            40.6814429526211
+          ],
+          [
+            -73.9616115815709,
+            40.6823833952124
+          ],
+          [
+            -73.9605965746245,
+            40.6821704590241
+          ],
+          [
+            -73.9595956003907,
+            40.6819615250594
+          ],
+          [
+            -73.9585870982751,
+            40.6817507351907
+          ],
+          [
+            -73.957352689055,
+            40.6814923848414
+          ],
+          [
+            -73.9556674459484,
+            40.6811452120435
+          ],
+          [
+            -73.955820711916,
+            40.6818769397752
+          ],
+          [
+            -73.955967476234,
+            40.6826075915658
+          ],
+          [
+            -73.9561129888963,
+            40.6833410076689
+          ],
+          [
+            -73.9562592490859,
+            40.6840740011323
+          ],
+          [
+            -73.9564047204173,
+            40.6848070566988
+          ],
+          [
+            -73.9565522421561,
+            40.6855386184416
+          ],
+          [
+            -73.956700452408,
+            40.6862715937846
+          ],
+          [
+            -73.9568430831441,
+            40.6870043329081
+          ],
+          [
+            -73.9569879638631,
+            40.6877373322955
+          ],
+          [
+            -73.9571332958371,
+            40.6884713866888
+          ],
+          [
+            -73.9572233826682,
+            40.6892085537441
+          ],
+          [
+            -73.9570580559714,
+            40.6895015820743
+          ],
+          [
+            -73.9570673318208,
+            40.6895496031096
+          ],
+          [
+            -73.9571457985474,
+            40.6899719658622
+          ],
+          [
+            -73.957218867032,
+            40.6903861262285
+          ],
+          [
+            -73.9572291235259,
+            40.6904449246538
+          ],
+          [
+            -73.9572739233564,
+            40.6907017321293
+          ],
+          [
+            -73.9563574608658,
+            40.6908080357453
+          ],
+          [
+            -73.9554120104829,
+            40.6909165457682
+          ],
+          [
+            -73.9544678933838,
+            40.6910250924432
+          ],
+          [
+            -73.953567584984,
+            40.6911295434593
+          ],
+          [
+            -73.9517589023404,
+            40.6913375667578
+          ],
+          [
+            -73.9518314491491,
+            40.6917099954879
+          ],
+          [
+            -73.95190331114,
+            40.6920705719699
+          ],
+          [
+            -73.9520522067989,
+            40.6928019149184
+          ],
+          [
+            -73.9521738890948,
+            40.6934271642405
+          ],
+          [
+            -73.9521949901854,
+            40.6935342980927
+          ],
+          [
+            -73.9523422214371,
+            40.6942713022637
+          ],
+          [
+            -73.9524903396513,
+            40.6950120268235
+          ],
+          [
+            -73.9525983196976,
+            40.6955576891566
+          ],
+          [
+            -73.9526233586103,
+            40.6956842146453
+          ],
+          [
+            -73.9526542747256,
+            40.6958404392868
+          ],
+          [
+            -73.9527000648968,
+            40.6960718261653
+          ],
+          [
+            -73.9527243637623,
+            40.696194612946
+          ],
+          [
+            -73.9527477286226,
+            40.6963126777446
+          ],
+          [
+            -73.9527795087979,
+            40.69647326695
+          ],
+          [
+            -73.9529258222668,
+            40.6972126000233
+          ],
+          [
+            -73.9529702528141,
+            40.697431981187
+          ],
+          [
+            -73.9529930950966,
+            40.6975447664138
+          ],
+          [
+            -73.9531000822003,
+            40.6980730192554
+          ],
+          [
+            -73.9531389083155,
+            40.6982647203519
+          ],
+          [
+            -73.9531819265245,
+            40.6984771186247
+          ],
+          [
+            -73.953207917059,
+            40.6986054427312
+          ],
+          [
+            -73.9532381210941,
+            40.6987545727549
+          ],
+          [
+            -73.9532947109788,
+            40.6990339735081
+          ],
+          [
+            -73.9533540663725,
+            40.6993270311654
+          ],
+          [
+            -73.9533714382126,
+            40.6994127962727
+          ],
+          [
+            -73.9525494323676,
+            40.69950303331
+          ],
+          [
+            -73.9519530528515,
+            40.6995711372201
+          ],
+          [
+            -73.9517740093574,
+            40.6995930501351
+          ],
+          [
+            -73.9515388195768,
+            40.6996218350729
+          ],
+          [
+            -73.9513742160423,
+            40.6996419803356
+          ],
+          [
+            -73.9510125511341,
+            40.69968624115
+          ],
+          [
+            -73.9500923769741,
+            40.6997988495506
+          ],
+          [
+            -73.9497952232134,
+            40.6998315702506
+          ],
+          [
+            -73.9481336831146,
+            40.7000145287374
+          ],
+          [
+            -73.9472495159879,
+            40.7001131652178
+          ],
+          [
+            -73.9471290503584,
+            40.7001310673658
+          ],
+          [
+            -73.946317003954,
+            40.7002232087874
+          ],
+          [
+            -73.9446190892198,
+            40.7004135565421
+          ],
+          [
+            -73.9443893139974,
+            40.7004327794141
+          ],
+          [
+            -73.9419322154257,
+            40.7007334904719
+          ],
+          [
+            -73.9411505991279,
+            40.7002893837113
+          ],
+          [
+            -73.9404645121031,
+            40.6999061457087
+          ],
+          [
+            -73.9404213412374,
+            40.6998820309325
+          ],
+          [
+            -73.9396913785604,
+            40.6994640475498
+          ],
+          [
+            -73.9389029536173,
+            40.6990452270418
+          ],
+          [
+            -73.9385699745599,
+            40.6988563920809
+          ],
+          [
+            -73.9381786114633,
+            40.6986484792934
+          ],
+          [
+            -73.937774971475,
+            40.6984129495219
+          ],
+          [
+            -73.9373920733106,
+            40.6981940513397
+          ],
+          [
+            -73.9367612157001,
+            40.6978394447229
+          ],
+          [
+            -73.9363890515516,
+            40.6976235573704
+          ],
+          [
+            -73.9360082173841,
+            40.6974136525881
+          ],
+          [
+            -73.9352240692557,
+            40.6969948014149
+          ],
+          [
+            -73.9347984215791,
+            40.6967448486035
+          ],
+          [
+            -73.9346903512961,
+            40.6966832101257
+          ],
+          [
+            -73.9346081757936,
+            40.6966363420736
+          ],
+          [
+            -73.9345814190867,
+            40.6966210802006
+          ],
+          [
+            -73.9344892722181,
+            40.696568524201
+          ],
+          [
+            -73.934135397443,
+            40.696366687099
+          ],
+          [
+            -73.9338295959532,
+            40.6961925334824
+          ],
+          [
+            -73.9331200520746,
+            40.6957994094656
+          ],
+          [
+            -73.9323674806322,
+            40.6953666328577
+          ],
+          [
+            -73.9319303236814,
+            40.6951229135622
+          ],
+          [
+            -73.9317754698815,
+            40.6950364708638
+          ],
+          [
+            -73.9314732690111,
+            40.69486915792
+          ],
+          [
+            -73.9312134216738,
+            40.6947210252567
+          ],
+          [
+            -73.9311465882675,
+            40.6946822308358
+          ],
+          [
+            -73.9305128898489,
+            40.6943247784706
+          ],
+          [
+            -73.9297033469599,
+            40.6938716534754
+          ],
+          [
+            -73.9288304008767,
+            40.6933587293622
+          ],
+          [
+            -73.9288297649719,
+            40.6933583545451
+          ],
+          [
+            -73.928644113034,
+            40.6932492678275
+          ],
+          [
+            -73.9285080192259,
+            40.6931739816252
+          ],
+          [
+            -73.9280447292147,
+            40.6929124281035
+          ]
+        ]
+      ]
+    },
+    "properties": {
+      "OBJECTID": 19,
+      "CounDist": 36,
+      "Shape__Area": 76221712.3433075,
+      "Shape__Length": 42153.1811059112
+    }
+  }
+}

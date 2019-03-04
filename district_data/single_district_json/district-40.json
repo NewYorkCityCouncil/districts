@@ -1,0 +1,849 @@
+{
+  "id": 40,
+  "district": 40,
+  "council_member": {
+    "person_id": "7113",
+    "councildist": "NYCC40",
+    "last_name": "Eugene",
+    "first_name": "Mathieu",
+    "photo_url": "https://raw.githubusercontent.com/NewYorkCityCouncil/districts/master/thumbnails/district-40.jpg",
+    "facebook_url": "https://www.facebook.com/mathieu.eugene.50",
+    "twitter_url": "https://twitter.com/CMMathieuEugene",
+    "twitter_handle": "CMMathieuEugene",
+    "instagram_url": "https://www.instagram.com/cmmathieueugene/",
+    "instagram_handle": "cmmathieueugene",
+    "party": "democrat",
+    "title": "council-member",
+    "gender": "male",
+    "city_council_url": "https://council.nyc.gov/district-40",
+    "city_council_committees_url": "http://legistar.council.nyc.gov/Departments.aspx",
+    "city_council_legislation_url": "http://legistar.council.nyc.gov/Legislation.aspx",
+    "city_council_council_calendar_url": "https://legistar.council.nyc.gov/Calendar.aspx",
+    "PersonId": 7113,
+    "PersonGuid": "588FFCC4-CC3A-4B14-9ED9-0CBF07441FFB",
+    "PersonLastModifiedUtc": "2015-08-25T15:57:04.463",
+    "PersonRowVersion": "AAAAAOXGpGs=",
+    "PersonFullName": "Mathieu Eugene",
+    "PersonActiveFlag": 1,
+    "PersonUsedSponsorFlag": 0,
+    "PersonAddress1": "900 Rogers Avenue",
+    "PersonCity1": "Brooklyn",
+    "PersonState1": "NY",
+    "PersonZip1": "11226",
+    "PersonPhone": "718-287-8762",
+    "PersonFax": "718-287-8917",
+    "PersonEmail": "Meugene@council.nyc.gov",
+    "PersonWWW": "http://council.nyc.gov/d40/html/members/home.shtml",
+    "PersonAddress2": "250 Broadway - 17th Floor - Suite 1789",
+    "PersonCity2": "New York",
+    "PersonState2": "NY",
+    "PersonZip2": "10007",
+    "PersonPhone2": "212-788-7352",
+    "PersonFax2": "",
+    "PersonEmail2": "",
+    "PersonWWW2": "",
+    "committees": [
+      {
+        "OfficeRecordId": 3852,
+        "OfficeRecordGuid": "C8A5D85B-0152-445B-B03F-50F9475B72A8",
+        "OfficeRecordLastModifiedUtc": "2018-01-11T15:15:48.28",
+        "OfficeRecordRowVersion": "AAAAAOV8hVk=",
+        "OfficeRecordFirstName": "Mathieu",
+        "OfficeRecordLastName": "Eugene",
+        "OfficeRecordEmail": "Meugene@council.nyc.gov",
+        "OfficeRecordFullName": "Mathieu Eugene",
+        "OfficeRecordStartDate": "2018-01-11T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 60,
+        "OfficeRecordPersonId": 7113,
+        "OfficeRecordBodyId": 3,
+        "OfficeRecordBodyName": "Committee on Aging",
+        "OfficeRecordTitle": "Committee Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 3856,
+        "OfficeRecordGuid": "9D734E94-5798-47E4-AAA0-B76E7E1E6B74",
+        "OfficeRecordLastModifiedUtc": "2018-01-11T15:45:52.113",
+        "OfficeRecordRowVersion": "AAAAAOV8hW4=",
+        "OfficeRecordFirstName": "Mathieu",
+        "OfficeRecordLastName": "Eugene",
+        "OfficeRecordEmail": "Meugene@council.nyc.gov",
+        "OfficeRecordFullName": "Mathieu Eugene",
+        "OfficeRecordStartDate": "2018-01-11T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 10,
+        "OfficeRecordPersonId": 7113,
+        "OfficeRecordBodyId": 5235,
+        "OfficeRecordBodyName": "Committee on Civil and Human Rights",
+        "OfficeRecordTitle": "CHAIRPERSON",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 1,
+        "OfficeRecordMemberType": "CHAIR",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 3975,
+        "OfficeRecordGuid": "D5AA0A4E-3E90-4E90-9900-44276FE90C89",
+        "OfficeRecordLastModifiedUtc": "2018-01-11T21:38:20.26",
+        "OfficeRecordRowVersion": "AAAAAOV8i0w=",
+        "OfficeRecordFirstName": "Mathieu",
+        "OfficeRecordLastName": "Eugene",
+        "OfficeRecordEmail": "Meugene@council.nyc.gov",
+        "OfficeRecordFullName": "Mathieu Eugene",
+        "OfficeRecordStartDate": "2018-01-11T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 40,
+        "OfficeRecordPersonId": 7113,
+        "OfficeRecordBodyId": 14,
+        "OfficeRecordBodyName": "Committee on Health",
+        "OfficeRecordTitle": "Committee Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 3984,
+        "OfficeRecordGuid": "2052EE5C-189C-49A4-B6BA-78857E26F0B2",
+        "OfficeRecordLastModifiedUtc": "2018-01-12T16:06:44.487",
+        "OfficeRecordRowVersion": "AAAAAOV8kY8=",
+        "OfficeRecordFirstName": "Mathieu",
+        "OfficeRecordLastName": "Eugene",
+        "OfficeRecordEmail": "Meugene@council.nyc.gov",
+        "OfficeRecordFullName": "Mathieu Eugene",
+        "OfficeRecordStartDate": "2018-01-11T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 30,
+        "OfficeRecordPersonId": 7113,
+        "OfficeRecordBodyId": 5241,
+        "OfficeRecordBodyName": "Committee on Hospitals",
+        "OfficeRecordTitle": "Committee Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4002,
+        "OfficeRecordGuid": "77121C47-5551-4C64-8BF2-86317D71F166",
+        "OfficeRecordLastModifiedUtc": "2018-01-12T16:23:28.867",
+        "OfficeRecordRowVersion": "AAAAAOV8keU=",
+        "OfficeRecordFirstName": "Mathieu",
+        "OfficeRecordLastName": "Eugene",
+        "OfficeRecordEmail": "Meugene@council.nyc.gov",
+        "OfficeRecordFullName": "Mathieu Eugene",
+        "OfficeRecordStartDate": "2018-01-11T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 30,
+        "OfficeRecordPersonId": 7113,
+        "OfficeRecordBodyId": 5119,
+        "OfficeRecordBodyName": "Committee on Immigration",
+        "OfficeRecordTitle": "Committee Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4131,
+        "OfficeRecordGuid": "045D71ED-F402-47FB-9C78-6123838F3A89",
+        "OfficeRecordLastModifiedUtc": "2018-01-12T18:36:13.463",
+        "OfficeRecordRowVersion": "AAAAAOV8lOM=",
+        "OfficeRecordFirstName": "Mathieu",
+        "OfficeRecordLastName": "Eugene",
+        "OfficeRecordEmail": "Meugene@council.nyc.gov",
+        "OfficeRecordFullName": "Mathieu Eugene",
+        "OfficeRecordStartDate": "2018-01-11T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 30,
+        "OfficeRecordPersonId": 7113,
+        "OfficeRecordBodyId": 5122,
+        "OfficeRecordBodyName": "Committee on Veterans",
+        "OfficeRecordTitle": "Committee Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4142,
+        "OfficeRecordGuid": "38CA2A46-CB2B-4755-844F-E26190E0BC47",
+        "OfficeRecordLastModifiedUtc": "2018-01-12T18:47:03.207",
+        "OfficeRecordRowVersion": "AAAAAOV8lTI=",
+        "OfficeRecordFirstName": "Mathieu",
+        "OfficeRecordLastName": "Eugene",
+        "OfficeRecordEmail": "Meugene@council.nyc.gov",
+        "OfficeRecordFullName": "Mathieu Eugene",
+        "OfficeRecordStartDate": "2018-01-11T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 40,
+        "OfficeRecordPersonId": 7113,
+        "OfficeRecordBodyId": 24,
+        "OfficeRecordBodyName": "Committee on Youth Services",
+        "OfficeRecordTitle": "Committee Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4193,
+        "OfficeRecordGuid": "1918BE2F-F51D-4295-AC2A-005745C32C30",
+        "OfficeRecordLastModifiedUtc": "2019-02-28T13:53:22.447",
+        "OfficeRecordRowVersion": "AAAAAOXGpGg=",
+        "OfficeRecordFirstName": "Mathieu",
+        "OfficeRecordLastName": "Eugene",
+        "OfficeRecordEmail": "Meugene@council.nyc.gov",
+        "OfficeRecordFullName": "Mathieu Eugene",
+        "OfficeRecordStartDate": "2018-01-01T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 17,
+        "OfficeRecordPersonId": 7113,
+        "OfficeRecordBodyId": 5257,
+        "OfficeRecordBodyName": "Democratic Conference of the Council of the City of New York ",
+        "OfficeRecordTitle": "Council Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      }
+    ]
+  },
+  "district_boundaries": {
+    "type": "Feature",
+    "id": 9,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -73.9426977145538,
+            40.6640633786361
+          ],
+          [
+            -73.942830348203,
+            40.6628557340394
+          ],
+          [
+            -73.9427945466375,
+            40.6623974505573
+          ],
+          [
+            -73.9427688552561,
+            40.6620685727098
+          ],
+          [
+            -73.9426896217927,
+            40.6613287498055
+          ],
+          [
+            -73.9426131080107,
+            40.660618591162
+          ],
+          [
+            -73.9425512305106,
+            40.6599002441145
+          ],
+          [
+            -73.9402553536639,
+            40.660048118261
+          ],
+          [
+            -73.9397344554899,
+            40.6600816618515
+          ],
+          [
+            -73.9396606817812,
+            40.659372313025
+          ],
+          [
+            -73.9395708461271,
+            40.6585383601196
+          ],
+          [
+            -73.9396162469037,
+            40.6577760953594
+          ],
+          [
+            -73.9396439754172,
+            40.6574353740417
+          ],
+          [
+            -73.939643987307,
+            40.6574353020065
+          ],
+          [
+            -73.9396439873804,
+            40.65743522096
+          ],
+          [
+            -73.93965225335,
+            40.657093426803
+          ],
+          [
+            -73.9396465343122,
+            40.6569203371942
+          ],
+          [
+            -73.9396411058608,
+            40.6567515287929
+          ],
+          [
+            -73.939641105935,
+            40.6567514468459
+          ],
+          [
+            -73.939641094183,
+            40.6567513666937
+          ],
+          [
+            -73.9396105764242,
+            40.6564103148929
+          ],
+          [
+            -73.9395606772419,
+            40.6560710007925
+          ],
+          [
+            -73.9405335709873,
+            40.6560097864218
+          ],
+          [
+            -73.9414640348758,
+            40.6559524964094
+          ],
+          [
+            -73.9424029037617,
+            40.6558930589477
+          ],
+          [
+            -73.9422620912146,
+            40.6546318759339
+          ],
+          [
+            -73.9432101077455,
+            40.6545838919574
+          ],
+          [
+            -73.9441642003298,
+            40.6545361093357
+          ],
+          [
+            -73.9440031850172,
+            40.6529814307849
+          ],
+          [
+            -73.9438013863665,
+            40.6511146132569
+          ],
+          [
+            -73.9447722240875,
+            40.6510726610279
+          ],
+          [
+            -73.9457074870044,
+            40.6510150310174
+          ],
+          [
+            -73.9466755699106,
+            40.6509563658229
+          ],
+          [
+            -73.9464802500412,
+            40.6491089968848
+          ],
+          [
+            -73.947468228561,
+            40.6490478308352
+          ],
+          [
+            -73.9484025012201,
+            40.6489910699704
+          ],
+          [
+            -73.949371463595,
+            40.6489312928525
+          ],
+          [
+            -73.949287321764,
+            40.6481491910227
+          ],
+          [
+            -73.9491534726364,
+            40.6468940807495
+          ],
+          [
+            -73.9489653073789,
+            40.6451399238261
+          ],
+          [
+            -73.9494944451574,
+            40.6451078098944
+          ],
+          [
+            -73.949933716026,
+            40.6450811476034
+          ],
+          [
+            -73.950868380786,
+            40.6450237022948
+          ],
+          [
+            -73.9513517624816,
+            40.6449936233491
+          ],
+          [
+            -73.951854733174,
+            40.6449623258687
+          ],
+          [
+            -73.9517865269092,
+            40.6443133126125
+          ],
+          [
+            -73.9516530985679,
+            40.6430742134217
+          ],
+          [
+            -73.9526231199207,
+            40.6430145624389
+          ],
+          [
+            -73.9535562413171,
+            40.6429554809196
+          ],
+          [
+            -73.9545262686876,
+            40.642895831897
+          ],
+          [
+            -73.9554948784471,
+            40.6428355698957
+          ],
+          [
+            -73.9564260069096,
+            40.6427792018964
+          ],
+          [
+            -73.9576378752886,
+            40.6426977435085
+          ],
+          [
+            -73.9574650272915,
+            40.6423799137268
+          ],
+          [
+            -73.9570717388377,
+            40.6419689158909
+          ],
+          [
+            -73.9557174271822,
+            40.6405907699766
+          ],
+          [
+            -73.9556396351328,
+            40.6405121697333
+          ],
+          [
+            -73.9547690603534,
+            40.6396326910235
+          ],
+          [
+            -73.9542750116369,
+            40.6391237826197
+          ],
+          [
+            -73.9540450133062,
+            40.6388857927496
+          ],
+          [
+            -73.9539431530019,
+            40.6385029684065
+          ],
+          [
+            -73.9548327388573,
+            40.6380488473239
+          ],
+          [
+            -73.9556975453947,
+            40.63763333306
+          ],
+          [
+            -73.9565674737953,
+            40.6372142751719
+          ],
+          [
+            -73.9574347030766,
+            40.6368009369901
+          ],
+          [
+            -73.9584010381871,
+            40.636335181911
+          ],
+          [
+            -73.9595266089879,
+            40.6357944697022
+          ],
+          [
+            -73.960410217281,
+            40.6353685354386
+          ],
+          [
+            -73.9613092675173,
+            40.6349159072734
+          ],
+          [
+            -73.962201281227,
+            40.6344893037616
+          ],
+          [
+            -73.962640627922,
+            40.6342776632019
+          ],
+          [
+            -73.9631026968492,
+            40.6340550698325
+          ],
+          [
+            -73.9639435752309,
+            40.6336520569767
+          ],
+          [
+            -73.9648033365118,
+            40.6332389119942
+          ],
+          [
+            -73.9656794766706,
+            40.6328381304903
+          ],
+          [
+            -73.9662681507689,
+            40.6325548301542
+          ],
+          [
+            -73.9667780831868,
+            40.6323028241434
+          ],
+          [
+            -73.9666628685073,
+            40.631931200415
+          ],
+          [
+            -73.9660833446372,
+            40.6295509484297
+          ],
+          [
+            -73.96707800045,
+            40.6294429229996
+          ],
+          [
+            -73.9680022758161,
+            40.6293413000124
+          ],
+          [
+            -73.9689305905874,
+            40.6292398669996
+          ],
+          [
+            -73.9700025301032,
+            40.629121715282
+          ],
+          [
+            -73.9710937550168,
+            40.6289743815774
+          ],
+          [
+            -73.9713676541596,
+            40.6289374036223
+          ],
+          [
+            -73.971569459656,
+            40.6299962569374
+          ],
+          [
+            -73.9717288778505,
+            40.6299172576265
+          ],
+          [
+            -73.9718291569214,
+            40.6298716267878
+          ],
+          [
+            -73.9719749430812,
+            40.6306308806675
+          ],
+          [
+            -73.9718576036468,
+            40.6306841843858
+          ],
+          [
+            -73.9717137172347,
+            40.6307553945938
+          ],
+          [
+            -73.9718543558264,
+            40.6315019688727
+          ],
+          [
+            -73.9720060463279,
+            40.6322812614836
+          ],
+          [
+            -73.9721628929269,
+            40.6331198641864
+          ],
+          [
+            -73.9719057039683,
+            40.6332383361093
+          ],
+          [
+            -73.9708771095286,
+            40.6337277556371
+          ],
+          [
+            -73.9713628680825,
+            40.6362935470068
+          ],
+          [
+            -73.971814527886,
+            40.6386821771733
+          ],
+          [
+            -73.9722695645227,
+            40.6410704869627
+          ],
+          [
+            -73.9726541053412,
+            40.6431093377047
+          ],
+          [
+            -73.9727211226624,
+            40.6434643208709
+          ],
+          [
+            -73.9731027874494,
+            40.6454592199915
+          ],
+          [
+            -73.9720871809469,
+            40.6458705688366
+          ],
+          [
+            -73.9717454155692,
+            40.6460093542902
+          ],
+          [
+            -73.9708425717474,
+            40.6463868161624
+          ],
+          [
+            -73.9712118241773,
+            40.647628399384
+          ],
+          [
+            -73.9713977506299,
+            40.6482660304924
+          ],
+          [
+            -73.9715607380904,
+            40.6488310738446
+          ],
+          [
+            -73.9719103370633,
+            40.6500596551431
+          ],
+          [
+            -73.9720372840949,
+            40.6504938733933
+          ],
+          [
+            -73.9720898951156,
+            40.6506651538288
+          ],
+          [
+            -73.9720206308334,
+            40.6506828213671
+          ],
+          [
+            -73.9719547781951,
+            40.6507074488961
+          ],
+          [
+            -73.9718940814094,
+            40.6507383974803
+          ],
+          [
+            -73.9718550483158,
+            40.6507617446626
+          ],
+          [
+            -73.9718193623589,
+            40.650788015732
+          ],
+          [
+            -73.9717873984586,
+            40.6508169334243
+          ],
+          [
+            -73.9717594948951,
+            40.6508481943509
+          ],
+          [
+            -73.9717359438506,
+            40.6508814680967
+          ],
+          [
+            -73.9717169937704,
+            40.6509164053246
+          ],
+          [
+            -73.9714576365932,
+            40.6511485577425
+          ],
+          [
+            -73.966214652971,
+            40.6531976507821
+          ],
+          [
+            -73.9641480944804,
+            40.6540032188317
+          ],
+          [
+            -73.9618822951775,
+            40.654889438628
+          ],
+          [
+            -73.9624567975436,
+            40.658295225666
+          ],
+          [
+            -73.9628144170533,
+            40.6605176408091
+          ],
+          [
+            -73.9630786734154,
+            40.6621384423956
+          ],
+          [
+            -73.9630710768672,
+            40.6622172576655
+          ],
+          [
+            -73.9630557219654,
+            40.6622954157673
+          ],
+          [
+            -73.9630326964376,
+            40.6623724727716
+          ],
+          [
+            -73.9630021305799,
+            40.6624479946668
+          ],
+          [
+            -73.9629641972588,
+            40.6625215537572
+          ],
+          [
+            -73.9629191119098,
+            40.662592733166
+          ],
+          [
+            -73.9628671278055,
+            40.6626611304355
+          ],
+          [
+            -73.9628085396029,
+            40.6627263593303
+          ],
+          [
+            -73.9623896544881,
+            40.663097860879
+          ],
+          [
+            -73.9622511702752,
+            40.6632069265929
+          ],
+          [
+            -73.962132895433,
+            40.6632164115838
+          ],
+          [
+            -73.9609573846951,
+            40.6632933027646
+          ],
+          [
+            -73.9606168791912,
+            40.663310998014
+          ],
+          [
+            -73.9597404916248,
+            40.6633688959294
+          ],
+          [
+            -73.9572107836361,
+            40.6635256461362
+          ],
+          [
+            -73.9538499403246,
+            40.6637360574887
+          ],
+          [
+            -73.9509755275685,
+            40.6639131166857
+          ],
+          [
+            -73.9494078165451,
+            40.6640135569107
+          ],
+          [
+            -73.9481674683505,
+            40.6640900709407
+          ],
+          [
+            -73.9454643621611,
+            40.664234352829
+          ],
+          [
+            -73.9448937024347,
+            40.6641823921481
+          ],
+          [
+            -73.9440834130322,
+            40.6641368222436
+          ],
+          [
+            -73.9426977145538,
+            40.6640633786361
+          ]
+        ]
+      ]
+    },
+    "properties": {
+      "OBJECTID": 9,
+      "CounDist": 40,
+      "Shape__Area": 62693929.6977234,
+      "Shape__Length": 42775.0553159373
+    }
+  }
+}
