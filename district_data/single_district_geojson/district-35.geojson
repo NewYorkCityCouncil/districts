@@ -1,6 +1,6 @@
 {
   "type": "Feature",
-  "id": 26,
+  "id": 20,
   "geometry": {
     "type": "Polygon",
     "coordinates": [
@@ -554,8 +554,8 @@
           40.6891884715636
         ],
         [
-          -73.9814745912963,
-          40.6899394635423
+          -73.9814745912966,
+          40.6899394626418
         ],
         [
           -73.9815026253448,
@@ -590,24 +590,24 @@
           40.6930532063234
         ],
         [
-          -73.9832942617696,
-          40.6935999896935
+          -73.9832942617698,
+          40.6935999887929
         ],
         [
           -73.9833240921301,
           40.6936584039945
         ],
         [
-          -73.9833556934278,
-          40.6937271960552
+          -73.983355693428,
+          40.6937271951546
         ],
         [
           -73.9834322357582,
           40.6938838495314
         ],
         [
-          -73.9839267558909,
-          40.6948471370893
+          -73.9839267558911,
+          40.6948471361889
         ],
         [
           -73.9841234065752,
@@ -618,8 +618,8 @@
           40.6953863559356
         ],
         [
-          -73.9844925171479,
-          40.6959559800974
+          -73.9844925171481,
+          40.6959559791968
         ],
         [
           -73.9845313986404,
@@ -662,8 +662,8 @@
           40.6962352712112
         ],
         [
-          -73.982274983245,
-          40.6975145554604
+          -73.9822749832453,
+          40.6975145545598
         ],
         [
           -73.9822058039046,
@@ -714,12 +714,12 @@
           40.6997985880049
         ],
         [
-          -73.9836781344316,
-          40.6997994071386
+          -73.9836781344318,
+          40.6997994062381
         ],
         [
-          -73.9838708314591,
-          40.6997991524389
+          -73.9838708314593,
+          40.6997991515384
         ],
         [
           -73.9840363744644,
@@ -746,8 +746,8 @@
           40.6998780411611
         ],
         [
-          -73.984676323903,
-          40.6999495525787
+          -73.9846763239032,
+          40.6999495516782
         ],
         [
           -73.9848293099253,
@@ -778,8 +778,8 @@
           40.701366952683
         ],
         [
-          -73.9827658891028,
-          40.7013633054032
+          -73.982765889103,
+          40.7013633045027
         ],
         [
           -73.9826617709405,
@@ -790,8 +790,8 @@
           40.7013502547564
         ],
         [
-          -73.9823712683836,
-          40.7013465249391
+          -73.9823712683838,
+          40.7013465240386
         ],
         [
           -73.9819903543656,
@@ -826,8 +826,8 @@
           40.7005259184444
         ],
         [
-          -73.9804422250194,
-          40.7001918864016
+          -73.9804422250196,
+          40.7001918855011
         ],
         [
           -73.9804636117064,
@@ -838,8 +838,8 @@
           40.6993809692471
         ],
         [
-          -73.9804874816467,
-          40.6992874834485
+          -73.9804874816469,
+          40.6992874825479
         ],
         [
           -73.9805456310083,
@@ -854,8 +854,8 @@
           40.6981240669652
         ],
         [
-          -73.976787865048,
-          40.6980952027782
+          -73.9767878650483,
+          40.6980952018777
         ],
         [
           -73.9757841967567,
@@ -890,12 +890,12 @@
           40.6978662449626
         ],
         [
-          -73.970774584726,
-          40.6978490566494
+          -73.9707745847264,
+          40.6978490557489
         ],
         [
-          -73.9697293350208,
-          40.6978122698239
+          -73.9697293350212,
+          40.6978122689234
         ],
         [
           -73.9687409274107,
@@ -954,8 +954,8 @@
           40.695921057986
         ],
         [
-          -73.9635964794491,
-          40.6960829437139
+          -73.9635964794496,
+          40.6960829428133
         ],
         [
           -73.9635795211605,
@@ -982,8 +982,8 @@
           40.6960920249283
         ],
         [
-          -73.9626448094507,
-          40.6960964679591
+          -73.9626448094512,
+          40.6960964670586
         ],
         [
           -73.9615869947116,
@@ -994,8 +994,8 @@
           40.6940187581793
         ],
         [
-          -73.9607400154656,
-          40.6924321598441
+          -73.9607400154662,
+          40.6924321589436
         ],
         [
           -73.960294249636,
@@ -1053,10 +1053,10 @@
     ]
   },
   "properties": {
-    "OBJECTID": 26,
+    "OBJECTID": 20,
     "CounDist": 35,
-    "Shape__Area": 81510825.2164307,
-    "Shape__Length": 57126.5489988016,
+    "Shape__Area": 81510824.9642792,
+    "Shape__Length": 57126.5482668377,
     "id": 35,
     "council_member": {
       "person_id": "7628",
@@ -1079,7 +1079,7 @@
       "PersonId": 7628,
       "PersonGuid": "481F975C-17F4-410B-A2E2-04FDAA74CEF4",
       "PersonLastModifiedUtc": "2015-08-25T15:57:04.463",
-      "PersonRowVersion": "AAAAAOXGpFc=",
+      "PersonRowVersion": "AAAAAOXXE6Y=",
       "PersonFullName": "Laurie A. Cumbo",
       "PersonActiveFlag": 1,
       "PersonUsedSponsorFlag": 0,
@@ -1206,7 +1206,7 @@
           "OfficeRecordSort": 30,
           "OfficeRecordPersonId": 7628,
           "OfficeRecordBodyId": 5244,
-          "OfficeRecordBodyName": "Committee on Women",
+          "OfficeRecordBodyName": "Committee on Women and Gender Equity",
           "OfficeRecordTitle": "Committee Member",
           "OfficeRecordVoteDivider": 1.0,
           "OfficeRecordExtendFlag": 0,
@@ -1231,6 +1231,29 @@
           "OfficeRecordBodyId": 5257,
           "OfficeRecordBodyName": "Democratic Conference of the Council of the City of New York ",
           "OfficeRecordTitle": "Council Member",
+          "OfficeRecordVoteDivider": 1.0,
+          "OfficeRecordExtendFlag": 0,
+          "OfficeRecordMemberTypeId": 3,
+          "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+          "OfficeRecordSupportNameId": null,
+          "OfficeRecordSupportFullName": null
+        },
+        {
+          "OfficeRecordId": 4267,
+          "OfficeRecordGuid": "B5264E2D-C2C5-49FF-A357-E1535B499889",
+          "OfficeRecordLastModifiedUtc": "2019-06-13T18:22:40.787",
+          "OfficeRecordRowVersion": "AAAAAOXXE6M=",
+          "OfficeRecordFirstName": "Laurie A.",
+          "OfficeRecordLastName": "Cumbo",
+          "OfficeRecordEmail": "Lcumbo@council.nyc.gov",
+          "OfficeRecordFullName": "Laurie A. Cumbo",
+          "OfficeRecordStartDate": "2019-06-13T00:00:00",
+          "OfficeRecordEndDate": "2021-12-31T00:00:00",
+          "OfficeRecordSort": 23,
+          "OfficeRecordPersonId": 7628,
+          "OfficeRecordBodyId": 5242,
+          "OfficeRecordBodyName": "Committee on Justice System",
+          "OfficeRecordTitle": "Committee Member",
           "OfficeRecordVoteDivider": 1.0,
           "OfficeRecordExtendFlag": 0,
           "OfficeRecordMemberTypeId": 3,

@@ -22,7 +22,7 @@
     "PersonId": 7623,
     "PersonGuid": "9F6F5B60-5BF2-4A37-99D1-428AB048687F",
     "PersonLastModifiedUtc": "2015-08-25T15:57:04.463",
-    "PersonRowVersion": "AAAAAOXGpDs=",
+    "PersonRowVersion": "AAAAAOXsA2U=",
     "PersonFullName": "Inez D. Barron",
     "PersonActiveFlag": 1,
     "PersonUsedSponsorFlag": 0,
@@ -162,13 +162,13 @@
         "OfficeRecordId": 4013,
         "OfficeRecordGuid": "4E8C4C3D-BC92-434E-888A-4C35B5AF3C24",
         "OfficeRecordLastModifiedUtc": "2018-01-12T16:34:59.337",
-        "OfficeRecordRowVersion": "AAAAAOV8kik=",
+        "OfficeRecordRowVersion": "AAAAAOXsBsY=",
         "OfficeRecordFirstName": "Inez D.",
         "OfficeRecordLastName": "Barron",
         "OfficeRecordEmail": "Ibarron@council.nyc.gov",
         "OfficeRecordFullName": "Inez D. Barron",
         "OfficeRecordStartDate": "2018-01-11T00:00:00",
-        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordEndDate": "2019-10-29T00:00:00",
         "OfficeRecordSort": 20,
         "OfficeRecordPersonId": 7623,
         "OfficeRecordBodyId": 5149,
@@ -208,13 +208,13 @@
         "OfficeRecordId": 4150,
         "OfficeRecordGuid": "81B2768F-5B35-433D-B613-5C56AC41FC5E",
         "OfficeRecordLastModifiedUtc": "2018-01-12T19:02:08.813",
-        "OfficeRecordRowVersion": "AAAAAOV8lYk=",
+        "OfficeRecordRowVersion": "AAAAAOXnfhM=",
         "OfficeRecordFirstName": "Inez D.",
         "OfficeRecordLastName": "Barron",
         "OfficeRecordEmail": "Ibarron@council.nyc.gov",
         "OfficeRecordFullName": "Inez D. Barron",
         "OfficeRecordStartDate": "2018-01-11T00:00:00",
-        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordEndDate": "2019-09-24T00:00:00",
         "OfficeRecordSort": 20,
         "OfficeRecordPersonId": 7623,
         "OfficeRecordBodyId": 32,
@@ -249,12 +249,58 @@
         "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
         "OfficeRecordSupportNameId": null,
         "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4287,
+        "OfficeRecordGuid": "12ED0C08-03F5-4E60-BA8C-18A12B14EA3A",
+        "OfficeRecordLastModifiedUtc": "2019-09-24T15:26:36.4",
+        "OfficeRecordRowVersion": "AAAAAOXnnqE=",
+        "OfficeRecordFirstName": "Inez D.",
+        "OfficeRecordLastName": "Barron",
+        "OfficeRecordEmail": "Ibarron@council.nyc.gov",
+        "OfficeRecordFullName": "Inez D. Barron",
+        "OfficeRecordStartDate": "2019-09-25T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 30,
+        "OfficeRecordPersonId": 7623,
+        "OfficeRecordBodyId": 5261,
+        "OfficeRecordBodyName": "Subcommittee on Landmarks, Public Sitings and Dispositions",
+        "OfficeRecordTitle": "Committee Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4293,
+        "OfficeRecordGuid": "47639A6F-6575-4335-AFF2-15BAD6A7B09A",
+        "OfficeRecordLastModifiedUtc": "2019-10-30T17:08:34.813",
+        "OfficeRecordRowVersion": "AAAAAOXsA2I=",
+        "OfficeRecordFirstName": "Inez D.",
+        "OfficeRecordLastName": "Barron",
+        "OfficeRecordEmail": "Ibarron@council.nyc.gov",
+        "OfficeRecordFullName": "Inez D. Barron",
+        "OfficeRecordStartDate": "2019-10-30T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 15,
+        "OfficeRecordPersonId": 7623,
+        "OfficeRecordBodyId": 5235,
+        "OfficeRecordBodyName": "Committee on Civil and Human Rights",
+        "OfficeRecordTitle": "Committee Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
       }
     ]
   },
   "district_boundaries": {
     "type": "Feature",
-    "id": 16,
+    "id": 12,
     "geometry": {
       "type": "MultiPolygon",
       "coordinates": [
@@ -26889,44 +26935,12 @@
               40.640030010485
             ],
             [
-              -73.8660935020919,
-              40.6394421263314
+              -73.8662006804942,
+              40.6395450805426
             ],
             [
-              -73.8659893695493,
-              40.6395126580088
-            ],
-            [
-              -73.8653552985334,
-              40.6389595402645
-            ],
-            [
-              -73.8653441558118,
-              40.6389102849894
-            ],
-            [
-              -73.8653639639501,
-              40.6388439380667
-            ],
-            [
-              -73.8654877691176,
-              40.6387734299645
-            ],
-            [
-              -73.8655748870205,
-              40.6387778129086
-            ],
-            [
-              -73.8656338727388,
-              40.6387950106355
-            ],
-            [
-              -73.8662567495531,
-              40.6393245607382
-            ],
-            [
-              -73.8661723292001,
-              40.6393758470839
+              -73.866286166703,
+              40.6394811305057
             ],
             [
               -73.8668166811543,
@@ -27043,6 +27057,10 @@
             [
               -73.8767233285851,
               40.6503314706845
+            ],
+            [
+              -73.8765616528585,
+              40.6501049033087
             ],
             [
               -73.8739556549269,
@@ -29289,12 +29307,12 @@
               40.6472045330149
             ],
             [
-              -73.9147335836393,
-              40.6481094221954
+              -73.9147335836405,
+              40.6481094212949
             ],
             [
-              -73.9160150571622,
-              40.6492607060314
+              -73.9160150571633,
+              40.6492607051309
             ],
             [
               -73.9163213579872,
@@ -29841,10 +29859,10 @@
       ]
     },
     "properties": {
-      "OBJECTID": 16,
+      "OBJECTID": 12,
       "CounDist": 42,
-      "Shape__Area": 200859338.58165,
-      "Shape__Length": 229191.952565329
+      "Shape__Area": 200829280.905273,
+      "Shape__Length": 228404.755025595
     }
   }
 }

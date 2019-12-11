@@ -1,6 +1,6 @@
 {
   "type": "Feature",
-  "id": 38,
+  "id": 25,
   "geometry": {
     "type": "Polygon",
     "coordinates": [
@@ -342,8 +342,8 @@
           40.87061994362
         ],
         [
-          -73.8722339702424,
-          40.8701698831539
+          -73.8722339690561,
+          40.8701698831526
         ],
         [
           -73.8722724044808,
@@ -534,8 +534,8 @@
           40.8687881915217
         ],
         [
-          -73.8783568337839,
-          40.8687656397316
+          -73.8783568325977,
+          40.8687656397303
         ],
         [
           -73.8784804130364,
@@ -570,8 +570,8 @@
           40.8673216438962
         ],
         [
-          -73.8803836927123,
-          40.867249649749
+          -73.8803836915261,
+          40.8672496497478
         ],
         [
           -73.8805471763575,
@@ -614,8 +614,8 @@
           40.866988153928
         ],
         [
-          -73.8808479574415,
-          40.8668933280317
+          -73.8808479562553,
+          40.8668933280304
         ],
         [
           -73.8808480085507,
@@ -666,8 +666,8 @@
           40.8663723050961
         ],
         [
-          -73.8828044550637,
-          40.8663872851397
+          -73.8828044538776,
+          40.8663872851384
         ],
         [
           -73.8829360735669,
@@ -682,8 +682,8 @@
           40.8672658788223
         ],
         [
-          -73.8842405283694,
-          40.8680144522014
+          -73.8842405271831,
+          40.8680144522002
         ],
         [
           -73.8843866834802,
@@ -1370,16 +1370,16 @@
           40.8766398440729
         ],
         [
-          -73.9068551555919,
-          40.876671967958
+          -73.9068551555931,
+          40.8766719670575
         ],
         [
           -73.906927290866,
           40.8767628394771
         ],
         [
-          -73.907038914943,
-          40.8769034533064
+          -73.9070389161293,
+          40.8769034533073
         ],
         [
           -73.9076542439436,
@@ -1394,8 +1394,8 @@
           40.8784950751392
         ],
         [
-          -73.9094997487128,
-          40.8787850245809
+          -73.909499748714,
+          40.8787850236805
         ],
         [
           -73.9103333638318,
@@ -1406,16 +1406,16 @@
           40.8790271508775
         ],
         [
-          -73.9120597289525,
-          40.8781276124192
+          -73.9120597277661,
+          40.8781276124183
         ],
         [
-          -73.9125031565895,
-          40.8779095361262
+          -73.9125031577758,
+          40.8779095361271
         ],
         [
-          -73.9148476709026,
-          40.8766750018024
+          -73.9148476697162,
+          40.8766750018015
         ],
         [
           -73.9157117062988,
@@ -1426,8 +1426,8 @@
           40.8757691873622
         ],
         [
-          -73.9157865846826,
-          40.8757252363812
+          -73.9157865858689,
+          40.8757252363821
         ],
         [
           -73.9172617133913,
@@ -1438,20 +1438,20 @@
           40.8758103505744
         ],
         [
-          -73.9174024379491,
-          40.8757951960481
+          -73.9174024391355,
+          40.875795196049
         ],
         [
           -73.9174750788467,
           40.8757705413215
         ],
         [
-          -73.9176905003212,
-          40.8756889758636
+          -73.9176905015075,
+          40.8756889758644
         ],
         [
-          -73.9177581228555,
-          40.8756719193002
+          -73.9177581240419,
+          40.875671919301
         ],
         [
           -73.9177906560891,
@@ -1470,28 +1470,28 @@
           40.8758127203866
         ],
         [
-          -73.9180859518242,
-          40.8758032842337
+          -73.9180859530105,
+          40.8758032842346
         ],
         [
           -73.9182511721472,
           40.8758262071468
         ],
         [
-          -73.9182611545661,
-          40.8758528218399
+          -73.9182611545672,
+          40.8758528209395
         ],
         [
-          -73.9182811696299,
-          40.8758642379944
+          -73.9182811708163,
+          40.8758642379952
         ],
         [
-          -73.9182987048618,
-          40.8758566475884
+          -73.9182987060482,
+          40.8758566475892
         ],
         [
-          -73.9183312674538,
-          40.875845267755
+          -73.9183312686401,
+          40.8758452677558
         ],
         [
           -73.9190846939861,
@@ -1502,8 +1502,8 @@
           40.8764297272133
         ],
         [
-          -73.9197769984534,
-          40.8765058451348
+          -73.9197769996398,
+          40.8765058451356
         ],
         [
           -73.9198784659028,
@@ -1526,8 +1526,8 @@
           40.8766009387411
         ],
         [
-          -73.9200704263792,
-          40.8766351751011
+          -73.9200704275655,
+          40.8766351751019
         ],
         [
           -73.9200578907684,
@@ -1546,8 +1546,8 @@
           40.8766883954542
         ],
         [
-          -73.9201129266639,
-          40.8766884170626
+          -73.9201129278503,
+          40.8766884170634
         ],
         [
           -73.9201554396123,
@@ -1590,12 +1590,12 @@
           40.8786181563698
         ],
         [
-          -73.9222312270324,
-          40.8786537890223
+          -73.9222312270335,
+          40.8786537881219
         ],
         [
-          -73.9224094250446,
-          40.878691382751
+          -73.9224094250457,
+          40.8786913818505
         ],
         [
           -73.9224094072571,
@@ -1730,8 +1730,8 @@
           40.8790135167123
         ],
         [
-          -73.9243141174429,
-          40.8790269067049
+          -73.9243141186293,
+          40.8790269067057
         ],
         [
           -73.9244918603722,
@@ -2789,10 +2789,10 @@
     ]
   },
   "properties": {
-    "OBJECTID": 38,
+    "OBJECTID": 25,
     "CounDist": 11,
-    "Shape__Area": 205657320.193741,
-    "Shape__Length": 86726.9362392994,
+    "Shape__Area": 205657320.4608,
+    "Shape__Length": 86726.9360802982,
     "id": 11,
     "council_member": {
       "person_id": "7624",
@@ -2815,7 +2815,7 @@
       "PersonId": 7624,
       "PersonGuid": "D45A07AD-97F3-4C8A-AE2B-E3F9906EC4AA",
       "PersonLastModifiedUtc": "2015-08-25T15:57:04.463",
-      "PersonRowVersion": "AAAAAOXGpEs=",
+      "PersonRowVersion": "AAAAAOXsBms=",
       "PersonFullName": "Andrew Cohen",
       "PersonActiveFlag": 1,
       "PersonUsedSponsorFlag": 0,
@@ -2840,13 +2840,13 @@
           "OfficeRecordId": 3908,
           "OfficeRecordGuid": "453AAF52-30A2-4E3D-B1DE-1C5DEED9213B",
           "OfficeRecordLastModifiedUtc": "2018-01-11T20:37:12.47",
-          "OfficeRecordRowVersion": "AAAAAOV8idU=",
+          "OfficeRecordRowVersion": "AAAAAOXMjp0=",
           "OfficeRecordFirstName": "Andrew",
           "OfficeRecordLastName": "Cohen",
           "OfficeRecordEmail": "ACohen@council.nyc.gov",
           "OfficeRecordFullName": "Andrew Cohen",
           "OfficeRecordStartDate": "2018-01-11T00:00:00",
-          "OfficeRecordEndDate": "2021-12-31T00:00:00",
+          "OfficeRecordEndDate": "2019-04-09T00:00:00",
           "OfficeRecordSort": 60,
           "OfficeRecordPersonId": 7624,
           "OfficeRecordBodyId": 9,
@@ -2863,13 +2863,13 @@
           "OfficeRecordId": 3931,
           "OfficeRecordGuid": "055DAC4F-C1FC-4E5A-B646-F315DA0A1EEE",
           "OfficeRecordLastModifiedUtc": "2018-01-11T20:57:51.14",
-          "OfficeRecordRowVersion": "AAAAAOV8ikc=",
+          "OfficeRecordRowVersion": "AAAAAOXXE1o=",
           "OfficeRecordFirstName": "Andrew",
           "OfficeRecordLastName": "Cohen",
           "OfficeRecordEmail": "ACohen@council.nyc.gov",
           "OfficeRecordFullName": "Andrew Cohen",
           "OfficeRecordStartDate": "2018-01-11T00:00:00",
-          "OfficeRecordEndDate": "2021-12-31T00:00:00",
+          "OfficeRecordEndDate": "2019-06-13T00:00:00",
           "OfficeRecordSort": 30,
           "OfficeRecordPersonId": 7624,
           "OfficeRecordBodyId": 11,
@@ -2990,6 +2990,75 @@
           "OfficeRecordBodyId": 5257,
           "OfficeRecordBodyName": "Democratic Conference of the Council of the City of New York ",
           "OfficeRecordTitle": "Council Member",
+          "OfficeRecordVoteDivider": 1.0,
+          "OfficeRecordExtendFlag": 0,
+          "OfficeRecordMemberTypeId": 3,
+          "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+          "OfficeRecordSupportNameId": null,
+          "OfficeRecordSupportFullName": null
+        },
+        {
+          "OfficeRecordId": 4227,
+          "OfficeRecordGuid": "30BD98C0-0115-4EBB-A213-0EBC539DE37C",
+          "OfficeRecordLastModifiedUtc": "2019-04-09T17:27:29.747",
+          "OfficeRecordRowVersion": "AAAAAOXMiwU=",
+          "OfficeRecordFirstName": "Andrew",
+          "OfficeRecordLastName": "Cohen",
+          "OfficeRecordEmail": "ACohen@council.nyc.gov",
+          "OfficeRecordFullName": "Andrew Cohen",
+          "OfficeRecordStartDate": "2019-04-10T00:00:00",
+          "OfficeRecordEndDate": "2021-12-31T00:00:00",
+          "OfficeRecordSort": 35,
+          "OfficeRecordPersonId": 7624,
+          "OfficeRecordBodyId": 14,
+          "OfficeRecordBodyName": "Committee on Health",
+          "OfficeRecordTitle": "Committee Member",
+          "OfficeRecordVoteDivider": 1.0,
+          "OfficeRecordExtendFlag": 0,
+          "OfficeRecordMemberTypeId": 3,
+          "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+          "OfficeRecordSupportNameId": null,
+          "OfficeRecordSupportFullName": null
+        },
+        {
+          "OfficeRecordId": 4274,
+          "OfficeRecordGuid": "45B581E7-890F-43CF-8861-4651E40EBD84",
+          "OfficeRecordLastModifiedUtc": "2019-06-13T18:45:09.28",
+          "OfficeRecordRowVersion": "AAAAAOXXFEc=",
+          "OfficeRecordFirstName": "Andrew",
+          "OfficeRecordLastName": "Cohen",
+          "OfficeRecordEmail": "ACohen@council.nyc.gov",
+          "OfficeRecordFullName": "Andrew Cohen",
+          "OfficeRecordStartDate": "2019-06-13T00:00:00",
+          "OfficeRecordEndDate": "2021-12-31T00:00:00",
+          "OfficeRecordSort": 26,
+          "OfficeRecordPersonId": 7624,
+          "OfficeRecordBodyId": 5108,
+          "OfficeRecordBodyName": "Committee on Sanitation and Solid Waste Management",
+          "OfficeRecordTitle": "Council Member",
+          "OfficeRecordVoteDivider": 1.0,
+          "OfficeRecordExtendFlag": 0,
+          "OfficeRecordMemberTypeId": 3,
+          "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+          "OfficeRecordSupportNameId": null,
+          "OfficeRecordSupportFullName": null
+        },
+        {
+          "OfficeRecordId": 4301,
+          "OfficeRecordGuid": "5D223FA6-84AF-4A94-BF0F-EC0C84EE70E2",
+          "OfficeRecordLastModifiedUtc": "2019-10-30T18:20:24.477",
+          "OfficeRecordRowVersion": "AAAAAOXsBmw=",
+          "OfficeRecordFirstName": "Andrew",
+          "OfficeRecordLastName": "Cohen",
+          "OfficeRecordEmail": "ACohen@council.nyc.gov",
+          "OfficeRecordFullName": "Andrew Cohen",
+          "OfficeRecordStartDate": "2019-10-30T00:00:00",
+          "OfficeRecordEndDate": "2021-12-31T00:00:00",
+          "OfficeRecordSort": 30,
+          "OfficeRecordPersonId": 7624,
+          "OfficeRecordBodyId": 29,
+          "OfficeRecordBodyName": "Committee on Transportation",
+          "OfficeRecordTitle": "Committee Member",
           "OfficeRecordVoteDivider": 1.0,
           "OfficeRecordExtendFlag": 0,
           "OfficeRecordMemberTypeId": 3,

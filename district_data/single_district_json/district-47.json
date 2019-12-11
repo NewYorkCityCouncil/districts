@@ -22,7 +22,7 @@
     "PersonId": 7641,
     "PersonGuid": "DC444FB1-063F-47C9-AA06-15D39C063794",
     "PersonLastModifiedUtc": "2015-08-25T15:57:04.463",
-    "PersonRowVersion": "AAAAAOXGpNw=",
+    "PersonRowVersion": "AAAAAOXnJhc=",
     "PersonFullName": "Mark Treyger",
     "PersonActiveFlag": 1,
     "PersonUsedSponsorFlag": 0,
@@ -208,13 +208,13 @@
         "OfficeRecordId": 4153,
         "OfficeRecordGuid": "9C6EDFCE-5475-4DBF-BCB2-13D53D5FFAEF",
         "OfficeRecordLastModifiedUtc": "2018-01-12T19:03:20.283",
-        "OfficeRecordRowVersion": "AAAAAOV8lZU=",
+        "OfficeRecordRowVersion": "AAAAAOXnfjg=",
         "OfficeRecordFirstName": "Mark",
         "OfficeRecordLastName": "Treyger",
         "OfficeRecordEmail": "Mtreyger@council.nyc.gov",
         "OfficeRecordFullName": "Mark Treyger",
         "OfficeRecordStartDate": "2018-01-11T00:00:00",
-        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordEndDate": "2019-09-24T00:00:00",
         "OfficeRecordSort": 50,
         "OfficeRecordPersonId": 7641,
         "OfficeRecordBodyId": 32,
@@ -249,12 +249,35 @@
         "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
         "OfficeRecordSupportNameId": null,
         "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4290,
+        "OfficeRecordGuid": "C8CFF894-4F08-40E4-994F-14FC619CBCC5",
+        "OfficeRecordLastModifiedUtc": "2019-09-24T15:28:20.763",
+        "OfficeRecordRowVersion": "AAAAAOXnnqQ=",
+        "OfficeRecordFirstName": "Mark",
+        "OfficeRecordLastName": "Treyger",
+        "OfficeRecordEmail": "Mtreyger@council.nyc.gov",
+        "OfficeRecordFullName": "Mark Treyger",
+        "OfficeRecordStartDate": "2019-09-25T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 120,
+        "OfficeRecordPersonId": 7641,
+        "OfficeRecordBodyId": 5261,
+        "OfficeRecordBodyName": "Subcommittee on Landmarks, Public Sitings and Dispositions",
+        "OfficeRecordTitle": "Committee Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
       }
     ]
   },
   "district_boundaries": {
     "type": "Feature",
-    "id": 13,
+    "id": 10,
     "geometry": {
       "type": "Polygon",
       "coordinates": [
@@ -2740,8 +2763,8 @@
             40.5838483317826
           ],
           [
-            -73.9885335033641,
-            40.5839217977388
+            -73.9885335033642,
+            40.5839217968383
           ],
           [
             -73.9888192921078,
@@ -2792,8 +2815,8 @@
             40.5874245469989
           ],
           [
-            -73.9920933722799,
-            40.5874742458827
+            -73.99209337228,
+            40.5874742449822
           ],
           [
             -73.991885820822,
@@ -3451,10 +3474,10 @@
       ]
     },
     "properties": {
-      "OBJECTID": 13,
+      "OBJECTID": 10,
       "CounDist": 47,
-      "Shape__Area": 125420279.71019,
-      "Shape__Length": 99669.0759743894
+      "Shape__Area": 125420279.712723,
+      "Shape__Length": 99669.0760236907
     }
   }
 }

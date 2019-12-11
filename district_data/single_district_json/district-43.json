@@ -22,7 +22,7 @@
     "PersonId": 7748,
     "PersonGuid": "1E0534E6-E64E-4984-B560-E28D046F6834",
     "PersonLastModifiedUtc": "2017-12-05T15:39:04.24",
-    "PersonRowVersion": "AAAAAOXGpD8=",
+    "PersonRowVersion": "AAAAAOXXFEY=",
     "PersonFullName": "Justin L. Brannan",
     "PersonActiveFlag": 1,
     "PersonUsedSponsorFlag": 0,
@@ -47,13 +47,13 @@
         "OfficeRecordId": 3875,
         "OfficeRecordGuid": "0111A809-851B-4491-8162-752B9C75EAE4",
         "OfficeRecordLastModifiedUtc": "2018-01-11T19:40:39.117",
-        "OfficeRecordRowVersion": "AAAAAOV8hbI=",
+        "OfficeRecordRowVersion": "AAAAAOXMjis=",
         "OfficeRecordFirstName": "Justin L.",
         "OfficeRecordLastName": "Brannan",
         "OfficeRecordEmail": "JBrannan@council.nyc.gov",
         "OfficeRecordFullName": "Justin L. Brannan",
         "OfficeRecordStartDate": "2018-01-11T00:00:00",
-        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordEndDate": "2019-04-09T00:00:00",
         "OfficeRecordSort": 10,
         "OfficeRecordPersonId": 7748,
         "OfficeRecordBodyId": 6,
@@ -162,13 +162,13 @@
         "OfficeRecordId": 4130,
         "OfficeRecordGuid": "A49984CF-359A-4738-8518-C0398464467B",
         "OfficeRecordLastModifiedUtc": "2018-01-12T18:35:53.383",
-        "OfficeRecordRowVersion": "AAAAAOV8lN8=",
+        "OfficeRecordRowVersion": "AAAAAOXMt4c=",
         "OfficeRecordFirstName": "Justin L.",
         "OfficeRecordLastName": "Brannan",
         "OfficeRecordEmail": "JBrannan@council.nyc.gov",
         "OfficeRecordFullName": "Justin L. Brannan",
         "OfficeRecordStartDate": "2018-01-11T00:00:00",
-        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordEndDate": "2019-04-09T00:00:00",
         "OfficeRecordSort": 20,
         "OfficeRecordPersonId": 7748,
         "OfficeRecordBodyId": 5122,
@@ -185,13 +185,13 @@
         "OfficeRecordId": 4140,
         "OfficeRecordGuid": "E5458191-6C90-4F50-9980-CE9296EFB293",
         "OfficeRecordLastModifiedUtc": "2018-01-12T18:46:19.883",
-        "OfficeRecordRowVersion": "AAAAAOV8lSo=",
+        "OfficeRecordRowVersion": "AAAAAOXXFIg=",
         "OfficeRecordFirstName": "Justin L.",
         "OfficeRecordLastName": "Brannan",
         "OfficeRecordEmail": "JBrannan@council.nyc.gov",
         "OfficeRecordFullName": "Justin L. Brannan",
         "OfficeRecordStartDate": "2018-01-11T00:00:00",
-        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordEndDate": "2019-06-13T00:00:00",
         "OfficeRecordSort": 20,
         "OfficeRecordPersonId": 7748,
         "OfficeRecordBodyId": 24,
@@ -226,12 +226,81 @@
         "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
         "OfficeRecordSupportNameId": null,
         "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4233,
+        "OfficeRecordGuid": "B69D0F08-1D31-4015-85C3-EB3E6CB0DFF4",
+        "OfficeRecordLastModifiedUtc": "2019-04-09T17:55:50.857",
+        "OfficeRecordRowVersion": "AAAAAOXMjVI=",
+        "OfficeRecordFirstName": "Justin L.",
+        "OfficeRecordLastName": "Brannan",
+        "OfficeRecordEmail": "JBrannan@council.nyc.gov",
+        "OfficeRecordFullName": "Justin L. Brannan",
+        "OfficeRecordStartDate": "2019-04-10T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 15,
+        "OfficeRecordPersonId": 7748,
+        "OfficeRecordBodyId": 5236,
+        "OfficeRecordBodyName": "Committee on Consumer Affairs and Business Licensing",
+        "OfficeRecordTitle": "Committee Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4253,
+        "OfficeRecordGuid": "833B8B62-9021-4857-9AD7-0C4AD2BE48C5",
+        "OfficeRecordLastModifiedUtc": "2019-04-10T14:59:55.033",
+        "OfficeRecordRowVersion": "AAAAAOXMt/g=",
+        "OfficeRecordFirstName": "Justin L.",
+        "OfficeRecordLastName": "Brannan",
+        "OfficeRecordEmail": "JBrannan@council.nyc.gov",
+        "OfficeRecordFullName": "Justin L. Brannan",
+        "OfficeRecordStartDate": "2019-04-09T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 10,
+        "OfficeRecordPersonId": 7748,
+        "OfficeRecordBodyId": 5258,
+        "OfficeRecordBodyName": "Committee on Resiliency and Waterfronts",
+        "OfficeRecordTitle": "CHAIRPERSON",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 1,
+        "OfficeRecordMemberType": "CHAIR",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4273,
+        "OfficeRecordGuid": "35F98B7F-F0A8-4FA9-A552-3E5F2F44B584",
+        "OfficeRecordLastModifiedUtc": "2019-06-13T18:44:25.23",
+        "OfficeRecordRowVersion": "AAAAAOXXFEM=",
+        "OfficeRecordFirstName": "Justin L.",
+        "OfficeRecordLastName": "Brannan",
+        "OfficeRecordEmail": "JBrannan@council.nyc.gov",
+        "OfficeRecordFullName": "Justin L. Brannan",
+        "OfficeRecordStartDate": "2019-06-13T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 15,
+        "OfficeRecordPersonId": 7748,
+        "OfficeRecordBodyId": 5108,
+        "OfficeRecordBodyName": "Committee on Sanitation and Solid Waste Management",
+        "OfficeRecordTitle": "Committee Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
       }
     ]
   },
   "district_boundaries": {
     "type": "Feature",
-    "id": 28,
+    "id": 51,
     "geometry": {
       "type": "Polygon",
       "coordinates": [
@@ -253,8 +322,8 @@
             40.6413920613054
           ],
           [
-            -74.0270052587071,
-            40.6404703752756
+            -74.0270052587075,
+            40.6404703761761
           ],
           [
             -74.0267278485883,
@@ -265,8 +334,8 @@
             40.6402093775385
           ],
           [
-            -74.0262641244765,
-            40.6401026229218
+            -74.0262641244769,
+            40.6401026238222
           ],
           [
             -74.0260862894101,
@@ -309,68 +378,80 @@
             40.6352433226627
           ],
           [
-            -74.0169071548002,
-            40.6353104759471
+            -74.0169071548004,
+            40.6353104768477
           ],
           [
-            -74.0168455096476,
-            40.635370554128
+            -74.0168117100793,
+            40.6354056703181
           ],
           [
-            -74.0166774780799,
-            40.6351949458669
+            -74.0166278242274,
+            40.6352237930867
           ],
           [
-            -74.0166101412283,
-            40.6351270744783
+            -74.0165621285731,
+            40.6351530388709
           ],
           [
-            -74.0165066079585,
-            40.6349997469692
+            -74.0164438730126,
+            40.6350172458435
           ],
           [
-            -74.0164666775211,
-            40.6349506482832
+            -74.0164032261415,
+            40.6349675826125
           ],
           [
-            -74.016340080172,
-            40.6347644020492
+            -74.0162742382745,
+            40.63477913848
           ],
           [
-            -74.0162691372185,
-            40.6346366464407
+            -74.0162018683128,
+            40.6346498422437
           ],
           [
-            -74.0162320043244,
-            40.6345697710253
+            -74.0161411542288,
+            40.6345275998927
           ],
           [
-            -74.0161437623338,
-            40.6343683994273
+            -74.0160875676903,
+            40.6344034384047
           ],
           [
-            -74.0160763592178,
-            40.6341620638842
+            -74.0160412115588,
+            40.6342776000151
           ],
           [
-            -74.0160304111024,
-            40.6339526716464
+            -74.0160021768732,
+            40.6341503278601
           ],
           [
-            -74.0160061274764,
-            40.6337421525232
+            -74.0159705381222,
+            40.6340218695795
           ],
           [
-            -74.0160033584785,
-            40.6335324309589
+            -74.0159463591547,
+            40.6338924737139
           ],
           [
-            -74.0160215487929,
-            40.6333253539976
+            -74.015929683724,
+            40.6337623924072
           ],
           [
-            -74.0159161819355,
-            40.6333737895602
+            -74.0159205461262,
+            40.6336318778033
+          ],
+          [
+            -74.0159189641081,
+            40.6335011829476
+          ],
+          [
+            -74.015924938868,
+            40.6333705617866
+          ],
+          [
+            -74.0158629562656,
+            40.6333995670795
           ],
           [
             -74.0156034967861,
@@ -385,12 +466,12 @@
             40.6320220061349
           ],
           [
-            -74.0109717094245,
-            40.6306901091991
+            -74.0109717094244,
+            40.6306901082985
           ],
           [
-            -74.010004853519,
-            40.6301213301518
+            -74.0100048535188,
+            40.6301213292513
           ],
           [
             -74.0087552988979,
@@ -761,8 +842,8 @@
             40.5875705991427
           ],
           [
-            -73.9920933722799,
-            40.5874742458827
+            -73.99209337228,
+            40.5874742449822
           ],
           [
             -73.99220042172,
@@ -813,8 +894,8 @@
             40.5843812272249
           ],
           [
-            -73.9885335033641,
-            40.5839217977388
+            -73.9885335033642,
+            40.5839217968383
           ],
           [
             -73.9884493713758,
@@ -2672,10 +2753,10 @@
       ]
     },
     "properties": {
-      "OBJECTID": 28,
+      "OBJECTID": 51,
       "CounDist": 43,
-      "Shape__Area": 146840955.054276,
-      "Shape__Length": 85425.6068971626
+      "Shape__Area": 146856674.88179,
+      "Shape__Length": 85410.3573515819
     }
   }
 }

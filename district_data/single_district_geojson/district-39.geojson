@@ -1,6 +1,6 @@
 {
   "type": "Feature",
-  "id": 18,
+  "id": 14,
   "geometry": {
     "type": "Polygon",
     "coordinates": [
@@ -1086,12 +1086,12 @@
           40.6924150021121
         ],
         [
-          -74.0017013390233,
+          -74.0017013402064,
           40.6923910194015
         ],
         [
-          -74.0017957661055,
-          40.692193030244
+          -74.0017957661054,
+          40.6921930293435
         ],
         [
           -74.0007745033576,
@@ -1118,15 +1118,15 @@
           40.6916597026388
         ],
         [
-          -73.9993668463051,
-          40.6916213310575
+          -73.9993668474882,
+          40.6916213310576
         ],
         [
           -73.999289640651,
           40.6916022127129
         ],
         [
-          -73.9992030628148,
+          -73.9992030639979,
           40.6915800865379
         ],
         [
@@ -1170,8 +1170,8 @@
           40.6885276739672
         ],
         [
-          -73.9930059597494,
-          40.6883728884065
+          -73.9930059597495,
+          40.688372887506
         ],
         [
           -73.9932697428298,
@@ -1194,8 +1194,8 @@
           40.6864611223797
         ],
         [
-          -73.9940929200543,
-          40.6861216920355
+          -73.9940929200544,
+          40.6861216911351
         ],
         [
           -73.9942551224041,
@@ -1222,7 +1222,7 @@
           40.6829174430189
         ],
         [
-          -73.9934819465302,
+          -73.9934819477131,
           40.6822825236019
         ],
         [
@@ -1242,8 +1242,8 @@
           40.6808268893381
         ],
         [
-          -73.9873167763228,
-          40.6807012482324
+          -73.987316776323,
+          40.6807012473319
         ],
         [
           -73.9877912361463,
@@ -1302,8 +1302,8 @@
           40.6831370898032
         ],
         [
-          -73.9787616625552,
-          40.6837736966185
+          -73.9787616625555,
+          40.683773695718
         ],
         [
           -73.9784311446382,
@@ -1321,10 +1321,10 @@
     ]
   },
   "properties": {
-    "OBJECTID": 18,
+    "OBJECTID": 14,
     "CounDist": 39,
-    "Shape__Area": 116496850.190704,
-    "Shape__Length": 73679.5410191298,
+    "Shape__Area": 116496850.041962,
+    "Shape__Length": 73679.541132942,
     "id": 39,
     "council_member": {
       "person_id": "7566",
@@ -1347,7 +1347,7 @@
       "PersonId": 7566,
       "PersonGuid": "38F0FAFE-8691-43F1-B4F6-B35B272152AE",
       "PersonLastModifiedUtc": "2015-08-25T15:57:04.463",
-      "PersonRowVersion": "AAAAAOXGpJM=",
+      "PersonRowVersion": "AAAAAOXMjRU=",
       "PersonFullName": "Brad S. Lander",
       "PersonActiveFlag": 1,
       "PersonUsedSponsorFlag": 0,
@@ -1520,7 +1520,7 @@
           "OfficeRecordSort": 50,
           "OfficeRecordPersonId": 7566,
           "OfficeRecordBodyId": 5244,
-          "OfficeRecordBodyName": "Committee on Women",
+          "OfficeRecordBodyName": "Committee on Women and Gender Equity",
           "OfficeRecordTitle": "Committee Member",
           "OfficeRecordVoteDivider": 1.0,
           "OfficeRecordExtendFlag": 0,
@@ -1545,6 +1545,29 @@
           "OfficeRecordBodyId": 5257,
           "OfficeRecordBodyName": "Democratic Conference of the Council of the City of New York ",
           "OfficeRecordTitle": "Council Member",
+          "OfficeRecordVoteDivider": 1.0,
+          "OfficeRecordExtendFlag": 0,
+          "OfficeRecordMemberTypeId": 3,
+          "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+          "OfficeRecordSupportNameId": null,
+          "OfficeRecordSupportFullName": null
+        },
+        {
+          "OfficeRecordId": 4232,
+          "OfficeRecordGuid": "CF4109FB-575E-47B6-B5AE-5E70E64BA217",
+          "OfficeRecordLastModifiedUtc": "2019-04-09T17:50:23.45",
+          "OfficeRecordRowVersion": "AAAAAOXXE58=",
+          "OfficeRecordFirstName": "Brad S.",
+          "OfficeRecordLastName": "Lander",
+          "OfficeRecordEmail": "Blander@council.nyc.gov",
+          "OfficeRecordFullName": "Brad S. Lander",
+          "OfficeRecordStartDate": "2019-04-10T00:00:00",
+          "OfficeRecordEndDate": "2019-06-13T00:00:00",
+          "OfficeRecordSort": 35,
+          "OfficeRecordPersonId": 7566,
+          "OfficeRecordBodyId": 5242,
+          "OfficeRecordBodyName": "Committee on Justice System",
+          "OfficeRecordTitle": "Committee Member",
           "OfficeRecordVoteDivider": 1.0,
           "OfficeRecordExtendFlag": 0,
           "OfficeRecordMemberTypeId": 3,

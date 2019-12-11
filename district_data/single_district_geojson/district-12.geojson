@@ -1,6 +1,6 @@
 {
   "type": "Feature",
-  "id": 11,
+  "id": 9,
   "geometry": {
     "type": "Polygon",
     "coordinates": [
@@ -54,8 +54,8 @@
           40.8871159700434
         ],
         [
-          -73.8227699368985,
-          40.8870545934319
+          -73.8227699380851,
+          40.8870545934338
         ],
         [
           -73.8226456383585,
@@ -258,12 +258,12 @@
           40.8656514290762
         ],
         [
-          -73.8378452044269,
-          40.8661074799637
+          -73.837845205613,
+          40.8661074799653
         ],
         [
-          -73.8387536384502,
-          40.8665810694153
+          -73.8387536396363,
+          40.866581069417
         ],
         [
           -73.8392222582868,
@@ -302,8 +302,8 @@
           40.8674742838017
         ],
         [
-          -73.8452349550122,
-          40.8674927852078
+          -73.8452349561984,
+          40.8674927852094
         ],
         [
           -73.846175805508,
@@ -318,20 +318,20 @@
           40.866522689456
         ],
         [
-          -73.8485464853131,
-          40.8665315462704
+          -73.8485464864993,
+          40.866531546272
         ],
         [
-          -73.8487886314517,
-          40.8662398626564
+          -73.8487886326379,
+          40.8662398626579
         ],
         [
           -73.8489646988219,
           40.866338219709
         ],
         [
-          -73.8490712926296,
-          40.8663935052254
+          -73.8490712938158,
+          40.866393505227
         ],
         [
           -73.8491385777666,
@@ -350,16 +350,16 @@
           40.8675832250759
         ],
         [
-          -73.8509443899469,
-          40.8675994274942
+          -73.8509443911331,
+          40.8675994274958
         ],
         [
           -73.8518845645046,
           40.8676142985537
         ],
         [
-          -73.8528197828124,
-          40.8676327035626
+          -73.8528197839986,
+          40.8676327035641
         ],
         [
           -73.8537574957615,
@@ -390,8 +390,8 @@
           40.8677508662667
         ],
         [
-          -73.8604809543311,
-          40.8677710810218
+          -73.8604809531449,
+          40.8677710810203
         ],
         [
           -73.8614996718449,
@@ -426,8 +426,8 @@
           40.8688924000778
         ],
         [
-          -73.8634132972177,
-          40.8688620119614
+          -73.8634132984039,
+          40.8688620119628
         ],
         [
           -73.8633876237179,
@@ -518,8 +518,8 @@
           40.8728252414934
         ],
         [
-          -73.8644627858078,
-          40.872825259616
+          -73.8644627846215,
+          40.8728252596146
         ],
         [
           -73.8646127174055,
@@ -530,8 +530,8 @@
           40.872861662407
         ],
         [
-          -73.8647579117567,
-          40.8729128533642
+          -73.8647579105704,
+          40.8729128533628
         ],
         [
           -73.8648944272442,
@@ -542,8 +542,8 @@
           40.8730561205192
         ],
         [
-          -73.8650188774865,
-          40.8730561565942
+          -73.8650188763002,
+          40.8730561565928
         ],
         [
           -73.8651282525454,
@@ -590,8 +590,8 @@
           40.873458720634
         ],
         [
-          -73.8654435175856,
-          40.873458883914
+          -73.8654435163993,
+          40.8734588839126
         ],
         [
           -73.8654437771853,
@@ -670,8 +670,8 @@
           40.8733436470586
         ],
         [
-          -73.8662988722088,
-          40.873220419082
+          -73.8662988710224,
+          40.8732204190806
         ],
         [
           -73.8670976891692,
@@ -1209,10 +1209,10 @@
     ]
   },
   "properties": {
-    "OBJECTID": 11,
+    "OBJECTID": 9,
     "CounDist": 12,
-    "Shape__Area": 137915456.020264,
-    "Shape__Length": 56956.2785016866,
+    "Shape__Area": 137915456.134537,
+    "Shape__Length": 56956.2790355209,
     "id": 12,
     "council_member": {
       "person_id": "7613",
@@ -1235,7 +1235,7 @@
       "PersonId": 7613,
       "PersonGuid": "960D5A27-73A3-4C1D-8BD6-C93A086C48E8",
       "PersonLastModifiedUtc": "2015-08-25T15:57:04.463",
-      "PersonRowVersion": "AAAAAOXGpIM=",
+      "PersonRowVersion": "AAAAAOXXFFo=",
       "PersonFullName": "Andy L. King",
       "PersonActiveFlag": 1,
       "PersonUsedSponsorFlag": 0,
@@ -1260,13 +1260,13 @@
           "OfficeRecordId": 3866,
           "OfficeRecordGuid": "C20A47C8-E26D-4347-9488-C5B948FCEEC4",
           "OfficeRecordLastModifiedUtc": "2018-01-11T19:11:27.24",
-          "OfficeRecordRowVersion": "AAAAAOV8hUQ=",
+          "OfficeRecordRowVersion": "AAAAAOXsA0M=",
           "OfficeRecordFirstName": "Andy L.",
           "OfficeRecordLastName": "King",
           "OfficeRecordEmail": "Andy.King@council.nyc.gov",
           "OfficeRecordFullName": "Andy L. King",
           "OfficeRecordStartDate": "2018-01-11T00:00:00",
-          "OfficeRecordEndDate": "2021-12-31T00:00:00",
+          "OfficeRecordEndDate": "2019-10-29T00:00:00",
           "OfficeRecordSort": 40,
           "OfficeRecordPersonId": 7613,
           "OfficeRecordBodyId": 4,
@@ -1283,13 +1283,13 @@
           "OfficeRecordId": 3914,
           "OfficeRecordGuid": "BDA0BCF4-8187-4473-87EB-975B91A173C8",
           "OfficeRecordLastModifiedUtc": "2018-01-11T20:39:57.47",
-          "OfficeRecordRowVersion": "AAAAAOV8ie0=",
+          "OfficeRecordRowVersion": "AAAAAOXsA/8=",
           "OfficeRecordFirstName": "Andy L.",
           "OfficeRecordLastName": "King",
           "OfficeRecordEmail": "Andy.King@council.nyc.gov",
           "OfficeRecordFullName": "Andy L. King",
           "OfficeRecordStartDate": "2018-01-11T00:00:00",
-          "OfficeRecordEndDate": "2021-12-31T00:00:00",
+          "OfficeRecordEndDate": "2019-10-29T00:00:00",
           "OfficeRecordSort": 120,
           "OfficeRecordPersonId": 7613,
           "OfficeRecordBodyId": 9,
@@ -1306,13 +1306,13 @@
           "OfficeRecordId": 4012,
           "OfficeRecordGuid": "F09FD463-394F-4A30-9057-CA693808C0EF",
           "OfficeRecordLastModifiedUtc": "2018-01-12T16:34:38.697",
-          "OfficeRecordRowVersion": "AAAAAOV8kiU=",
+          "OfficeRecordRowVersion": "AAAAAOXsBsQ=",
           "OfficeRecordFirstName": "Andy L.",
           "OfficeRecordLastName": "King",
           "OfficeRecordEmail": "Andy.King@council.nyc.gov",
           "OfficeRecordFullName": "Andy L. King",
           "OfficeRecordStartDate": "2018-01-11T00:00:00",
-          "OfficeRecordEndDate": "2021-12-31T00:00:00",
+          "OfficeRecordEndDate": "2019-10-29T00:00:00",
           "OfficeRecordSort": 10,
           "OfficeRecordPersonId": 7613,
           "OfficeRecordBodyId": 5149,
@@ -1329,13 +1329,13 @@
           "OfficeRecordId": 4028,
           "OfficeRecordGuid": "BA22C2FE-CDE7-448A-9757-825C99BF303A",
           "OfficeRecordLastModifiedUtc": "2018-01-12T16:47:08.813",
-          "OfficeRecordRowVersion": "AAAAAOV8km0=",
+          "OfficeRecordRowVersion": "AAAAAOXsAzo=",
           "OfficeRecordFirstName": "Andy L.",
           "OfficeRecordLastName": "King",
           "OfficeRecordEmail": "Andy.King@council.nyc.gov",
           "OfficeRecordFullName": "Andy L. King",
           "OfficeRecordStartDate": "2018-01-11T00:00:00",
-          "OfficeRecordEndDate": "2021-12-31T00:00:00",
+          "OfficeRecordEndDate": "2019-10-29T00:00:00",
           "OfficeRecordSort": 100,
           "OfficeRecordPersonId": 7613,
           "OfficeRecordBodyId": 17,
@@ -1352,13 +1352,13 @@
           "OfficeRecordId": 4057,
           "OfficeRecordGuid": "9FF64435-2F7A-446B-98A1-ADABB8138D25",
           "OfficeRecordLastModifiedUtc": "2018-01-12T17:31:45.517",
-          "OfficeRecordRowVersion": "AAAAAOV8kw0=",
+          "OfficeRecordRowVersion": "AAAAAOXsBTU=",
           "OfficeRecordFirstName": "Andy L.",
           "OfficeRecordLastName": "King",
           "OfficeRecordEmail": "Andy.King@council.nyc.gov",
           "OfficeRecordFullName": "Andy L. King",
           "OfficeRecordStartDate": "2018-01-11T00:00:00",
-          "OfficeRecordEndDate": "2021-12-31T00:00:00",
+          "OfficeRecordEndDate": "2019-10-29T00:00:00",
           "OfficeRecordSort": 70,
           "OfficeRecordPersonId": 7613,
           "OfficeRecordBodyId": 5106,
@@ -1375,13 +1375,13 @@
           "OfficeRecordId": 4143,
           "OfficeRecordGuid": "D3A5634A-831E-4F73-A7E8-147B83371171",
           "OfficeRecordLastModifiedUtc": "2018-01-12T18:47:26.177",
-          "OfficeRecordRowVersion": "AAAAAOV8lTY=",
+          "OfficeRecordRowVersion": "AAAAAOXsBqw=",
           "OfficeRecordFirstName": "Andy L.",
           "OfficeRecordLastName": "King",
           "OfficeRecordEmail": "Andy.King@council.nyc.gov",
           "OfficeRecordFullName": "Andy L. King",
           "OfficeRecordStartDate": "2018-01-11T00:00:00",
-          "OfficeRecordEndDate": "2021-12-31T00:00:00",
+          "OfficeRecordEndDate": "2019-10-29T00:00:00",
           "OfficeRecordSort": 50,
           "OfficeRecordPersonId": 7613,
           "OfficeRecordBodyId": 24,
@@ -1398,13 +1398,13 @@
           "OfficeRecordId": 4158,
           "OfficeRecordGuid": "7A3DD643-A13A-43D9-89BE-EB260B079C28",
           "OfficeRecordLastModifiedUtc": "2018-01-12T19:06:47.173",
-          "OfficeRecordRowVersion": "AAAAAOV8lcI=",
+          "OfficeRecordRowVersion": "AAAAAOXMt8U=",
           "OfficeRecordFirstName": "Andy L.",
           "OfficeRecordLastName": "King",
           "OfficeRecordEmail": "Andy.King@council.nyc.gov",
           "OfficeRecordFullName": "Andy L. King",
           "OfficeRecordStartDate": "2018-01-11T00:00:00",
-          "OfficeRecordEndDate": "2021-12-31T00:00:00",
+          "OfficeRecordEndDate": "2019-04-09T00:00:00",
           "OfficeRecordSort": 50,
           "OfficeRecordPersonId": 7613,
           "OfficeRecordBodyId": 5070,
@@ -1433,6 +1433,52 @@
           "OfficeRecordBodyId": 5257,
           "OfficeRecordBodyName": "Democratic Conference of the Council of the City of New York ",
           "OfficeRecordTitle": "Council Member",
+          "OfficeRecordVoteDivider": 1.0,
+          "OfficeRecordExtendFlag": 0,
+          "OfficeRecordMemberTypeId": 3,
+          "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+          "OfficeRecordSupportNameId": null,
+          "OfficeRecordSupportFullName": null
+        },
+        {
+          "OfficeRecordId": 4240,
+          "OfficeRecordGuid": "9D5A2302-4820-48EF-9A72-BF314E213655",
+          "OfficeRecordLastModifiedUtc": "2019-04-09T18:34:37.383",
+          "OfficeRecordRowVersion": "AAAAAOXXE3I=",
+          "OfficeRecordFirstName": "Andy L.",
+          "OfficeRecordLastName": "King",
+          "OfficeRecordEmail": "Andy.King@council.nyc.gov",
+          "OfficeRecordFullName": "Andy L. King",
+          "OfficeRecordStartDate": "2019-04-10T00:00:00",
+          "OfficeRecordEndDate": "2019-06-13T00:00:00",
+          "OfficeRecordSort": 45,
+          "OfficeRecordPersonId": 7613,
+          "OfficeRecordBodyId": 15,
+          "OfficeRecordBodyName": "Committee on Higher Education",
+          "OfficeRecordTitle": "Committee Member",
+          "OfficeRecordVoteDivider": 1.0,
+          "OfficeRecordExtendFlag": 0,
+          "OfficeRecordMemberTypeId": 3,
+          "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+          "OfficeRecordSupportNameId": null,
+          "OfficeRecordSupportFullName": null
+        },
+        {
+          "OfficeRecordId": 4275,
+          "OfficeRecordGuid": "00F95677-6173-4C43-9B32-77ADBD2141B1",
+          "OfficeRecordLastModifiedUtc": "2019-06-13T18:48:41.553",
+          "OfficeRecordRowVersion": "AAAAAOXsBgc=",
+          "OfficeRecordFirstName": "Andy L.",
+          "OfficeRecordLastName": "King",
+          "OfficeRecordEmail": "Andy.King@council.nyc.gov",
+          "OfficeRecordFullName": "Andy L. King",
+          "OfficeRecordStartDate": "2019-06-13T00:00:00",
+          "OfficeRecordEndDate": "2019-10-29T00:00:00",
+          "OfficeRecordSort": 45,
+          "OfficeRecordPersonId": 7613,
+          "OfficeRecordBodyId": 22,
+          "OfficeRecordBodyName": "Committee on State and Federal Legislation",
+          "OfficeRecordTitle": "Committee Member",
           "OfficeRecordVoteDivider": 1.0,
           "OfficeRecordExtendFlag": 0,
           "OfficeRecordMemberTypeId": 3,

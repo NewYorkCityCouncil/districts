@@ -22,7 +22,7 @@
     "PersonId": 386,
     "PersonGuid": "52F44E6B-B3AB-45B5-BE57-69328B933D72",
     "PersonLastModifiedUtc": "2015-08-25T15:57:04.463",
-    "PersonRowVersion": "AAAAAOXGpIs=",
+    "PersonRowVersion": "AAAAAOXsBCM=",
     "PersonFullName": "Karen Koslowitz",
     "PersonActiveFlag": 1,
     "PersonUsedSponsorFlag": 0,
@@ -93,13 +93,13 @@
         "OfficeRecordId": 3888,
         "OfficeRecordGuid": "259249C3-D2CC-4845-9018-2B59FB7B2677",
         "OfficeRecordLastModifiedUtc": "2018-01-11T20:12:04.377",
-        "OfficeRecordRowVersion": "AAAAAOV8iPw=",
+        "OfficeRecordRowVersion": "AAAAAOXsA9g=",
         "OfficeRecordFirstName": "Karen",
         "OfficeRecordLastName": "Koslowitz",
         "OfficeRecordEmail": "Kkoslowitz@council.nyc.gov",
         "OfficeRecordFullName": "Karen Koslowitz",
         "OfficeRecordStartDate": "2018-01-11T00:00:00",
-        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordEndDate": "2019-10-29T00:00:00",
         "OfficeRecordSort": 40,
         "OfficeRecordPersonId": 386,
         "OfficeRecordBodyId": 5105,
@@ -203,12 +203,35 @@
         "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
         "OfficeRecordSupportNameId": null,
         "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4296,
+        "OfficeRecordGuid": "4A79B511-58B0-4662-845C-0FC53C4111F1",
+        "OfficeRecordLastModifiedUtc": "2019-10-30T17:31:30.723",
+        "OfficeRecordRowVersion": "AAAAAOXsBCA=",
+        "OfficeRecordFirstName": "Karen",
+        "OfficeRecordLastName": "Koslowitz",
+        "OfficeRecordEmail": "Kkoslowitz@council.nyc.gov",
+        "OfficeRecordFullName": "Karen Koslowitz",
+        "OfficeRecordStartDate": "2019-10-30T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 75,
+        "OfficeRecordPersonId": 386,
+        "OfficeRecordBodyId": 11,
+        "OfficeRecordBodyName": "Committee on Finance",
+        "OfficeRecordTitle": "Committee Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
       }
     ]
   },
   "district_boundaries": {
     "type": "Feature",
-    "id": 23,
+    "id": 18,
     "geometry": {
       "type": "Polygon",
       "coordinates": [
@@ -1713,7 +1736,7 @@
       ]
     },
     "properties": {
-      "OBJECTID": 23,
+      "OBJECTID": 18,
       "CounDist": 29,
       "Shape__Area": 120165406.442612,
       "Shape__Length": 57728.0056922302

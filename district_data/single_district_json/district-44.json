@@ -116,13 +116,13 @@
         "OfficeRecordId": 4006,
         "OfficeRecordGuid": "8128B606-13EA-48C1-A90C-1427972ACBA4",
         "OfficeRecordLastModifiedUtc": "2018-01-12T16:25:02.113",
-        "OfficeRecordRowVersion": "AAAAAOV8kfU=",
+        "OfficeRecordRowVersion": "AAAAAOXMi14=",
         "OfficeRecordFirstName": "Kalman",
         "OfficeRecordLastName": "Yeger",
         "OfficeRecordEmail": "Kyeger@council.nyc.gov",
         "OfficeRecordFullName": "Kalman Yeger ",
         "OfficeRecordStartDate": "2018-01-11T00:00:00",
-        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordEndDate": "2019-04-09T00:00:00",
         "OfficeRecordSort": 70,
         "OfficeRecordPersonId": 7749,
         "OfficeRecordBodyId": 5119,
@@ -250,8 +250,8 @@
             40.6299962566075
           ],
           [
-            -73.9713676539262,
-            40.6289374038762
+            -73.9713676539264,
+            40.6289374033736
           ],
           [
             -73.9712089368373,
@@ -959,8 +959,8 @@
     "properties": {
       "OBJECTID": 1,
       "CounDist": 44,
-      "Shape__Area": 92757491.6577301,
-      "Shape__Length": 57615.4011780015
+      "Shape__Area": 92757491.6485596,
+      "Shape__Length": 57615.4011779719
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "type": "Feature",
-  "id": 30,
+  "id": 22,
   "geometry": {
     "type": "MultiPolygon",
     "coordinates": [
@@ -4435,8 +4435,8 @@
             40.5801647190628
           ],
           [
-            -74.1516098220457,
-            40.5801648808062
+            -74.1516098208646,
+            40.5801648808077
           ],
           [
             -74.1516100975918,
@@ -11303,10 +11303,10 @@
     ]
   },
   "properties": {
-    "OBJECTID": 30,
+    "OBJECTID": 22,
     "CounDist": 50,
-    "Shape__Area": 639143537.252602,
-    "Shape__Length": 185359.10466011,
+    "Shape__Area": 639143537.252586,
+    "Shape__Length": 185359.104668297,
     "id": 50,
     "council_member": {
       "person_id": "5953",

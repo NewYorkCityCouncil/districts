@@ -22,7 +22,7 @@
     "PersonId": 7565,
     "PersonGuid": "22E3BA87-AFEC-4C9C-9A8B-7A4075A48D84",
     "PersonLastModifiedUtc": "2015-08-25T15:57:04.463",
-    "PersonRowVersion": "AAAAAOXGpIc=",
+    "PersonRowVersion": "AAAAAOXo1Hg=",
     "PersonFullName": "Peter A. Koo",
     "PersonActiveFlag": 1,
     "PersonUsedSponsorFlag": 0,
@@ -116,13 +116,13 @@
         "OfficeRecordId": 4058,
         "OfficeRecordGuid": "E9F7CBF2-175D-4EAA-A84B-1629DAD97E2F",
         "OfficeRecordLastModifiedUtc": "2018-01-12T17:32:06.64",
-        "OfficeRecordRowVersion": "AAAAAOV8kxE=",
+        "OfficeRecordRowVersion": "AAAAAOXMtzM=",
         "OfficeRecordFirstName": "Peter A.",
         "OfficeRecordLastName": "Koo",
         "OfficeRecordEmail": "Pkoo@council.nyc.gov",
         "OfficeRecordFullName": "Peter A. Koo",
         "OfficeRecordStartDate": "2018-01-11T00:00:00",
-        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordEndDate": "2019-04-09T00:00:00",
         "OfficeRecordSort": 80,
         "OfficeRecordPersonId": 7565,
         "OfficeRecordBodyId": 5106,
@@ -139,13 +139,13 @@
         "OfficeRecordId": 4109,
         "OfficeRecordGuid": "0EC9F0FC-0CFB-4401-AA62-A302F7A3089E",
         "OfficeRecordLastModifiedUtc": "2018-01-12T18:22:36.06",
-        "OfficeRecordRowVersion": "AAAAAOV8lG8=",
+        "OfficeRecordRowVersion": "AAAAAOXXFKA=",
         "OfficeRecordFirstName": "Peter A.",
         "OfficeRecordLastName": "Koo",
         "OfficeRecordEmail": "Pkoo@council.nyc.gov",
         "OfficeRecordFullName": "Peter A. Koo",
         "OfficeRecordStartDate": "2018-01-11T00:00:00",
-        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordEndDate": "2019-06-12T00:00:00",
         "OfficeRecordSort": 10,
         "OfficeRecordPersonId": 7565,
         "OfficeRecordBodyId": 5213,
@@ -185,13 +185,13 @@
         "OfficeRecordId": 4151,
         "OfficeRecordGuid": "3019D2B0-BDF2-4E3A-B698-BAA6EAE2194B",
         "OfficeRecordLastModifiedUtc": "2018-01-12T19:02:29.233",
-        "OfficeRecordRowVersion": "AAAAAOV8lY0=",
+        "OfficeRecordRowVersion": "AAAAAOXnfi0=",
         "OfficeRecordFirstName": "Peter A.",
         "OfficeRecordLastName": "Koo",
         "OfficeRecordEmail": "Pkoo@council.nyc.gov",
         "OfficeRecordFullName": "Peter A. Koo",
         "OfficeRecordStartDate": "2018-01-11T00:00:00",
-        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordEndDate": "2019-09-24T00:00:00",
         "OfficeRecordSort": 30,
         "OfficeRecordPersonId": 7565,
         "OfficeRecordBodyId": 32,
@@ -226,12 +226,104 @@
         "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
         "OfficeRecordSupportNameId": null,
         "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4270,
+        "OfficeRecordGuid": "6C15F800-23D3-4299-AAF1-F1D99DDCBF3E",
+        "OfficeRecordLastModifiedUtc": "2019-06-13T18:33:34.59",
+        "OfficeRecordRowVersion": "AAAAAOXXE8c=",
+        "OfficeRecordFirstName": "Peter A.",
+        "OfficeRecordLastName": "Koo",
+        "OfficeRecordEmail": "Pkoo@council.nyc.gov",
+        "OfficeRecordFullName": "Peter A. Koo",
+        "OfficeRecordStartDate": "2019-06-13T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 1,
+        "OfficeRecordPersonId": 7565,
+        "OfficeRecordBodyId": 5106,
+        "OfficeRecordBodyName": "Committee on Parks and Recreation",
+        "OfficeRecordTitle": "CHAIRPERSON",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 1,
+        "OfficeRecordMemberType": "CHAIR",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4276,
+        "OfficeRecordGuid": "5CEBAC2C-5FA3-4A3C-974A-1F2B3B9C30EF",
+        "OfficeRecordLastModifiedUtc": "2019-06-13T18:52:02.34",
+        "OfficeRecordRowVersion": "AAAAAOXXFJ4=",
+        "OfficeRecordFirstName": "Peter A.",
+        "OfficeRecordLastName": "Koo",
+        "OfficeRecordEmail": "Pkoo@council.nyc.gov",
+        "OfficeRecordFullName": "Peter A. Koo",
+        "OfficeRecordStartDate": "2019-06-13T00:00:00",
+        "OfficeRecordEndDate": "2019-06-13T00:00:00",
+        "OfficeRecordSort": 30,
+        "OfficeRecordPersonId": 7565,
+        "OfficeRecordBodyId": 5213,
+        "OfficeRecordBodyName": "Committee on Technology",
+        "OfficeRecordTitle": "Council Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4288,
+        "OfficeRecordGuid": "5BD143CC-1500-4938-9B4F-073A0CC0BA30",
+        "OfficeRecordLastModifiedUtc": "2019-09-24T15:27:02.447",
+        "OfficeRecordRowVersion": "AAAAAOXnnqI=",
+        "OfficeRecordFirstName": "Peter A.",
+        "OfficeRecordLastName": "Koo",
+        "OfficeRecordEmail": "Pkoo@council.nyc.gov",
+        "OfficeRecordFullName": "Peter A. Koo",
+        "OfficeRecordStartDate": "2019-09-25T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 60,
+        "OfficeRecordPersonId": 7565,
+        "OfficeRecordBodyId": 5261,
+        "OfficeRecordBodyName": "Subcommittee on Landmarks, Public Sitings and Dispositions",
+        "OfficeRecordTitle": "Committee Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4291,
+        "OfficeRecordGuid": "A1563C00-8B53-4CBC-B452-31150EE4DA4F",
+        "OfficeRecordLastModifiedUtc": "2019-10-07T18:17:14.343",
+        "OfficeRecordRowVersion": "AAAAAOXo1HU=",
+        "OfficeRecordFirstName": "Peter A.",
+        "OfficeRecordLastName": "Koo",
+        "OfficeRecordEmail": "Pkoo@council.nyc.gov",
+        "OfficeRecordFullName": "Peter A. Koo",
+        "OfficeRecordStartDate": "2019-06-13T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 15,
+        "OfficeRecordPersonId": 7565,
+        "OfficeRecordBodyId": 5213,
+        "OfficeRecordBodyName": "Committee on Technology",
+        "OfficeRecordTitle": "Committee Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
       }
     ]
   },
   "district_boundaries": {
     "type": "Feature",
-    "id": 7,
+    "id": 6,
     "geometry": {
       "type": "Polygon",
       "coordinates": [
@@ -1077,8 +1169,8 @@
             40.7676046172757
           ],
           [
-            -73.837469343061,
-            40.7683149906965
+            -73.8374693430588,
+            40.7683149915971
           ],
           [
             -73.8371135179801,
@@ -1317,8 +1409,8 @@
             40.7638059265049
           ],
           [
-            -73.8073361298838,
-            40.7635058936774
+            -73.8073361310681,
+            40.7635058936793
           ],
           [
             -73.8064327284097,
@@ -1341,8 +1433,8 @@
             40.7621416382207
           ],
           [
-            -73.8036417648372,
-            40.7620454379648
+            -73.8036417648346,
+            40.7620454388653
           ],
           [
             -73.8034093176148,
@@ -1489,8 +1581,8 @@
             40.7524180787347
           ],
           [
-            -73.786531547127,
-            40.7524681354365
+            -73.7865315483111,
+            40.7524681354388
           ],
           [
             -73.7863735176474,
@@ -1557,8 +1649,8 @@
             40.7534918527818
           ],
           [
-            -73.7784513659604,
-            40.7534215551013
+            -73.7784513671445,
+            40.7534215551036
           ],
           [
             -73.7782269731454,
@@ -1584,10 +1676,10 @@
       ]
     },
     "properties": {
-      "OBJECTID": 7,
+      "OBJECTID": 6,
       "CounDist": 20,
-      "Shape__Area": 142120982.822388,
-      "Shape__Length": 60347.1161683764
+      "Shape__Area": 142120982.844528,
+      "Shape__Length": 60347.1161791405
     }
   }
 }

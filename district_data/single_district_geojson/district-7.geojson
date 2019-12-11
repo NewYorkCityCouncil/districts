@@ -1,6 +1,6 @@
 {
   "type": "Feature",
-  "id": 33,
+  "id": 41,
   "geometry": {
     "type": "Polygon",
     "coordinates": [
@@ -8,6 +8,10 @@
         [
           -73.9403478671649,
           40.8304661242609
+        ],
+        [
+          -73.9410769041066,
+          40.8307751329052
         ],
         [
           -73.9413694307018,
@@ -194,8 +198,8 @@
           40.8110005096988
         ],
         [
-          -73.9545137331959,
-          40.8106948793288
+          -73.9545137343811,
+          40.8106948793292
         ],
         [
           -73.9549680100114,
@@ -278,8 +282,8 @@
           40.80311476229
         ],
         [
-          -73.9586898322001,
-          40.8024780697225
+          -73.9586898321996,
+          40.802478070623
         ],
         [
           -73.959148850077,
@@ -542,8 +546,8 @@
           40.8057984150788
         ],
         [
-          -73.9704613454132,
-          40.8066393696668
+          -73.9704665641007,
+          40.8066325938525
         ],
         [
           -73.9702154510942,
@@ -566,8 +570,8 @@
           40.808414646871
         ],
         [
-          -73.9690924751371,
-          40.8084384414901
+          -73.9690924751375,
+          40.8084384405896
         ],
         [
           -73.9689182267996,
@@ -1278,8 +1282,8 @@
           40.8367533591974
         ],
         [
-          -73.9492839640188,
-          40.836757670907
+          -73.9492839628332,
+          40.8367576709064
         ],
         [
           -73.9492852591004,
@@ -1326,8 +1330,8 @@
           40.8368879151461
         ],
         [
-          -73.9491820265721,
-          40.8378722925964
+          -73.9491820277578,
+          40.8378722925969
         ],
         [
           -73.9491537793952,
@@ -1342,8 +1346,8 @@
           40.8386517092287
         ],
         [
-          -73.9488410564635,
-          40.8388839187038
+          -73.9488410576492,
+          40.8388839187043
         ],
         [
           -73.9487590733848,
@@ -1402,12 +1406,12 @@
           40.8414178310632
         ],
         [
-          -73.9475575360306,
-          40.8415369517586
+          -73.9475575360313,
+          40.8415369508581
         ],
         [
-          -73.94665776366,
-          40.8413050115324
+          -73.9466577648458,
+          40.8413050115329
         ],
         [
           -73.9464526712832,
@@ -1450,12 +1454,12 @@
           40.8385058290232
         ],
         [
-          -73.9385495498369,
-          40.8379622822925
+          -73.9385495510225,
+          40.8379622822932
         ],
         [
-          -73.9383445061455,
-          40.837917158079
+          -73.9383445073312,
+          40.8379171580796
         ],
         [
           -73.9385182056999,
@@ -1490,8 +1494,8 @@
           40.8347396490729
         ],
         [
-          -73.9411196296712,
-          40.8341220443287
+          -73.9411196308568,
+          40.8341220443293
         ],
         [
           -73.9403615415358,
@@ -1526,84 +1530,52 @@
           40.8329607216782
         ],
         [
-          -73.9395761157016,
-          40.8328967984714
+          -73.9395761168864,
+          40.8328967993725
         ],
         [
-          -73.9396156495125,
-          40.8328307940036
+          -73.939615650698,
+          40.8328307940043
         ],
         [
-          -73.9396494763231,
-          40.832762983745
+          -73.9396494763223,
+          40.8327629846455
         ],
         [
           -73.9396774536201,
           40.8326936530829
         ],
         [
-          -73.9397369721668,
-          40.832580851305
-        ],
-        [
-          -73.9398016095196,
-          40.8324696874648
-        ],
-        [
-          -73.9398712872906,
-          40.8323602938856
-        ],
-        [
-          -73.9399459223519,
-          40.8322528019873
-        ],
-        [
-          -73.9400254256499,
-          40.8321473431863
+          -73.9397833250093,
+          40.8325345432592
         ],
         [
           -73.9401096986526,
           40.8320440443913
         ],
         [
-          -73.9401673197838,
-          40.8319830891861
+          -73.9401680138916,
+          40.8319692903633
         ],
         [
-          -73.9402185807598,
-          40.8319189411023
+          -73.9402205800084,
+          40.8318921163969
         ],
         [
-          -73.9402631765602,
-          40.8318519808995
+          -73.9402672260685,
+          40.831812776351
         ],
         [
-          -73.9403008412746,
-          40.831782609168
+          -73.9403077953597,
+          40.8317315321956
         ],
         [
-          -73.9403313516662,
-          40.8317112373251
+          -73.9403421548768,
+          40.8316486531162
         ],
         [
-          -73.9403545259833,
-          40.8316382912165
-        ],
-        [
-          -73.9403702251494,
-          40.8315642048132
-        ],
-        [
-          -73.940378356319,
-          40.8314894202132
-        ],
-        [
-          -73.9403788716975,
-          40.8314143813374
-        ],
-        [
-          -73.9403717673529,
-          40.8313395357297
+          -73.9403701917682,
+          40.8315644119098
         ],
         [
           -73.9403478671649,
@@ -1613,10 +1585,10 @@
     ]
   },
   "properties": {
-    "OBJECTID": 33,
+    "OBJECTID": 41,
     "CounDist": 7,
-    "Shape__Area": 51409866.5860901,
-    "Shape__Length": 50142.0910107579,
+    "Shape__Area": 51409718.3227844,
+    "Shape__Length": 50140.0814945088,
     "id": 7,
     "council_member": {
       "person_id": "7634",
@@ -1639,7 +1611,7 @@
       "PersonId": 7634,
       "PersonGuid": "DB7D700B-3D77-42F9-AD21-F21572485CC0",
       "PersonLastModifiedUtc": "2015-08-25T15:57:04.463",
-      "PersonRowVersion": "AAAAAOXGpJ0=",
+      "PersonRowVersion": "AAAAAOXsBTo=",
       "PersonFullName": "Mark Levine",
       "PersonActiveFlag": 1,
       "PersonUsedSponsorFlag": 0,
@@ -1664,13 +1636,13 @@
           "OfficeRecordId": 3896,
           "OfficeRecordGuid": "4209FCE7-EBCF-4771-AF1F-149DE004E320",
           "OfficeRecordLastModifiedUtc": "2018-01-11T20:18:51.31",
-          "OfficeRecordRowVersion": "AAAAAOV8iWM=",
+          "OfficeRecordRowVersion": "AAAAAOXMjnQ=",
           "OfficeRecordFirstName": "Mark",
           "OfficeRecordLastName": "Levine",
           "OfficeRecordEmail": "Mlevine@council.nyc.gov",
           "OfficeRecordFullName": "Mark Levine",
           "OfficeRecordStartDate": "2018-01-11T00:00:00",
-          "OfficeRecordEndDate": "2021-12-31T00:00:00",
+          "OfficeRecordEndDate": "2019-04-09T00:00:00",
           "OfficeRecordSort": 70,
           "OfficeRecordPersonId": 7634,
           "OfficeRecordBodyId": 7,
@@ -1756,13 +1728,13 @@
           "OfficeRecordId": 4016,
           "OfficeRecordGuid": "CE5857AE-09CB-443B-BC40-C18562B7F0D3",
           "OfficeRecordLastModifiedUtc": "2018-01-12T16:36:08.54",
-          "OfficeRecordRowVersion": "AAAAAOV8kjU=",
+          "OfficeRecordRowVersion": "AAAAAOXsBsw=",
           "OfficeRecordFirstName": "Mark",
           "OfficeRecordLastName": "Levine",
           "OfficeRecordEmail": "Mlevine@council.nyc.gov",
           "OfficeRecordFullName": "Mark Levine",
           "OfficeRecordStartDate": "2018-01-11T00:00:00",
-          "OfficeRecordEndDate": "2021-12-31T00:00:00",
+          "OfficeRecordEndDate": "2019-10-29T00:00:00",
           "OfficeRecordSort": 50,
           "OfficeRecordPersonId": 7634,
           "OfficeRecordBodyId": 5149,
@@ -1814,6 +1786,52 @@
           "OfficeRecordBodyId": 5257,
           "OfficeRecordBodyName": "Democratic Conference of the Council of the City of New York ",
           "OfficeRecordTitle": "Council Member",
+          "OfficeRecordVoteDivider": 1.0,
+          "OfficeRecordExtendFlag": 0,
+          "OfficeRecordMemberTypeId": 3,
+          "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+          "OfficeRecordSupportNameId": null,
+          "OfficeRecordSupportFullName": null
+        },
+        {
+          "OfficeRecordId": 4236,
+          "OfficeRecordGuid": "80D634D5-C6BE-432D-83B9-440FFA06CC71",
+          "OfficeRecordLastModifiedUtc": "2019-04-09T18:09:24.517",
+          "OfficeRecordRowVersion": "AAAAAOXsA/Q=",
+          "OfficeRecordFirstName": "Mark",
+          "OfficeRecordLastName": "Levine",
+          "OfficeRecordEmail": "Mlevine@council.nyc.gov",
+          "OfficeRecordFullName": "Mark Levine",
+          "OfficeRecordStartDate": "2019-04-10T00:00:00",
+          "OfficeRecordEndDate": "2019-10-29T00:00:00",
+          "OfficeRecordSort": 45,
+          "OfficeRecordPersonId": 7634,
+          "OfficeRecordBodyId": 5237,
+          "OfficeRecordBodyName": "Committee on Criminal Justice",
+          "OfficeRecordTitle": "Committee Member",
+          "OfficeRecordVoteDivider": 1.0,
+          "OfficeRecordExtendFlag": 0,
+          "OfficeRecordMemberTypeId": 3,
+          "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+          "OfficeRecordSupportNameId": null,
+          "OfficeRecordSupportFullName": null
+        },
+        {
+          "OfficeRecordId": 4298,
+          "OfficeRecordGuid": "09F9CC59-8C5B-449D-8BFF-C450B69BB680",
+          "OfficeRecordLastModifiedUtc": "2019-10-30T18:01:56.6",
+          "OfficeRecordRowVersion": "AAAAAOXsBTc=",
+          "OfficeRecordFirstName": "Mark",
+          "OfficeRecordLastName": "Levine",
+          "OfficeRecordEmail": "Mlevine@council.nyc.gov",
+          "OfficeRecordFullName": "Mark Levine",
+          "OfficeRecordStartDate": "2019-10-30T00:00:00",
+          "OfficeRecordEndDate": "2021-12-31T00:00:00",
+          "OfficeRecordSort": 80,
+          "OfficeRecordPersonId": 7634,
+          "OfficeRecordBodyId": 5106,
+          "OfficeRecordBodyName": "Committee on Parks and Recreation",
+          "OfficeRecordTitle": "Committee Member",
           "OfficeRecordVoteDivider": 1.0,
           "OfficeRecordExtendFlag": 0,
           "OfficeRecordMemberTypeId": 3,

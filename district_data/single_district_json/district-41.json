@@ -22,7 +22,7 @@
     "PersonId": 7747,
     "PersonGuid": "742016AA-4C2C-42F4-8584-0F8F5138B9AC",
     "PersonLastModifiedUtc": "2017-12-05T15:38:22.943",
-    "PersonRowVersion": "AAAAAOXGpDE=",
+    "PersonRowVersion": "AAAAAOXMt4w=",
     "PersonFullName": "Alicka Ampry-Samuel ",
     "PersonActiveFlag": 1,
     "PersonUsedSponsorFlag": 0,
@@ -93,13 +93,13 @@
         "OfficeRecordId": 3943,
         "OfficeRecordGuid": "9659C47C-4775-4870-A060-9CC0ED014903",
         "OfficeRecordLastModifiedUtc": "2018-01-11T21:09:15.053",
-        "OfficeRecordRowVersion": "AAAAAOV8ios=",
+        "OfficeRecordRowVersion": "AAAAAOXMjqc=",
         "OfficeRecordFirstName": "Alicka",
         "OfficeRecordLastName": "Ampry-Samuel",
         "OfficeRecordEmail": "Asamuel@council.nyc.gov",
         "OfficeRecordFullName": "Alicka Ampry-Samuel ",
         "OfficeRecordStartDate": "2018-01-11T00:00:00",
-        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordEndDate": "2019-04-09T00:00:00",
         "OfficeRecordSort": 20,
         "OfficeRecordPersonId": 7747,
         "OfficeRecordBodyId": 5239,
@@ -197,6 +197,29 @@
         "OfficeRecordBodyId": 5257,
         "OfficeRecordBodyName": "Democratic Conference of the Council of the City of New York ",
         "OfficeRecordTitle": "Council Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4251,
+        "OfficeRecordGuid": "A015A288-BF7A-4D74-A3C5-652F23600AE8",
+        "OfficeRecordLastModifiedUtc": "2019-04-10T14:41:06.177",
+        "OfficeRecordRowVersion": "AAAAAOXMt4k=",
+        "OfficeRecordFirstName": "Alicka",
+        "OfficeRecordLastName": "Ampry-Samuel",
+        "OfficeRecordEmail": "Asamuel@council.nyc.gov",
+        "OfficeRecordFullName": "Alicka Ampry-Samuel ",
+        "OfficeRecordStartDate": "2019-04-10T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 15,
+        "OfficeRecordPersonId": 7747,
+        "OfficeRecordBodyId": 5122,
+        "OfficeRecordBodyName": "Committee on Veterans",
+        "OfficeRecordTitle": "Committee Member",
         "OfficeRecordVoteDivider": 1.0,
         "OfficeRecordExtendFlag": 0,
         "OfficeRecordMemberTypeId": 3,
@@ -774,16 +797,16 @@
             40.6518626433506
           ],
           [
-            -73.923232040044,
-            40.6514618242934
+            -73.9232320400446,
+            40.6514618237908
           ],
           [
             -73.9234746777243,
             40.6508179690643
           ],
           [
-            -73.9235863508304,
-            40.6505276917422
+            -73.923586350831,
+            40.6505276912397
           ],
           [
             -73.9237707848891,
@@ -814,20 +837,20 @@
             40.6501796942487
           ],
           [
-            -73.9293930336064,
-            40.6519474310665
+            -73.9293930342663,
+            40.6519474310669
           ],
           [
             -73.9303828636424,
             40.6517423013087
           ],
           [
-            -73.9313925871552,
-            40.651697855151
+            -73.9313925878151,
+            40.6516978551514
           ],
           [
-            -73.9323266240269,
-            40.6516558144351
+            -73.9323266246868,
+            40.6516558144355
           ],
           [
             -73.9332970289486,
@@ -838,8 +861,8 @@
             40.6515705996175
           ],
           [
-            -73.9352054923099,
-            40.6515228088194
+            -73.9352054929698,
+            40.6515228088197
           ],
           [
             -73.9361768676446,
@@ -1423,8 +1446,8 @@
     "properties": {
       "OBJECTID": 3,
       "CounDist": 41,
-      "Shape__Area": 78156815.026062,
-      "Shape__Length": 57718.3766825935
+      "Shape__Area": 78156815.0866547,
+      "Shape__Length": 57718.376682511
     }
   }
 }

@@ -22,7 +22,7 @@
     "PersonId": 7563,
     "PersonGuid": "E922D38E-695B-4151-9DA7-8F8A0101CA6D",
     "PersonLastModifiedUtc": "2015-08-25T15:57:04.463",
-    "PersonRowVersion": "AAAAAOXGpGM=",
+    "PersonRowVersion": "AAAAAOXsBgY=",
     "PersonFullName": "Daniel Dromm ",
     "PersonActiveFlag": 1,
     "PersonUsedSponsorFlag": 0,
@@ -47,13 +47,13 @@
         "OfficeRecordId": 3851,
         "OfficeRecordGuid": "414B764F-15FC-4F7A-8047-0CA22C39490F",
         "OfficeRecordLastModifiedUtc": "2018-01-11T15:13:08.587",
-        "OfficeRecordRowVersion": "AAAAAOV8hVg=",
+        "OfficeRecordRowVersion": "AAAAAOXMh5U=",
         "OfficeRecordFirstName": "Daniel",
         "OfficeRecordLastName": "Dromm",
         "OfficeRecordEmail": "Ddromm@council.nyc.gov",
         "OfficeRecordFullName": "Daniel Dromm ",
         "OfficeRecordStartDate": "2018-01-11T00:00:00",
-        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordEndDate": "2019-04-09T00:00:00",
         "OfficeRecordSort": 50,
         "OfficeRecordPersonId": 7563,
         "OfficeRecordBodyId": 3,
@@ -203,12 +203,81 @@
         "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
         "OfficeRecordSupportNameId": null,
         "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4231,
+        "OfficeRecordGuid": "45718675-6DDF-4F5F-8E2E-11D227D99D1B",
+        "OfficeRecordLastModifiedUtc": "2019-04-09T17:49:52.323",
+        "OfficeRecordRowVersion": "AAAAAOXXE50=",
+        "OfficeRecordFirstName": "Daniel",
+        "OfficeRecordLastName": "Dromm",
+        "OfficeRecordEmail": "Ddromm@council.nyc.gov",
+        "OfficeRecordFullName": "Daniel Dromm ",
+        "OfficeRecordStartDate": "2019-04-10T00:00:00",
+        "OfficeRecordEndDate": "2019-06-13T00:00:00",
+        "OfficeRecordSort": 25,
+        "OfficeRecordPersonId": 7563,
+        "OfficeRecordBodyId": 5242,
+        "OfficeRecordBodyName": "Committee on Justice System",
+        "OfficeRecordTitle": "Committee Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4249,
+        "OfficeRecordGuid": "320FD4CC-40CD-4A2C-B7B4-2B1F1A57D4C0",
+        "OfficeRecordLastModifiedUtc": "2019-04-10T14:35:32.8",
+        "OfficeRecordRowVersion": "AAAAAOXsBb0=",
+        "OfficeRecordFirstName": "Daniel",
+        "OfficeRecordLastName": "Dromm",
+        "OfficeRecordEmail": "Ddromm@council.nyc.gov",
+        "OfficeRecordFullName": "Daniel Dromm ",
+        "OfficeRecordStartDate": "2019-04-10T00:00:00",
+        "OfficeRecordEndDate": "2019-10-29T00:00:00",
+        "OfficeRecordSort": 15,
+        "OfficeRecordPersonId": 7563,
+        "OfficeRecordBodyId": 5120,
+        "OfficeRecordBodyName": "Committee on Small Business",
+        "OfficeRecordTitle": "Council Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4300,
+        "OfficeRecordGuid": "18BC9A3C-11E1-4B26-A202-5354FC392471",
+        "OfficeRecordLastModifiedUtc": "2019-10-30T18:14:03.387",
+        "OfficeRecordRowVersion": "AAAAAOXsBgM=",
+        "OfficeRecordFirstName": "Daniel",
+        "OfficeRecordLastName": "Dromm",
+        "OfficeRecordEmail": "Ddromm@council.nyc.gov",
+        "OfficeRecordFullName": "Daniel Dromm ",
+        "OfficeRecordStartDate": "2019-10-30T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 25,
+        "OfficeRecordPersonId": 7563,
+        "OfficeRecordBodyId": 22,
+        "OfficeRecordBodyName": "Committee on State and Federal Legislation",
+        "OfficeRecordTitle": "Committee Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
       }
     ]
   },
   "district_boundaries": {
     "type": "Feature",
-    "id": 6,
+    "id": 5,
     "geometry": {
       "type": "Polygon",
       "coordinates": [
@@ -490,8 +559,8 @@
             40.7472893243114
           ],
           [
-            -73.8952418653319,
-            40.7478586692243
+            -73.895241864671,
+            40.7478586692238
           ],
           [
             -73.8954722653078,
@@ -518,16 +587,16 @@
             40.7486233186914
           ],
           [
-            -73.8961571512093,
-            40.749342868423
+            -73.8961571512085,
+            40.7493428689256
           ],
           [
             -73.8963117936069,
             40.7496359768291
           ],
           [
-            -73.8967357925507,
-            40.7505286963486
+            -73.8967357925499,
+            40.7505286968512
           ],
           [
             -73.8970336045049,
@@ -542,8 +611,8 @@
             40.7504769281558
           ],
           [
-            -73.8972911369336,
-            40.7508810483842
+            -73.8972911369328,
+            40.7508810488868
           ],
           [
             -73.8974233859141,
@@ -630,16 +699,16 @@
             40.7573246855369
           ],
           [
-            -73.8999683463209,
-            40.7577759949271
+            -73.8999683469819,
+            40.7577759949277
           ],
           [
             -73.8998107494962,
             40.7577920228987
           ],
           [
-            -73.8997027159934,
-            40.7578035808322
+            -73.8997027166543,
+            40.7578035808328
           ],
           [
             -73.8992134847436,
@@ -710,12 +779,12 @@
             40.7594354132284
           ],
           [
-            -73.8837135568709,
-            40.7594845721731
+            -73.8837135562099,
+            40.7594845721724
           ],
           [
-            -73.8832466045686,
-            40.7595340690541
+            -73.8832466052295,
+            40.7595340690547
           ],
           [
             -73.8827820103083,
@@ -726,8 +795,8 @@
             40.7596322875063
           ],
           [
-            -73.8818604941408,
-            40.7596802316708
+            -73.8818604948026,
+            40.7596802311689
           ],
           [
             -73.8813872747325,
@@ -738,8 +807,8 @@
             40.7598270284466
           ],
           [
-            -73.8800185219978,
-            40.7598737458396
+            -73.8800185226588,
+            40.7598737458402
           ],
           [
             -73.8795287403383,
@@ -750,8 +819,8 @@
             40.760021759259
           ],
           [
-            -73.8776691018295,
-            40.7601220938755
+            -73.8776691024905,
+            40.7601220938762
           ],
           [
             -73.8767394014638,
@@ -1053,10 +1122,10 @@
       ]
     },
     "properties": {
-      "OBJECTID": 6,
+      "OBJECTID": 5,
       "CounDist": 25,
-      "Shape__Area": 63560955.1930237,
-      "Shape__Length": 44473.2127906555
+      "Shape__Area": 63560955.1305542,
+      "Shape__Length": 44473.2131529893
     }
   }
 }

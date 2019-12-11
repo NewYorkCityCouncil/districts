@@ -1,6 +1,6 @@
 {
   "type": "Feature",
-  "id": 5,
+  "id": 36,
   "geometry": {
     "type": "Polygon",
     "coordinates": [
@@ -22,12 +22,16 @@
           40.6442067279689
         ],
         [
-          -73.9130006345074,
-          40.6441807917704
+          -73.9130006345081,
+          40.6441807912678
         ],
         [
-          -73.9137563755423,
-          40.643785943193
+          -73.913756375543,
+          40.6437859426904
+        ],
+        [
+          -73.9138640641442,
+          40.6437174234997
         ],
         [
           -73.9144419016893,
@@ -38,28 +42,28 @@
           40.6431690086195
         ],
         [
-          -73.9151888650222,
-          40.6428710369654
+          -73.9151888650229,
+          40.6428710364628
         ],
         [
-          -73.9156710551811,
-          40.6425580197835
+          -73.9156710551817,
+          40.6425580192809
         ],
         [
           -73.9159260646233,
           40.6423919438378
         ],
         [
-          -73.9165422341838,
-          40.6420060968745
+          -73.9165422341832,
+          40.6420060973771
         ],
         [
           -73.9166224030374,
           40.6419558973107
         ],
         [
-          -73.9174035460658,
-          40.6415255634239
+          -73.9174035460665,
+          40.6415255629214
         ],
         [
           -73.9181648033348,
@@ -82,32 +86,32 @@
           40.6398289645909
         ],
         [
-          -73.9192912618237,
-          40.6386042775282
+          -73.9192912624834,
+          40.6386042775286
         ],
         [
           -73.9191732201063,
           40.6374780859333
         ],
         [
-          -73.9191700805634,
-          40.6374481671409
+          -73.9191700805641,
+          40.6374481666384
         ],
         [
           -73.9191307393751,
           40.6370734967928
         ],
         [
-          -73.9190921145097,
-          40.6367056624217
+          -73.91909211385,
+          40.6367056624212
         ],
         [
           -73.9190593202831,
           40.6363933542915
         ],
         [
-          -73.9190291242625,
-          40.6361057889318
+          -73.9190291242631,
+          40.6361057884292
         ],
         [
           -73.9190077113091,
@@ -138,12 +142,12 @@
           40.6348473768205
         ],
         [
-          -73.9188842590194,
-          40.634775596641
+          -73.91888425902,
+          40.6347755961383
         ],
         [
-          -73.9188707613876,
-          40.6346524602683
+          -73.9188707613882,
+          40.6346524597657
         ],
         [
           -73.918863407966,
@@ -174,8 +178,8 @@
           40.6338736720336
         ],
         [
-          -73.9201167806414,
-          40.6336745692966
+          -73.9201167806419,
+          40.633674568794
         ],
         [
           -73.9202232367322,
@@ -246,8 +250,8 @@
           40.6344464172761
         ],
         [
-          -73.922731544546,
-          40.6345789712931
+          -73.9227315445466,
+          40.6345789707905
         ],
         [
           -73.9227403733977,
@@ -258,8 +262,8 @@
           40.6352755965589
         ],
         [
-          -73.9228357335404,
-          40.6355687776078
+          -73.922835733541,
+          40.6355687771052
         ],
         [
           -73.92244478983,
@@ -270,12 +274,12 @@
           40.6358124159282
         ],
         [
-          -73.922314950896,
-          40.6358496091626
+          -73.9223149508966,
+          40.63584960866
         ],
         [
-          -73.9222720502714,
-          40.6358742733868
+          -73.922272050272,
+          40.6358742728842
         ],
         [
           -73.9221864788886,
@@ -286,16 +290,16 @@
           40.6360832080671
         ],
         [
-          -73.9218458106676,
-          40.6361151432559
+          -73.9218458106681,
+          40.6361151427533
         ],
         [
           -73.9217188140065,
           40.6361797120253
         ],
         [
-          -73.9216452962156,
-          40.6362170915305
+          -73.9216452962162,
+          40.6362170910279
         ],
         [
           -73.921320405741,
@@ -314,8 +318,8 @@
           40.6389885997529
         ],
         [
-          -73.9212989927411,
-          40.6390630616375
+          -73.9212989927417,
+          40.6390630611349
         ],
         [
           -73.921872672011,
@@ -362,8 +366,8 @@
           40.6352666534954
         ],
         [
-          -73.9276712886751,
-          40.6350069664578
+          -73.9276712886756,
+          40.6350069659552
         ],
         [
           -73.9285028208023,
@@ -378,12 +382,12 @@
           40.6328548882674
         ],
         [
-          -73.9281151227005,
-          40.6305150019232
+          -73.9281151227011,
+          40.6305150014206
         ],
         [
-          -73.9278664324394,
-          40.6281751422069
+          -73.92786643244,
+          40.6281751417043
         ],
         [
           -73.9276617242429,
@@ -438,8 +442,8 @@
           40.6188208584405
         ],
         [
-          -73.9335384770293,
-          40.6195799227465
+          -73.9335384770298,
+          40.6195799222439
         ],
         [
           -73.9343113430251,
@@ -450,16 +454,16 @@
           40.6186083509176
         ],
         [
-          -73.935736049513,
-          40.6181489927923
+          -73.9357360495134,
+          40.6181489922897
         ],
         [
           -73.9364529325954,
           40.6176885767305
         ],
         [
-          -73.9371644225618,
-          40.6172246957721
+          -73.9371644225623,
+          40.6172246952695
         ],
         [
           -73.9378765119021,
@@ -506,16 +510,16 @@
           40.6127307768618
         ],
         [
-          -73.9440570319182,
-          40.612001081024
+          -73.9440570319186,
+          40.6120010805214
         ],
         [
           -73.9450770896789,
           40.6118955810183
         ],
         [
-          -73.9460024555848,
-          40.6117940178914
+          -73.9460024555852,
+          40.6117940173888
         ],
         [
           -73.9469335021608,
@@ -538,12 +542,12 @@
           40.6169079991
         ],
         [
-          -73.9483705461204,
-          40.6192994998247
+          -73.9483705461208,
+          40.6192994993221
         ],
         [
-          -73.9488213132743,
-          40.6216900886363
+          -73.9488213132746,
+          40.6216900881337
         ],
         [
           -73.949750332447,
@@ -558,8 +562,8 @@
           40.6213775720388
         ],
         [
-          -73.9526066520339,
-          40.6212753022393
+          -73.9526066520343,
+          40.6212753017368
         ],
         [
           -73.9535327987559,
@@ -666,8 +670,8 @@
           40.628097952696
         ],
         [
-          -73.9713676539262,
-          40.6289374038762
+          -73.9713676539264,
+          40.6289374033736
         ],
         [
           -73.9710937549005,
@@ -682,8 +686,8 @@
           40.6292398674322
         ],
         [
-          -73.9680022753332,
-          40.6293412995725
+          -73.9680022753334,
+          40.6293412990699
         ],
         [
           -73.9670780003266,
@@ -742,8 +746,8 @@
           40.6357944701471
         ],
         [
-          -73.9584010384057,
-          40.6363351818857
+          -73.958401038406,
+          40.6363351813831
         ],
         [
           -73.9574347032041,
@@ -786,8 +790,8 @@
           40.6405907702693
         ],
         [
-          -73.9570717387822,
-          40.6419689161268
+          -73.9570717387826,
+          40.6419689156242
         ],
         [
           -73.9574650274251,
@@ -822,8 +826,8 @@
           40.6430742134688
         ],
         [
-          -73.9517865267437,
-          40.6443133124287
+          -73.9517865267441,
+          40.6443133119262
         ],
         [
           -73.9518547337104,
@@ -846,8 +850,8 @@
           40.6451078098877
         ],
         [
-          -73.9489653077854,
-          40.6451399235224
+          -73.9489653077858,
+          40.6451399230198
         ],
         [
           -73.9491534729075,
@@ -878,12 +882,12 @@
           40.6509563655367
         ],
         [
-          -73.9457074873374,
-          40.6510150313664
+          -73.9457074873378,
+          40.6510150308638
         ],
         [
-          -73.9447722246145,
-          40.6510726607756
+          -73.9447722246149,
+          40.651072660273
         ],
         [
           -73.9438013860531,
@@ -922,8 +926,8 @@
           40.6514766153931
         ],
         [
-          -73.9352054923099,
-          40.6515228088194
+          -73.9352054929698,
+          40.6515228088197
         ],
         [
           -73.9342695505932,
@@ -934,20 +938,20 @@
           40.6516137416635
         ],
         [
-          -73.9323266240269,
-          40.6516558144351
+          -73.9323266246868,
+          40.6516558144355
         ],
         [
-          -73.9313925871552,
-          40.651697855151
+          -73.9313925878151,
+          40.6516978551514
         ],
         [
           -73.9303828636424,
           40.6517423013087
         ],
         [
-          -73.9293930336064,
-          40.6519474310665
+          -73.9293930342663,
+          40.6519474310669
         ],
         [
           -73.9292004705982,
@@ -978,16 +982,16 @@
           40.6505166203874
         ],
         [
-          -73.9235863508304,
-          40.6505276917422
+          -73.923586350831,
+          40.6505276912397
         ],
         [
           -73.9234746777243,
           40.6508179690643
         ],
         [
-          -73.923232040044,
-          40.6514618242934
+          -73.9232320400446,
+          40.6514618237908
         ],
         [
           -73.923082364335,
@@ -1026,12 +1030,12 @@
           40.6495358740941
         ],
         [
-          -73.9160150569326,
-          40.6492607056123
+          -73.9160150569332,
+          40.6492607051097
         ],
         [
-          -73.9147335837594,
-          40.6481094221523
+          -73.91473358376,
+          40.6481094216498
         ],
         [
           -73.9137281218737,
@@ -1042,16 +1046,16 @@
           40.6464991080179
         ],
         [
-          -73.9128800518085,
-          40.6464472616659
+          -73.9128800518079,
+          40.6464472621685
         ],
         [
           -73.9126867262547,
           40.6462729478019
         ],
         [
-          -73.911729515606,
-          40.6454135431715
+          -73.9117295156067,
+          40.6454135426689
         ],
         [
           -73.9111177778429,
@@ -1061,66 +1065,66 @@
     ]
   },
   "properties": {
-    "OBJECTID": 5,
+    "OBJECTID": 36,
     "CounDist": 45,
-    "Shape__Area": 116765202.953842,
-    "Shape__Length": 64761.7923095411,
+    "Shape__Area": 116765202.952881,
+    "Shape__Length": 64761.7916128106,
     "id": 45,
     "council_member": {
-      "person_id": "7571",
+      "person_id": "7785",
       "councildist": "NYCC45",
-      "last_name": "Williams",
-      "first_name": "Jumaane",
+      "last_name": "Louis",
+      "first_name": "Farah",
       "photo_url": "https://raw.githubusercontent.com/NewYorkCityCouncil/districts/master/thumbnails/district-45.jpg",
-      "facebook_url": "https://www.facebook.com/jumaane.williamscouncil",
-      "twitter_url": "https://twitter.com/JumaaneWilliams",
-      "twitter_handle": "JumaaneWilliams",
-      "instagram_url": "https://www.instagram.com/jumaane.williams/",
-      "instagram_handle": "jumaane.williams",
+      "facebook_url": "https://www.facebook.com/FarahFor45/",
+      "twitter_url": "https://twitter.com/CMFarahLouis",
+      "twitter_handle": "CMFarahLouis",
+      "instagram_url": "https://www.instagram.com/cmfarahlouis/",
+      "instagram_handle": "cmfarahlouis",
       "party": "democrat",
       "title": "council-member",
-      "gender": "male",
+      "gender": "female",
       "city_council_url": "https://council.nyc.gov/district-45",
       "city_council_committees_url": "http://legistar.council.nyc.gov/Departments.aspx",
       "city_council_legislation_url": "http://legistar.council.nyc.gov/Legislation.aspx",
       "city_council_council_calendar_url": "https://legistar.council.nyc.gov/Calendar.aspx",
-      "PersonId": 7571,
-      "PersonGuid": "8B68E8CA-3FBC-4B04-B09A-E38188553061",
-      "PersonLastModifiedUtc": "2015-08-25T15:57:04.463",
-      "PersonRowVersion": "AAAAAOXGpOg=",
-      "PersonFullName": "Jumaane D. Williams",
+      "PersonId": 7785,
+      "PersonGuid": "B5426E00-4785-4136-B1E4-36CC31FA8609",
+      "PersonLastModifiedUtc": "2019-05-15T15:47:53.977",
+      "PersonRowVersion": "AAAAAOXXqXM=",
+      "PersonFullName": "Farah N. Louis",
       "PersonActiveFlag": 1,
       "PersonUsedSponsorFlag": 0,
-      "PersonAddress1": "4517 Avenue D",
-      "PersonCity1": "Brooklyn",
-      "PersonState1": "NY",
-      "PersonZip1": "11203",
-      "PersonPhone": "718-629-2900",
-      "PersonFax": "718-451-2136",
-      "PersonEmail": "Jwilliams@council.nyc.gov",
-      "PersonWWW": "http://council.nyc.gov/d45/html/members/home.shtml",
-      "PersonAddress2": "250 Broadway - 17th Floor - Suite 1734",
-      "PersonCity2": "New York",
-      "PersonState2": "NY",
-      "PersonZip2": "10007",
-      "PersonPhone2": "212-788-6859",
+      "PersonAddress1": "",
+      "PersonCity1": "",
+      "PersonState1": "",
+      "PersonZip1": "",
+      "PersonPhone": "",
+      "PersonFax": "",
+      "PersonEmail": "",
+      "PersonWWW": "",
+      "PersonAddress2": "",
+      "PersonCity2": "",
+      "PersonState2": "",
+      "PersonZip2": "",
+      "PersonPhone2": "",
       "PersonFax2": "",
       "PersonEmail2": "",
       "PersonWWW2": "",
       "committees": [
         {
-          "OfficeRecordId": 3869,
-          "OfficeRecordGuid": "E8CF908E-F27A-4311-A350-C00505F06FC8",
-          "OfficeRecordLastModifiedUtc": "2018-01-11T19:12:59.65",
-          "OfficeRecordRowVersion": "AAAAAOXHp9s=",
-          "OfficeRecordFirstName": "Jumaane D.",
-          "OfficeRecordLastName": "Williams",
-          "OfficeRecordEmail": "Jwilliams@council.nyc.gov",
-          "OfficeRecordFullName": "Jumaane D. Williams",
-          "OfficeRecordStartDate": "2018-01-11T00:00:00",
+          "OfficeRecordId": 4261,
+          "OfficeRecordGuid": "1A2A582D-FCD8-4A4F-97DD-30E5193D0831",
+          "OfficeRecordLastModifiedUtc": "2019-06-13T17:52:49.54",
+          "OfficeRecordRowVersion": "AAAAAOXXE3w=",
+          "OfficeRecordFirstName": "Farah",
+          "OfficeRecordLastName": "Louis",
+          "OfficeRecordEmail": "",
+          "OfficeRecordFullName": "Farah N. Louis",
+          "OfficeRecordStartDate": "2019-06-13T00:00:00",
           "OfficeRecordEndDate": "2021-12-31T00:00:00",
-          "OfficeRecordSort": 70,
-          "OfficeRecordPersonId": 7571,
+          "OfficeRecordSort": 45,
+          "OfficeRecordPersonId": 7785,
           "OfficeRecordBodyId": 4,
           "OfficeRecordBodyName": "Committee on Civil Service and Labor",
           "OfficeRecordTitle": "Committee Member",
@@ -1132,18 +1136,18 @@
           "OfficeRecordSupportFullName": null
         },
         {
-          "OfficeRecordId": 3902,
-          "OfficeRecordGuid": "D23BBEC6-0479-4CA9-ACA6-F37848B412A8",
-          "OfficeRecordLastModifiedUtc": "2018-01-11T20:22:03.683",
-          "OfficeRecordRowVersion": "AAAAAOXHp+E=",
-          "OfficeRecordFirstName": "Jumaane D.",
-          "OfficeRecordLastName": "Williams",
-          "OfficeRecordEmail": "Jwilliams@council.nyc.gov",
-          "OfficeRecordFullName": "Jumaane D. Williams",
-          "OfficeRecordStartDate": "2018-01-11T00:00:00",
+          "OfficeRecordId": 4262,
+          "OfficeRecordGuid": "7A752D25-83B3-4561-AAD3-F4C12AE83450",
+          "OfficeRecordLastModifiedUtc": "2019-06-13T17:57:06.033",
+          "OfficeRecordRowVersion": "AAAAAOXXEwE=",
+          "OfficeRecordFirstName": "Farah",
+          "OfficeRecordLastName": "Louis",
+          "OfficeRecordEmail": "",
+          "OfficeRecordFullName": "Farah N. Louis",
+          "OfficeRecordStartDate": "2019-06-13T00:00:00",
           "OfficeRecordEndDate": "2021-12-31T00:00:00",
-          "OfficeRecordSort": 130,
-          "OfficeRecordPersonId": 7571,
+          "OfficeRecordSort": 65,
+          "OfficeRecordPersonId": 7785,
           "OfficeRecordBodyId": 7,
           "OfficeRecordBodyName": "Committee on Economic Development",
           "OfficeRecordTitle": "Committee Member",
@@ -1155,18 +1159,64 @@
           "OfficeRecordSupportFullName": null
         },
         {
-          "OfficeRecordId": 3999,
-          "OfficeRecordGuid": "C9DBAF6E-FBD8-4055-A2B2-2ED06B4EAC32",
-          "OfficeRecordLastModifiedUtc": "2018-01-12T16:19:27.69",
-          "OfficeRecordRowVersion": "AAAAAOXHp+c=",
-          "OfficeRecordFirstName": "Jumaane D.",
-          "OfficeRecordLastName": "Williams",
-          "OfficeRecordEmail": "Jwilliams@council.nyc.gov",
-          "OfficeRecordFullName": "Jumaane D. Williams",
-          "OfficeRecordStartDate": "2018-01-11T00:00:00",
+          "OfficeRecordId": 4263,
+          "OfficeRecordGuid": "717ACFE8-4749-4482-ABAD-D298088EBC24",
+          "OfficeRecordLastModifiedUtc": "2019-06-13T18:00:08.28",
+          "OfficeRecordRowVersion": "AAAAAOXXE1A=",
+          "OfficeRecordFirstName": "Farah",
+          "OfficeRecordLastName": "Louis",
+          "OfficeRecordEmail": "",
+          "OfficeRecordFullName": "Farah N. Louis",
+          "OfficeRecordStartDate": "2019-06-13T00:00:00",
           "OfficeRecordEndDate": "2021-12-31T00:00:00",
-          "OfficeRecordSort": 110,
-          "OfficeRecordPersonId": 7571,
+          "OfficeRecordSort": 155,
+          "OfficeRecordPersonId": 7785,
+          "OfficeRecordBodyId": 9,
+          "OfficeRecordBodyName": "Committee on Education",
+          "OfficeRecordTitle": "Committee Member",
+          "OfficeRecordVoteDivider": 1.0,
+          "OfficeRecordExtendFlag": 0,
+          "OfficeRecordMemberTypeId": 3,
+          "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+          "OfficeRecordSupportNameId": null,
+          "OfficeRecordSupportFullName": null
+        },
+        {
+          "OfficeRecordId": 4264,
+          "OfficeRecordGuid": "B8756F21-E276-42A9-8904-ECC4854CFB0C",
+          "OfficeRecordLastModifiedUtc": "2019-06-13T18:03:01.537",
+          "OfficeRecordRowVersion": "AAAAAOXXE1w=",
+          "OfficeRecordFirstName": "Farah",
+          "OfficeRecordLastName": "Louis",
+          "OfficeRecordEmail": "",
+          "OfficeRecordFullName": "Farah N. Louis",
+          "OfficeRecordStartDate": "2019-06-13T00:00:00",
+          "OfficeRecordEndDate": "2021-12-31T00:00:00",
+          "OfficeRecordSort": 85,
+          "OfficeRecordPersonId": 7785,
+          "OfficeRecordBodyId": 11,
+          "OfficeRecordBodyName": "Committee on Finance",
+          "OfficeRecordTitle": "Council Member",
+          "OfficeRecordVoteDivider": 1.0,
+          "OfficeRecordExtendFlag": 0,
+          "OfficeRecordMemberTypeId": 3,
+          "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+          "OfficeRecordSupportNameId": null,
+          "OfficeRecordSupportFullName": null
+        },
+        {
+          "OfficeRecordId": 4266,
+          "OfficeRecordGuid": "7EEA330F-11CB-40F2-8EBA-377AF82D4802",
+          "OfficeRecordLastModifiedUtc": "2019-06-13T18:18:10.62",
+          "OfficeRecordRowVersion": "AAAAAOXXE5M=",
+          "OfficeRecordFirstName": "Farah",
+          "OfficeRecordLastName": "Louis",
+          "OfficeRecordEmail": "",
+          "OfficeRecordFullName": "Farah N. Louis",
+          "OfficeRecordStartDate": "2019-06-13T00:00:00",
+          "OfficeRecordEndDate": "2021-12-31T00:00:00",
+          "OfficeRecordSort": 65,
+          "OfficeRecordPersonId": 7785,
           "OfficeRecordBodyId": 16,
           "OfficeRecordBodyName": "Committee on Housing and Buildings",
           "OfficeRecordTitle": "Committee Member",
@@ -1178,20 +1228,20 @@
           "OfficeRecordSupportFullName": null
         },
         {
-          "OfficeRecordId": 4018,
-          "OfficeRecordGuid": "F9FCB939-D558-448B-A672-9FCE2A4C0F94",
-          "OfficeRecordLastModifiedUtc": "2018-01-12T16:37:04.82",
-          "OfficeRecordRowVersion": "AAAAAOXHp+0=",
-          "OfficeRecordFirstName": "Jumaane D.",
-          "OfficeRecordLastName": "Williams",
-          "OfficeRecordEmail": "Jwilliams@council.nyc.gov",
-          "OfficeRecordFullName": "Jumaane D. Williams",
-          "OfficeRecordStartDate": "2018-01-11T00:00:00",
+          "OfficeRecordId": 4268,
+          "OfficeRecordGuid": "CD0FC32E-9AA5-4638-A401-12ADEE85876F",
+          "OfficeRecordLastModifiedUtc": "2019-06-13T18:23:19.697",
+          "OfficeRecordRowVersion": "AAAAAOXXE6c=",
+          "OfficeRecordFirstName": "Farah",
+          "OfficeRecordLastName": "Louis",
+          "OfficeRecordEmail": "",
+          "OfficeRecordFullName": "Farah N. Louis",
+          "OfficeRecordStartDate": "2019-06-13T00:00:00",
           "OfficeRecordEndDate": "2021-12-31T00:00:00",
-          "OfficeRecordSort": 70,
-          "OfficeRecordPersonId": 7571,
-          "OfficeRecordBodyId": 5149,
-          "OfficeRecordBodyName": "Committee on Juvenile Justice",
+          "OfficeRecordSort": 37,
+          "OfficeRecordPersonId": 7785,
+          "OfficeRecordBodyId": 5242,
+          "OfficeRecordBodyName": "Committee on Justice System",
           "OfficeRecordTitle": "Committee Member",
           "OfficeRecordVoteDivider": 1.0,
           "OfficeRecordExtendFlag": 0,
@@ -1201,67 +1251,21 @@
           "OfficeRecordSupportFullName": null
         },
         {
-          "OfficeRecordId": 4085,
-          "OfficeRecordGuid": "5381F017-A3AC-4CA7-829F-CD8C5805A795",
-          "OfficeRecordLastModifiedUtc": "2018-01-12T17:54:03.853",
-          "OfficeRecordRowVersion": "AAAAAOXHp/M=",
-          "OfficeRecordFirstName": "Jumaane D.",
-          "OfficeRecordLastName": "Williams",
-          "OfficeRecordEmail": "Jwilliams@council.nyc.gov",
-          "OfficeRecordFullName": "Jumaane D. Williams",
-          "OfficeRecordStartDate": "2018-01-11T00:00:00",
+          "OfficeRecordId": 4280,
+          "OfficeRecordGuid": "0E31B9B4-59E1-432F-9A72-1C4BCCAC27E2",
+          "OfficeRecordLastModifiedUtc": "2019-06-13T18:57:12.34",
+          "OfficeRecordRowVersion": "AAAAAOXXFIo=",
+          "OfficeRecordFirstName": "Farah",
+          "OfficeRecordLastName": "Louis",
+          "OfficeRecordEmail": "",
+          "OfficeRecordFullName": "Farah N. Louis",
+          "OfficeRecordStartDate": "2019-06-13T00:00:00",
           "OfficeRecordEndDate": "2021-12-31T00:00:00",
-          "OfficeRecordSort": 130,
-          "OfficeRecordPersonId": 7571,
-          "OfficeRecordBodyId": 19,
-          "OfficeRecordBodyName": "Committee on Public Safety",
+          "OfficeRecordSort": 60,
+          "OfficeRecordPersonId": 7785,
+          "OfficeRecordBodyId": 24,
+          "OfficeRecordBodyName": "Committee on Youth Services",
           "OfficeRecordTitle": "Committee Member",
-          "OfficeRecordVoteDivider": 1.0,
-          "OfficeRecordExtendFlag": 0,
-          "OfficeRecordMemberTypeId": 3,
-          "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
-          "OfficeRecordSupportNameId": null,
-          "OfficeRecordSupportFullName": null
-        },
-        {
-          "OfficeRecordId": 4173,
-          "OfficeRecordGuid": "1BB4FA41-6408-43E4-A720-5E0B79C3FE91",
-          "OfficeRecordLastModifiedUtc": "2018-01-12T19:23:09.953",
-          "OfficeRecordRowVersion": "AAAAAOV8li8=",
-          "OfficeRecordFirstName": "Jumaane D.",
-          "OfficeRecordLastName": "Williams",
-          "OfficeRecordEmail": "Jwilliams@council.nyc.gov",
-          "OfficeRecordFullName": "Jumaane D. Williams",
-          "OfficeRecordStartDate": "2018-01-11T00:00:00",
-          "OfficeRecordEndDate": "2021-12-31T00:00:00",
-          "OfficeRecordSort": 10,
-          "OfficeRecordPersonId": 7571,
-          "OfficeRecordBodyId": 5247,
-          "OfficeRecordBodyName": "Task Force on City Workforce Equity",
-          "OfficeRecordTitle": "CHAIRPERSON",
-          "OfficeRecordVoteDivider": 1.0,
-          "OfficeRecordExtendFlag": 0,
-          "OfficeRecordMemberTypeId": 1,
-          "OfficeRecordMemberType": "CHAIR",
-          "OfficeRecordSupportNameId": null,
-          "OfficeRecordSupportFullName": null
-        },
-        {
-          "OfficeRecordId": 4223,
-          "OfficeRecordGuid": "E9DCCB4E-2096-4703-AB65-6A9695235A79",
-          "OfficeRecordLastModifiedUtc": "2019-02-28T14:11:17.937",
-          "OfficeRecordRowVersion": "AAAAAOXGpOU=",
-          "OfficeRecordFirstName": "Jumaane D.",
-          "OfficeRecordLastName": "Williams",
-          "OfficeRecordEmail": "Jwilliams@council.nyc.gov",
-          "OfficeRecordFullName": "Jumaane D. Williams",
-          "OfficeRecordStartDate": "2018-01-01T00:00:00",
-          "OfficeRecordEndDate": "2021-12-31T00:00:00",
-          "OfficeRecordSort": 47,
-          "OfficeRecordPersonId": 7571,
-          "OfficeRecordBodyId": 5257,
-          "OfficeRecordBodyName": "Democratic Conference of the Council of the City of New York ",
-          "OfficeRecordTitle": "Council Member",
           "OfficeRecordVoteDivider": 1.0,
           "OfficeRecordExtendFlag": 0,
           "OfficeRecordMemberTypeId": 3,

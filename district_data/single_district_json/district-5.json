@@ -22,7 +22,7 @@
     "PersonId": 7632,
     "PersonGuid": "016BEC4D-8705-4530-92B5-E31AAB115748",
     "PersonLastModifiedUtc": "2015-08-25T15:57:04.463",
-    "PersonRowVersion": "AAAAAOXGpH8=",
+    "PersonRowVersion": "AAAAAOXMjj8=",
     "PersonFullName": "Ben Kallos",
     "PersonActiveFlag": 1,
     "PersonUsedSponsorFlag": 0,
@@ -47,13 +47,13 @@
         "OfficeRecordId": 3858,
         "OfficeRecordGuid": "D4936DD1-70D2-4B8E-9D00-1D9CCEC01429",
         "OfficeRecordLastModifiedUtc": "2018-01-11T15:47:06.073",
-        "OfficeRecordRowVersion": "AAAAAOV8hXA=",
+        "OfficeRecordRowVersion": "AAAAAOXMjlY=",
         "OfficeRecordFirstName": "Ben",
         "OfficeRecordLastName": "Kallos",
         "OfficeRecordEmail": "Bkallos@council.nyc.gov",
         "OfficeRecordFullName": "Ben Kallos",
         "OfficeRecordStartDate": "2018-01-11T00:00:00",
-        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordEndDate": "2019-04-09T00:00:00",
         "OfficeRecordSort": 30,
         "OfficeRecordPersonId": 7632,
         "OfficeRecordBodyId": 5235,
@@ -116,13 +116,13 @@
         "OfficeRecordId": 3982,
         "OfficeRecordGuid": "111BC82E-F03D-4C58-B861-0E17C9502FC9",
         "OfficeRecordLastModifiedUtc": "2018-01-11T22:01:46.107",
-        "OfficeRecordRowVersion": "AAAAAOV8jyA=",
+        "OfficeRecordRowVersion": "AAAAAOXMjuo=",
         "OfficeRecordFirstName": "Ben",
         "OfficeRecordLastName": "Kallos",
         "OfficeRecordEmail": "Bkallos@council.nyc.gov",
         "OfficeRecordFullName": "Ben Kallos",
         "OfficeRecordStartDate": "2018-01-11T00:00:00",
-        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordEndDate": "2019-04-09T00:00:00",
         "OfficeRecordSort": 40,
         "OfficeRecordPersonId": 7632,
         "OfficeRecordBodyId": 15,
@@ -139,13 +139,13 @@
         "OfficeRecordId": 4027,
         "OfficeRecordGuid": "D071DCC0-6E94-4E5B-AE09-4603E88D56AC",
         "OfficeRecordLastModifiedUtc": "2018-01-12T16:46:47.11",
-        "OfficeRecordRowVersion": "AAAAAOV8kmk=",
+        "OfficeRecordRowVersion": "AAAAAOXMtaU=",
         "OfficeRecordFirstName": "Ben",
         "OfficeRecordLastName": "Kallos",
         "OfficeRecordEmail": "Bkallos@council.nyc.gov",
         "OfficeRecordFullName": "Ben Kallos",
         "OfficeRecordStartDate": "2018-01-11T00:00:00",
-        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordEndDate": "2019-04-09T00:00:00",
         "OfficeRecordSort": 90,
         "OfficeRecordPersonId": 7632,
         "OfficeRecordBodyId": 17,
@@ -195,7 +195,7 @@
         "OfficeRecordSort": 40,
         "OfficeRecordPersonId": 7632,
         "OfficeRecordBodyId": 5244,
-        "OfficeRecordBodyName": "Committee on Women",
+        "OfficeRecordBodyName": "Committee on Women and Gender Equity",
         "OfficeRecordTitle": "Committee Member",
         "OfficeRecordVoteDivider": 1.0,
         "OfficeRecordExtendFlag": 0,
@@ -208,13 +208,13 @@
         "OfficeRecordId": 4154,
         "OfficeRecordGuid": "70A92947-D2AA-4C11-88ED-BF80E726EFE4",
         "OfficeRecordLastModifiedUtc": "2018-01-12T19:05:22.73",
-        "OfficeRecordRowVersion": "AAAAAOV8lcg=",
+        "OfficeRecordRowVersion": "AAAAAOXMt70=",
         "OfficeRecordFirstName": "Ben",
         "OfficeRecordLastName": "Kallos",
         "OfficeRecordEmail": "Bkallos@council.nyc.gov",
         "OfficeRecordFullName": "Ben Kallos",
         "OfficeRecordStartDate": "2018-01-11T00:00:00",
-        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordEndDate": "2019-04-09T00:00:00",
         "OfficeRecordSort": 10,
         "OfficeRecordPersonId": 7632,
         "OfficeRecordBodyId": 5070,
@@ -249,12 +249,35 @@
         "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
         "OfficeRecordSupportNameId": null,
         "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4235,
+        "OfficeRecordGuid": "BCADA8F5-2F48-4380-BF5D-1AFA2FC9D892",
+        "OfficeRecordLastModifiedUtc": "2019-04-09T18:03:10.763",
+        "OfficeRecordRowVersion": "AAAAAOXMuAs=",
+        "OfficeRecordFirstName": "Ben",
+        "OfficeRecordLastName": "Kallos",
+        "OfficeRecordEmail": "Bkallos@council.nyc.gov",
+        "OfficeRecordFullName": "Ben Kallos",
+        "OfficeRecordStartDate": "2019-04-10T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 5,
+        "OfficeRecordPersonId": 7632,
+        "OfficeRecordBodyId": 6,
+        "OfficeRecordBodyName": "Committee on Contracts",
+        "OfficeRecordTitle": "CHAIRPERSON",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 1,
+        "OfficeRecordMemberType": "CHAIR",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
       }
     ]
   },
   "district_boundaries": {
     "type": "Feature",
-    "id": 36,
+    "id": 45,
     "geometry": {
       "type": "MultiPolygon",
       "coordinates": [
@@ -331,6 +354,86 @@
             [
               -73.9642137405948,
               40.7466125826175
+            ]
+          ]
+        ],
+        [
+          [
+            [
+              -73.9576372033045,
+              40.7484146129325
+            ],
+            [
+              -73.9574948756482,
+              40.748344729827
+            ],
+            [
+              -73.9575203281713,
+              40.7483118842379
+            ],
+            [
+              -73.9576682399035,
+              40.7483817441504
+            ],
+            [
+              -73.9577279784043,
+              40.7483023270106
+            ],
+            [
+              -73.9578409741152,
+              40.7483462681126
+            ],
+            [
+              -73.9576897538094,
+              40.7485432921055
+            ],
+            [
+              -73.9575779400209,
+              40.7484967902514
+            ],
+            [
+              -73.9576372033045,
+              40.7484146129325
+            ]
+          ]
+        ],
+        [
+          [
+            [
+              -73.935569401097,
+              40.7719270483392
+            ],
+            [
+              -73.935657782742,
+              40.7717646667045
+            ],
+            [
+              -73.935523060681,
+              40.771724564917
+            ],
+            [
+              -73.9355676475625,
+              40.771637385997
+            ],
+            [
+              -73.9358533825304,
+              40.7717242720129
+            ],
+            [
+              -73.9358113060269,
+              40.7718076388084
+            ],
+            [
+              -73.9356997687757,
+              40.7717751738036
+            ],
+            [
+              -73.9356099638977,
+              40.7719395483895
+            ],
+            [
+              -73.935569401097,
+              40.7719270483392
             ]
           ]
         ],
@@ -1141,12 +1244,12 @@
               40.7828673614483
             ],
             [
-              -73.9437614851549,
-              40.7828372042957
+              -73.9437614863396,
+              40.7828372042962
             ],
             [
-              -73.9436334506712,
-              40.7829705961323
+              -73.943633450672,
+              40.7829705952318
             ],
             [
               -73.9435712295665,
@@ -1657,8 +1760,8 @@
               40.7528640008645
             ],
             [
-              -73.9635866982387,
-              40.7532515745042
+              -73.9635866982392,
+              40.7532515736037
             ],
             [
               -73.9633496660773,
@@ -1677,8 +1780,8 @@
               40.7545713929575
             ],
             [
-              -73.9623101233637,
-              40.7546870463893
+              -73.9623101245479,
+              40.7546870463897
             ],
             [
               -73.9622660177387,
@@ -1689,44 +1792,44 @@
               40.7549271016316
             ],
             [
-              -73.9618316335638,
-              40.7551635723842
+              -73.9618316335644,
+              40.7551635714837
             ],
             [
-              -73.9617228349844,
-              40.7552550897849
+              -73.9617228361685,
+              40.7552550897853
             ],
             [
               -73.9611600401926,
               40.7556708728313
             ],
             [
-              -73.9610373697524,
-              40.7557837809111
+              -73.9610373709366,
+              40.7557837809115
             ],
             [
               -73.9610941009259,
               40.7558194159764
             ],
             [
-              -73.9612759541957,
-              40.7559065552265
+              -73.9612759553799,
+              40.7559065552269
             ],
             [
-              -73.9616237352591,
-              40.7560671704921
+              -73.9616237364438,
+              40.756067169592
             ],
             [
-              -73.9638723134604,
-              40.757016344966
+              -73.9638723134609,
+              40.7570163440654
             ],
             [
               -73.9643268733981,
               40.7563897970299
             ],
             [
-              -73.9667033129934,
-              40.7573890706232
+              -73.9667033141777,
+              40.7573890706236
             ],
             [
               -73.9662405044642,
@@ -1737,8 +1840,8 @@
               40.7586408991754
             ],
             [
-              -73.9652945123176,
-              40.759316104118
+              -73.9652945135018,
+              40.7593161041184
             ],
             [
               -73.9648022336125,
@@ -1753,8 +1856,8 @@
               40.7610458334646
             ],
             [
-              -73.9638845414123,
-              40.7612415535211
+              -73.9638845425966,
+              40.7612415535214
             ],
             [
               -73.9634253521069,
@@ -1765,12 +1868,12 @@
               40.7624953448799
             ],
             [
-              -73.9625166773413,
-              40.7631210019854
+              -73.9625166785256,
+              40.7631210019858
             ],
             [
-              -73.9620653627967,
-              40.7637425526539
+              -73.9620653639811,
+              40.7637425526543
             ],
             [
               -73.9616089778404,
@@ -1781,24 +1884,24 @@
               40.764995714593
             ],
             [
-              -73.9606908936785,
-              40.7656221206866
+              -73.9606908948635,
+              40.7656221197865
             ],
             [
-              -73.9602345453343,
-              40.7662484439239
+              -73.9602345441498,
+              40.7662484439235
             ],
             [
               -73.9597778427764,
               40.7668763689725
             ],
             [
-              -73.9593211362302,
-              40.767502539773
+              -73.9593211362308,
+              40.7675025388725
             ],
             [
-              -73.9588633838642,
-              40.7681281797388
+              -73.9588633838648,
+              40.7681281788383
             ],
             [
               -73.9583667691153,
@@ -1809,8 +1912,8 @@
               40.7694923174975
             ],
             [
-              -73.9574058153973,
-              40.7701285244057
+              -73.9574058153979,
+              40.7701285235052
             ],
             [
               -73.9569425653473,
@@ -1825,32 +1928,32 @@
               40.7720282259861
             ],
             [
-              -73.9555546788715,
-              40.7726623452957
+              -73.9555546800561,
+              40.7726623452962
             ],
             [
-              -73.9550562520348,
-              40.7733451215276
+              -73.9550562520354,
+              40.7733451206271
             ],
             [
               -73.9572955374188,
               40.7742918255864
             ],
             [
-              -73.9588973484977,
-              40.7749684327623
+              -73.9588973473131,
+              40.7749684327618
             ],
             [
               -73.9584005135128,
               40.7756503313857
             ],
             [
-              -73.9579376842665,
-              40.7762839372498
+              -73.9579376830819,
+              40.7762839372494
             ],
             [
-              -73.9574727236285,
-              40.7769190982805
+              -73.957472724813,
+              40.7769190982809
             ],
             [
               -73.9570111093118,
@@ -1889,8 +1992,8 @@
               40.7826906231787
             ],
             [
-              -73.9528024458948,
-              40.7833170956616
+              -73.9528024458955,
+              40.7833170947611
             ],
             [
               -73.9523423927559,
@@ -1925,12 +2028,12 @@
               40.7872301345447
             ],
             [
-              -73.9516099390887,
-              40.7878663120664
+              -73.9516099402735,
+              40.7878663120668
             ],
             [
-              -73.9511328584027,
-              40.7884876916049
+              -73.9511328595875,
+              40.7884876916054
             ],
             [
               -73.9506776345628,
@@ -1961,8 +2064,8 @@
               40.7866121677919
             ],
             [
-              -73.9483337092207,
-              40.786556702929
+              -73.9483337104054,
+              40.7865567029296
             ],
             [
               -73.9483966123021,
@@ -1977,8 +2080,8 @@
               40.7861201128648
             ],
             [
-              -73.9488281051088,
-              40.7858894475173
+              -73.9488281062935,
+              40.7858894475178
             ],
             [
               -73.9483868049714,
@@ -2005,12 +2108,12 @@
               40.7839814505795
             ],
             [
-              -73.9459232939543,
-              40.783761070549
+              -73.9459232939536,
+              40.7837610714495
             ],
             [
-              -73.9447240779712,
-              40.7832558450777
+              -73.944724077972,
+              40.7832558441772
             ],
             [
               -73.9446480925161,
@@ -2037,10 +2140,10 @@
       ]
     },
     "properties": {
-      "OBJECTID": 36,
+      "OBJECTID": 45,
       "CounDist": 5,
-      "Shape__Area": 37209165.9651184,
-      "Shape__Length": 63909.7354877286
+      "Shape__Area": 37216405.3586731,
+      "Shape__Length": 64605.8838561894
     }
   }
 }

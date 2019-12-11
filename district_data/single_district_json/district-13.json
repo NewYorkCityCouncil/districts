@@ -22,7 +22,7 @@
     "PersonId": 7743,
     "PersonGuid": "2A6B0B8F-D602-423D-9364-78B56CD11396",
     "PersonLastModifiedUtc": "2017-12-05T15:34:11.577",
-    "PersonRowVersion": "AAAAAOXGpHM=",
+    "PersonRowVersion": "AAAAAOXsA9c=",
     "PersonFullName": "Mark Gjonaj ",
     "PersonActiveFlag": 1,
     "PersonUsedSponsorFlag": 0,
@@ -47,13 +47,13 @@
         "OfficeRecordId": 3958,
         "OfficeRecordGuid": "9B56E25B-F26E-41CE-BC88-26F56A83AF10",
         "OfficeRecordLastModifiedUtc": "2018-01-11T21:24:18.25",
-        "OfficeRecordRowVersion": "AAAAAOV8ivM=",
+        "OfficeRecordRowVersion": "AAAAAOXMjs0=",
         "OfficeRecordFirstName": "Mark",
         "OfficeRecordLastName": "Gjonaj",
         "OfficeRecordEmail": "Mgjonaj@council.nyc.gov",
         "OfficeRecordFullName": "Mark Gjonaj ",
         "OfficeRecordStartDate": "2018-01-11T00:00:00",
-        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordEndDate": "2019-04-09T00:00:00",
         "OfficeRecordSort": 50,
         "OfficeRecordPersonId": 7743,
         "OfficeRecordBodyId": 12,
@@ -93,13 +93,13 @@
         "OfficeRecordId": 4003,
         "OfficeRecordGuid": "BBAB74F0-AF03-4292-AEB3-51F5ADC63AF4",
         "OfficeRecordLastModifiedUtc": "2018-01-12T16:23:50.89",
-        "OfficeRecordRowVersion": "AAAAAOV8kek=",
+        "OfficeRecordRowVersion": "AAAAAOXsBM0=",
         "OfficeRecordFirstName": "Mark",
         "OfficeRecordLastName": "Gjonaj",
         "OfficeRecordEmail": "Mgjonaj@council.nyc.gov",
         "OfficeRecordFullName": "Mark Gjonaj ",
         "OfficeRecordStartDate": "2018-01-11T00:00:00",
-        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordEndDate": "2019-10-29T00:00:00",
         "OfficeRecordSort": 40,
         "OfficeRecordPersonId": 7743,
         "OfficeRecordBodyId": 5119,
@@ -116,13 +116,13 @@
         "OfficeRecordId": 4014,
         "OfficeRecordGuid": "149BDA5B-5AA7-4477-BB88-2770C1F9B7A6",
         "OfficeRecordLastModifiedUtc": "2018-01-12T16:35:20.46",
-        "OfficeRecordRowVersion": "AAAAAOV8ki0=",
+        "OfficeRecordRowVersion": "AAAAAOXsBsg=",
         "OfficeRecordFirstName": "Mark",
         "OfficeRecordLastName": "Gjonaj",
         "OfficeRecordEmail": "Mgjonaj@council.nyc.gov",
         "OfficeRecordFullName": "Mark Gjonaj ",
         "OfficeRecordStartDate": "2018-01-11T00:00:00",
-        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordEndDate": "2019-10-29T00:00:00",
         "OfficeRecordSort": 30,
         "OfficeRecordPersonId": 7743,
         "OfficeRecordBodyId": 5149,
@@ -226,12 +226,104 @@
         "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
         "OfficeRecordSupportNameId": null,
         "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4238,
+        "OfficeRecordGuid": "D29CB2B8-B204-405B-8F53-01FF629024F0",
+        "OfficeRecordLastModifiedUtc": "2019-04-09T18:14:02.283",
+        "OfficeRecordRowVersion": "AAAAAOXMjo0=",
+        "OfficeRecordFirstName": "Mark",
+        "OfficeRecordLastName": "Gjonaj",
+        "OfficeRecordEmail": "Mgjonaj@council.nyc.gov",
+        "OfficeRecordFullName": "Mark Gjonaj ",
+        "OfficeRecordStartDate": "2019-04-10T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 45,
+        "OfficeRecordPersonId": 7743,
+        "OfficeRecordBodyId": 7,
+        "OfficeRecordBodyName": "Committee on Economic Development",
+        "OfficeRecordTitle": "Council Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4252,
+        "OfficeRecordGuid": "8A8991D7-FC17-43EA-8F00-F8AE01AE64DA",
+        "OfficeRecordLastModifiedUtc": "2019-04-10T14:47:46.033",
+        "OfficeRecordRowVersion": "AAAAAOXMt7c=",
+        "OfficeRecordFirstName": "Mark",
+        "OfficeRecordLastName": "Gjonaj",
+        "OfficeRecordEmail": "Mgjonaj@council.nyc.gov",
+        "OfficeRecordFullName": "Mark Gjonaj ",
+        "OfficeRecordStartDate": "2019-04-10T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 15,
+        "OfficeRecordPersonId": 7743,
+        "OfficeRecordBodyId": 5245,
+        "OfficeRecordBodyName": "Subcommittee on Capital Budget",
+        "OfficeRecordTitle": "Committee Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4258,
+        "OfficeRecordGuid": "9A87B226-EDE2-4E44-A21B-5260C9BEAF8B",
+        "OfficeRecordLastModifiedUtc": "2019-05-02T20:33:49.027",
+        "OfficeRecordRowVersion": "AAAAAOXPrSM=",
+        "OfficeRecordFirstName": "Mark",
+        "OfficeRecordLastName": "Gjonaj",
+        "OfficeRecordEmail": "Mgjonaj@council.nyc.gov",
+        "OfficeRecordFullName": "Mark Gjonaj ",
+        "OfficeRecordStartDate": "2019-04-09T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 65,
+        "OfficeRecordPersonId": 7743,
+        "OfficeRecordBodyId": 11,
+        "OfficeRecordBodyName": "Committee on Finance",
+        "OfficeRecordTitle": "Committee Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4294,
+        "OfficeRecordGuid": "85ECE75D-E0BD-42BC-A8B0-3A6914DD3B3B",
+        "OfficeRecordLastModifiedUtc": "2019-10-30T17:17:55.887",
+        "OfficeRecordRowVersion": "AAAAAOXsA9Q=",
+        "OfficeRecordFirstName": "Mark",
+        "OfficeRecordLastName": "Gjonaj",
+        "OfficeRecordEmail": "Mgjonaj@council.nyc.gov",
+        "OfficeRecordFullName": "Mark Gjonaj ",
+        "OfficeRecordStartDate": "2019-10-30T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 45,
+        "OfficeRecordPersonId": 7743,
+        "OfficeRecordBodyId": 5105,
+        "OfficeRecordBodyName": "Committee on Cultural Affairs, Libraries and International Intergroup Relations",
+        "OfficeRecordTitle": "Committee Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
       }
     ]
   },
   "district_boundaries": {
     "type": "Feature",
-    "id": 48,
+    "id": 34,
     "geometry": {
       "type": "MultiPolygon",
       "coordinates": [
@@ -24674,8 +24766,8 @@
               40.8285411496004
             ],
             [
-              -73.8431433942467,
-              40.8285875133059
+              -73.8431433930612,
+              40.8285875133043
             ],
             [
               -73.8432059128424,
@@ -24690,8 +24782,8 @@
               40.8288527945064
             ],
             [
-              -73.843644121824,
-              40.8288979190698
+              -73.8436441206385,
+              40.8288979190682
             ],
             [
               -73.8437718416788,
@@ -24838,8 +24930,8 @@
               40.8424599548158
             ],
             [
-              -73.8542088664989,
-              40.8423790264606
+              -73.8542088653132,
+              40.8423790264591
             ],
             [
               -73.8551981622615,
@@ -24974,8 +25066,8 @@
               40.8515975822157
             ],
             [
-              -73.8686065683513,
-              40.8520769346041
+              -73.8686383722311,
+              40.8520746439494
             ],
             [
               -73.8687240457851,
@@ -24986,8 +25078,8 @@
               40.8536943348609
             ],
             [
-              -73.8693781668242,
-              40.8542740117281
+              -73.8693781680102,
+              40.8542740117294
             ],
             [
               -73.8698171756048,
@@ -25002,8 +25094,8 @@
               40.8556821510543
             ],
             [
-              -73.8699056281307,
-              40.8557815820761
+              -73.8699056293167,
+              40.8557815820774
             ],
             [
               -73.8699052089117,
@@ -25158,8 +25250,8 @@
               40.8696490628577
             ],
             [
-              -73.8634132972177,
-              40.8688620119614
+              -73.8634132984039,
+              40.8688620119628
             ],
             [
               -73.8632667005969,
@@ -25194,8 +25286,8 @@
               40.8677905071418
             ],
             [
-              -73.8604809543311,
-              40.8677710810218
+              -73.8604809531449,
+              40.8677710810203
             ],
             [
               -73.8595474416739,
@@ -25226,16 +25318,16 @@
               40.8676502306771
             ],
             [
-              -73.8528197828124,
-              40.8676327035626
+              -73.8528197839986,
+              40.8676327035641
             ],
             [
               -73.8518845645046,
               40.8676142985537
             ],
             [
-              -73.8509443899469,
-              40.8675994274942
+              -73.8509443911331,
+              40.8675994274958
             ],
             [
               -73.8500042330299,
@@ -25254,20 +25346,20 @@
               40.8664284061798
             ],
             [
-              -73.8490712926296,
-              40.8663935052254
+              -73.8490712938158,
+              40.866393505227
             ],
             [
               -73.8489646988219,
               40.866338219709
             ],
             [
-              -73.8487886314517,
-              40.8662398626564
+              -73.8487886326379,
+              40.8662398626579
             ],
             [
-              -73.8485464853131,
-              40.8665315462704
+              -73.8485464864993,
+              40.866531546272
             ],
             [
               -73.848096717251,
@@ -25282,8 +25374,8 @@
               40.867511710874
             ],
             [
-              -73.8452349550122,
-              40.8674927852078
+              -73.8452349561984,
+              40.8674927852094
             ],
             [
               -73.8442938798491,
@@ -25322,12 +25414,12 @@
               40.866829132237
             ],
             [
-              -73.8387536384502,
-              40.8665810694153
+              -73.8387536396363,
+              40.866581069417
             ],
             [
-              -73.8378452044269,
-              40.8661074799637
+              -73.837845205613,
+              40.8661074799653
             ],
             [
               -73.836971614799,
@@ -25530,8 +25622,8 @@
               40.8870685482733
             ],
             [
-              -73.8227699368985,
-              40.8870545934319
+              -73.8227699380851,
+              40.8870545934338
             ],
             [
               -73.8230747521618,
@@ -25598,8 +25690,8 @@
               40.88999531816
             ],
             [
-              -73.8233674146305,
-              40.8910834333558
+              -73.8233674134439,
+              40.891083433354
             ],
             [
               -73.8228547509321,
@@ -25626,10 +25718,10 @@
       ]
     },
     "properties": {
-      "OBJECTID": 48,
+      "OBJECTID": 34,
       "CounDist": 13,
-      "Shape__Area": 327160235.318161,
-      "Shape__Length": 333846.167802301
+      "Shape__Area": 327161679.38385,
+      "Shape__Length": 333851.595797689
     }
   }
 }

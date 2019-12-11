@@ -22,7 +22,7 @@
     "PersonId": 7639,
     "PersonGuid": "5A77DDB4-93DF-4936-9DDE-A0751E3CD238",
     "PersonLastModifiedUtc": "2015-08-25T15:57:04.463",
-    "PersonRowVersion": "AAAAAOXGpNA=",
+    "PersonRowVersion": "AAAAAOXsA0g=",
     "PersonFullName": "Helen K. Rosenthal",
     "PersonActiveFlag": 1,
     "PersonUsedSponsorFlag": 0,
@@ -47,13 +47,13 @@
         "OfficeRecordId": 3862,
         "OfficeRecordGuid": "F49A09F8-8E66-47AC-ACC9-E56D6AA9C1A4",
         "OfficeRecordLastModifiedUtc": "2018-01-11T15:59:04.257",
-        "OfficeRecordRowVersion": "AAAAAOV8hRA=",
+        "OfficeRecordRowVersion": "AAAAAOXMjlg=",
         "OfficeRecordFirstName": "Helen K.",
         "OfficeRecordLastName": "Rosenthal",
         "OfficeRecordEmail": "Hrosenthal@council.nyc.gov",
         "OfficeRecordFullName": "Helen K. Rosenthal",
         "OfficeRecordStartDate": "2018-01-11T00:00:00",
-        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordEndDate": "2019-04-09T00:00:00",
         "OfficeRecordSort": 70,
         "OfficeRecordPersonId": 7639,
         "OfficeRecordBodyId": 5235,
@@ -93,13 +93,13 @@
         "OfficeRecordId": 3901,
         "OfficeRecordGuid": "E3EF127C-8753-4201-AD19-11A8131CD013",
         "OfficeRecordLastModifiedUtc": "2018-01-11T20:21:37.137",
-        "OfficeRecordRowVersion": "AAAAAOV8iXc=",
+        "OfficeRecordRowVersion": "AAAAAOXMjos=",
         "OfficeRecordFirstName": "Helen K.",
         "OfficeRecordLastName": "Rosenthal",
         "OfficeRecordEmail": "Hrosenthal@council.nyc.gov",
         "OfficeRecordFullName": "Helen K. Rosenthal",
         "OfficeRecordStartDate": "2018-01-11T00:00:00",
-        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordEndDate": "2019-04-09T00:00:00",
         "OfficeRecordSort": 120,
         "OfficeRecordPersonId": 7639,
         "OfficeRecordBodyId": 7,
@@ -172,7 +172,7 @@
         "OfficeRecordSort": 10,
         "OfficeRecordPersonId": 7639,
         "OfficeRecordBodyId": 5244,
-        "OfficeRecordBodyName": "Committee on Women",
+        "OfficeRecordBodyName": "Committee on Women and Gender Equity",
         "OfficeRecordTitle": "CHAIRPERSON",
         "OfficeRecordVoteDivider": 1.0,
         "OfficeRecordExtendFlag": 0,
@@ -226,12 +226,58 @@
         "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
         "OfficeRecordSupportNameId": null,
         "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4250,
+        "OfficeRecordGuid": "A787779C-CB0B-43B3-8181-E06B34B6B1F0",
+        "OfficeRecordLastModifiedUtc": "2019-04-10T14:36:05.15",
+        "OfficeRecordRowVersion": "AAAAAOXMt3M=",
+        "OfficeRecordFirstName": "Helen K.",
+        "OfficeRecordLastName": "Rosenthal",
+        "OfficeRecordEmail": "Hrosenthal@council.nyc.gov",
+        "OfficeRecordFullName": "Helen K. Rosenthal",
+        "OfficeRecordStartDate": "2019-04-10T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 60,
+        "OfficeRecordPersonId": 7639,
+        "OfficeRecordBodyId": 5120,
+        "OfficeRecordBodyName": "Committee on Small Business",
+        "OfficeRecordTitle": "Committee Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4292,
+        "OfficeRecordGuid": "D122E9EE-6C76-4277-ADA5-EF45F2F7B226",
+        "OfficeRecordLastModifiedUtc": "2019-10-30T17:04:27.787",
+        "OfficeRecordRowVersion": "AAAAAOXsA0U=",
+        "OfficeRecordFirstName": "Helen K.",
+        "OfficeRecordLastName": "Rosenthal",
+        "OfficeRecordEmail": "Hrosenthal@council.nyc.gov",
+        "OfficeRecordFullName": "Helen K. Rosenthal",
+        "OfficeRecordStartDate": "2019-10-30T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 58,
+        "OfficeRecordPersonId": 7639,
+        "OfficeRecordBodyId": 4,
+        "OfficeRecordBodyName": "Committee on Civil Service and Labor",
+        "OfficeRecordTitle": "Committee Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
       }
     ]
   },
   "district_boundaries": {
     "type": "Feature",
-    "id": 31,
+    "id": 23,
     "geometry": {
       "type": "Polygon",
       "coordinates": [
@@ -349,8 +395,8 @@
             40.7897831821619
           ],
           [
-            -73.9548186737267,
-            40.7892130172172
+            -73.9548186749116,
+            40.7892130172176
           ],
           [
             -73.9551056066073,
@@ -1740,10 +1786,10 @@
       ]
     },
     "properties": {
-      "OBJECTID": 31,
+      "OBJECTID": 23,
       "CounDist": 6,
-      "Shape__Area": 83597218.2688599,
-      "Shape__Length": 56823.2234760676
+      "Shape__Area": 83597218.2118988,
+      "Shape__Length": 56823.223473326
     }
   }
 }

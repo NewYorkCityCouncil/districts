@@ -277,7 +277,7 @@
   },
   "district_boundaries": {
     "type": "Feature",
-    "id": 22,
+    "id": 17,
     "geometry": {
       "type": "Polygon",
       "coordinates": [
@@ -1990,7 +1990,7 @@
       ]
     },
     "properties": {
-      "OBJECTID": 22,
+      "OBJECTID": 17,
       "CounDist": 24,
       "Shape__Area": 185496852.522385,
       "Shape__Length": 62170.6101607205

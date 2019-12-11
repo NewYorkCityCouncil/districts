@@ -22,7 +22,7 @@
     "PersonId": 430,
     "PersonGuid": "46189A2E-08C4-4D21-85F7-035945A62E45",
     "PersonLastModifiedUtc": "2015-08-25T15:57:04.463",
-    "PersonRowVersion": "AAAAAOXGpLE=",
+    "PersonRowVersion": "AAAAAOXsBrE=",
     "PersonFullName": "Bill Perkins",
     "PersonActiveFlag": 1,
     "PersonUsedSponsorFlag": 0,
@@ -139,13 +139,13 @@
         "OfficeRecordId": 4017,
         "OfficeRecordGuid": "65ED0816-D482-49FC-97F2-1EA57AFC0107",
         "OfficeRecordLastModifiedUtc": "2018-01-12T16:36:30.327",
-        "OfficeRecordRowVersion": "AAAAAOV8kjk=",
+        "OfficeRecordRowVersion": "AAAAAOXsBs4=",
         "OfficeRecordFirstName": "Bill",
         "OfficeRecordLastName": "Perkins",
         "OfficeRecordEmail": "Bperkins@council.nyc.gov",
         "OfficeRecordFullName": "Bill Perkins",
         "OfficeRecordStartDate": "2018-01-11T00:00:00",
-        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordEndDate": "2019-10-29T00:00:00",
         "OfficeRecordSort": 60,
         "OfficeRecordPersonId": 430,
         "OfficeRecordBodyId": 5149,
@@ -203,23 +203,42 @@
         "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
         "OfficeRecordSupportNameId": null,
         "OfficeRecordSupportFullName": null
+      },
+      {
+        "OfficeRecordId": 4302,
+        "OfficeRecordGuid": "AB09DA2D-B801-43BB-9301-77D2FF413DDD",
+        "OfficeRecordLastModifiedUtc": "2019-10-30T18:24:22.737",
+        "OfficeRecordRowVersion": "AAAAAOXsBq4=",
+        "OfficeRecordFirstName": "Bill",
+        "OfficeRecordLastName": "Perkins",
+        "OfficeRecordEmail": "Bperkins@council.nyc.gov",
+        "OfficeRecordFullName": "Bill Perkins",
+        "OfficeRecordStartDate": "2019-10-30T00:00:00",
+        "OfficeRecordEndDate": "2021-12-31T00:00:00",
+        "OfficeRecordSort": 75,
+        "OfficeRecordPersonId": 430,
+        "OfficeRecordBodyId": 24,
+        "OfficeRecordBodyName": "Committee on Youth Services",
+        "OfficeRecordTitle": "Committee Member",
+        "OfficeRecordVoteDivider": 1.0,
+        "OfficeRecordExtendFlag": 0,
+        "OfficeRecordMemberTypeId": 3,
+        "OfficeRecordMemberType": "PRIMARY COUNCIL MEMBERS",
+        "OfficeRecordSupportNameId": null,
+        "OfficeRecordSupportFullName": null
       }
     ]
   },
   "district_boundaries": {
     "type": "Feature",
-    "id": 34,
+    "id": 42,
     "geometry": {
       "type": "Polygon",
       "coordinates": [
         [
           [
-            -73.9310054347987,
-            40.8424108431289
-          ],
-          [
-            -73.9309763137909,
-            40.8424087167517
+            -73.9309763126051,
+            40.842408716751
           ],
           [
             -73.9312237313942,
@@ -1498,8 +1517,8 @@
             40.8024525664029
           ],
           [
-            -73.9392883195423,
-            40.801824655284
+            -73.9392883207273,
+            40.8018246552846
           ],
           [
             -73.9393339693672,
@@ -1514,8 +1533,8 @@
             40.8007644834814
           ],
           [
-            -73.9401057945757,
-            40.8007045239992
+            -73.9401057957607,
+            40.8007045239998
           ],
           [
             -73.9402075635971,
@@ -1574,8 +1593,8 @@
             40.7991823305447
           ],
           [
-            -73.9455047934259,
-            40.7990975840853
+            -73.9455047946109,
+            40.7990975840859
           ],
           [
             -73.9455482217585,
@@ -1754,8 +1773,8 @@
             40.801852035201
           ],
           [
-            -73.9586898322001,
-            40.8024780697225
+            -73.9586898321996,
+            40.802478070623
           ],
           [
             -73.9582502219713,
@@ -1838,8 +1857,8 @@
             40.8100728315698
           ],
           [
-            -73.9545137331959,
-            40.8106948793288
+            -73.9545137343811,
+            40.8106948793292
           ],
           [
             -73.954289536358,
@@ -2026,6 +2045,10 @@
             40.8308991198618
           ],
           [
+            -73.9410769041066,
+            40.8307751329052
+          ],
+          [
             -73.9403478671649,
             40.8304661242609
           ],
@@ -2054,8 +2077,8 @@
             40.8309551230676
           ],
           [
-            -73.9398407185801,
-            40.8310227503745
+            -73.9398407197657,
+            40.8310227503751
           ],
           [
             -73.9397899721582,
@@ -2066,24 +2089,24 @@
             40.8311523313269
           ],
           [
-            -73.9396355242599,
-            40.8312734283064
+            -73.9396355242607,
+            40.8312734274059
           ],
           [
             -73.939542024671,
             40.8313972316045
           ],
           [
-            -73.939454606699,
-            40.8315235729105
+            -73.9394546066999,
+            40.83152357201
           ],
           [
             -73.939373391453,
             40.8316522794066
           ],
           [
-            -73.9392984870056,
-            40.8317831764665
+            -73.9392984870064,
+            40.831783175566
           ],
           [
             -73.9392299966951,
@@ -2106,8 +2129,8 @@
             40.833002785577
           ],
           [
-            -73.9383923915236,
-            40.8330966502775
+            -73.9383923915228,
+            40.833096651178
           ],
           [
             -73.9382925809352,
@@ -2118,8 +2141,8 @@
             40.8332782120252
           ],
           [
-            -73.938083256074,
-            40.8333657722616
+            -73.9380832560731,
+            40.833365773162
           ],
           [
             -73.9379738960428,
@@ -2214,8 +2237,8 @@
             40.8417552011877
           ],
           [
-            -73.9315300979547,
-            40.8418433838863
+            -73.9315300991404,
+            40.841843383887
           ],
           [
             -73.931401974539,
@@ -2226,8 +2249,8 @@
             40.8420604736927
           ],
           [
-            -73.9311076469503,
-            40.8424195471545
+            -73.9311076481369,
+            40.8424195462547
           ],
           [
             -73.9310463258622,
@@ -2236,15 +2259,19 @@
           [
             -73.9310054347987,
             40.8424108431289
+          ],
+          [
+            -73.9309763126051,
+            40.842408716751
           ]
         ]
       ]
     },
     "properties": {
-      "OBJECTID": 34,
+      "OBJECTID": 42,
       "CounDist": 9,
-      "Shape__Area": 57263000.0915375,
-      "Shape__Length": 47398.0390110209
+      "Shape__Area": 57263000.2107239,
+      "Shape__Length": 47398.0393471747
     }
   }
 }
