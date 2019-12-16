@@ -18,7 +18,8 @@ Council Member District Information
   4. `python districts.py geojson` will do the reverse of Step 3:
       * Merge the master JSON file with the GeoJSON from [City Planning](https://www1.nyc.gov/site/planning/data-maps/open-data/districts-download-metadata.page)
       * Create separate files for each district in the `single_district_geojson` directory.
-  4. `python districts.py check` will just confirm that there are 51 objects in the JSON and GeoJSON.
+  5. `python districts.py no_geo` create a JSON file similar to `cm_master_file.json`, but will not include GeoJSON data:
+  6. `python districts.py check` will just confirm that there are 51 objects in the JSON and GeoJSON.
 
   NOTE: Each command is dependent on the previous command as it assumes the files made from previous commands exist.
 
