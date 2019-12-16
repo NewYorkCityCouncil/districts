@@ -109,6 +109,20 @@ if len(sys.argv) == 2:
             json.dump(GEO_DATA, master_file, indent=2)
         print("Master data has successfully been merged with the GeoJSON data from City Planning.")
 
+    elif sys.argv[1] == "no_geo":
+        with open('cm_master_file.json') as json_data:
+            READ_JSON = JSON_FILE = json.load(json_data)
+        WRITE_JSON = open('cm_master_file_no_geo.json', 'w')  
+        CM_NO_GEO= []
+        for cm in READ_JSON:
+            CM_DATA = {
+                "id": cm["id"],
+                "district": cm["district"],
+                "council_member": cm["council_member"]
+            }
+            CM_NO_GEO.append(CM_DATA)
+        json.dump(CM_NO_GEO, WRITE_JSON, indent=2)
+
     elif sys.argv[1] == "check":
         with open('cm_master_file.json') as json_data:
             JSON_FILE = json.load(json_data)
