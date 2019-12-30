@@ -162,8 +162,14 @@ if len(sys.argv) == 2:
                 }
                 RECORDS = RECORDS + [UPDATED_RECORD]
             COMMITTEE_DATA = COMMITTEE_DATA + RECORDS
-        JSON_FILE = open('active_committees_and_memebers.json', 'w')
-        json.dump(COMMITTEE_DATA, JSON_FILE, indent=2)
+        # JSON_FILE = open('active_committees_and_memebers.json', 'w')
+        # json.dump(COMMITTEE_DATA, JSON_FILE, indent=2)
+        with open('active_committees_and_memebers.csv', mode='w') as csv_file:
+            fieldnames = ["Id", "Guid", "MemberId", "FirstName", "LastName", "FullName", "CommitteeId", "CommitteeName", "MemberTypeId", "Title", "StartDate", "EndDate", "Version", "Sort", "LastUpdatedUTC"]
+            writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
+            writer.writeheader()
+            for row in COMMITTEE_DATA:
+                writer.writerow(row)
         print("List of active committees and current members created.")
 
     elif sys.argv[1] == "check":
