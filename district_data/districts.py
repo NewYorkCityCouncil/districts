@@ -55,7 +55,7 @@ if len(sys.argv) == 2:
             else:
                 TODAY = TODAY.replace(year=TODAY.year - ((TODAY.year % 4) + 2), month=1, day=1).strftime("%Y-%m-%d")
             END = "{}-{}-{}".format(int(TODAY.split("-")[0]) + 3, 12, 31)
-            COMMITTEE_LINK = "https://webapi.legistar.com/v1/nyc/persons/{}/officerecords/?$filter=OfficeRecordStartDate+ge+datetime'{}'+and+OfficeRecordEndDate+le+datetime'{}'&token={}".format(cm["council_member"]["person_id"], TODAY, END, TOKEN)
+            COMMITTEE_LINK = "https://webapi.legistar.com/v1/nyc/persons/{}/officerecords/?$filter=OfficeRecordStartDate+ge+datetime'{}'+and+OfficeRecordEndDate+eq+datetime'{}'&token={}".format(cm["council_member"]["person_id"], TODAY, END, TOKEN)
             # BELOW EXCLUDES THE COUNCIL MEMBER TITLE
             # COMMITTEE_LINK = "https://webapi.legistar.com/v1/nyc/persons/{}/officerecords/?$filter=OfficeRecordStartDate+ge+datetime'{}'+and+OfficeRecordEndDate+le+datetime'{}'+and+OfficeRecordBodyId+ne+1&token={}".format(cm["council_member"]["person_id"], TODAY.strftime("%Y-%m-%d"), END, TOKEN)
 
@@ -122,6 +122,49 @@ if len(sys.argv) == 2:
             }
             CM_NO_GEO.append(CM_DATA)
         json.dump(CM_NO_GEO, WRITE_JSON, indent=2)
+        print("Master file created without the GeoJSON data from City Planning.")
+
+    elif sys.argv[1] == "committee_assignment":
+        # TO DO: Trim out unnecessary data from legistar
+        TODAY = datetime.today()
+        if (TODAY.year % 4) >= 2:
+            TODAY = TODAY.replace(year=TODAY.year - ((TODAY.year % 4) - 2), month=1, day=1).strftime("%Y-%m-%d")
+        else:
+            TODAY = TODAY.replace(year=TODAY.year - ((TODAY.year % 4) + 2), month=1, day=1).strftime("%Y-%m-%d")
+        END = "{}-{}-{}".format(int(TODAY.split("-")[0]) + 3, 12, 31)
+        # CURRENT COMMITTEES ENDPOINT
+        ACTIVE_COMMITTEES_LINK = "https://webapi.legistar.com/v1/nyc/bodies/?token={}&$filter=(BodyTypeName+eq+'Committee'+or+BodyTypeName+eq+'Subcommittee'+or+BodyTypeName+eq+'Land Use')+and+BodyActiveFlag+eq+1".format(TOKEN)
+        ACTIVE_COMMITTEES = requests.get(url=ACTIVE_COMMITTEES_LINK).json()
+        # LOOP THRU COMMITTEES, GET THE COMMITTEE/BODY ID, THEN USE NEXT ENDPOINT
+        COMMITTEE_DATA = []
+        for committee in ACTIVE_COMMITTEES:
+        # OFFICE RECORDS/MEMBERS FOR A COMMITTEE
+            COMMITTEE_RECORD_LINK = "https://webapi.legistar.com/v1/nyc/bodies/{}/officerecords/?token={}&$filter=OfficeRecordStartDate+ge+datetime'{}'+and+OfficeRecordEndDate+eq+datetime'{}'".format(committee["BodyId"], TOKEN, TODAY, END)
+            COMMITTEE_RECORDS = requests.get(url=COMMITTEE_RECORD_LINK).json()
+            RECORDS = []
+            for record in COMMITTEE_RECORDS:
+                UPDATED_RECORD = {
+                    "Id": record["OfficeRecordId"],
+                    "Guid": record["OfficeRecordGuid"],
+                    "MemberId": record["OfficeRecordPersonId"],
+                    "FirstName": record["OfficeRecordFirstName"],
+                    "LastName": record["OfficeRecordLastName"],
+                    "FullName": record["OfficeRecordFullName"],
+                    "CommitteeId": record["OfficeRecordBodyId"],
+                    "CommitteeName": record["OfficeRecordBodyName"],
+                    "MemberTypeId": record["OfficeRecordMemberTypeId"],
+                    "Title": record["OfficeRecordTitle"].capitalize(),
+                    "StartDate": record["OfficeRecordStartDate"],
+                    "EndDate": record["OfficeRecordEndDate"],
+                    "Version": record["OfficeRecordRowVersion"],
+                    "Sort": record["OfficeRecordSort"],
+                    "LastUpdatedUTC": record["OfficeRecordLastModifiedUtc"],
+                }
+                RECORDS = RECORDS + [UPDATED_RECORD]
+            COMMITTEE_DATA = COMMITTEE_DATA + RECORDS
+        JSON_FILE = open('active_committees_and_memebers.json', 'w')
+        json.dump(COMMITTEE_DATA, JSON_FILE, indent=2)
+        print("List of active committees and current members created.")
 
     elif sys.argv[1] == "check":
         with open('cm_master_file.json') as json_data:
