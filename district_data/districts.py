@@ -13,6 +13,12 @@ if not os.path.exists('single_district_geojson'):
 if not os.path.exists('single_district_json'):
     os.makedirs('single_district_json')
 
+if not os.path.exists('committees'):
+    os.makedirs('committees')
+
+if not os.path.exists('json'):
+    os.makedirs('json')
+    
 if os.path.isfile("nycc_district-cm_data.csv") is not True:
     csv_response = requests.get('https://docs.google.com/spreadsheet/ccc?key=1NeWUhuBdq6Eoji1QZqfxXTnDi5jBWuvq0UJq7xSZkNM&output=csv')
     with open('nycc_district-cm_data.csv', 'wb') as file:
@@ -124,7 +130,7 @@ if len(sys.argv) == 2:
         json.dump(CM_NO_GEO, WRITE_JSON, indent=2)
         print("Master file created without the GeoJSON data from City Planning.")
 
-    elif sys.argv[1] == "committee_assignment":
+    elif sys.argv[1] == "committees":
         # TO DO: Trim out unnecessary data from legistar
         TODAY = datetime.today()
         if (TODAY.year % 4) >= 2:
@@ -133,16 +139,17 @@ if len(sys.argv) == 2:
             TODAY = TODAY.replace(year=TODAY.year - ((TODAY.year % 4) + 2), month=1, day=1).strftime("%Y-%m-%d")
         END = "{}-{}-{}".format(int(TODAY.split("-")[0]) + 3, 12, 31)
         # CURRENT COMMITTEES ENDPOINT
-        ACTIVE_COMMITTEES_LINK = "https://webapi.legistar.com/v1/nyc/bodies/?token={}&$filter=(BodyTypeName+eq+'Committee'+or+BodyTypeName+eq+'Subcommittee'+or+BodyTypeName+eq+'Land Use')+and+BodyActiveFlag+eq+1".format(TOKEN)
-        ACTIVE_COMMITTEES = requests.get(url=ACTIVE_COMMITTEES_LINK).json()
+        ALL_COMMITTEES_LINK = "https://webapi.legistar.com/v1/nyc/bodies/?token={}&$filter=(BodyTypeName+eq+'Committee'+or+BodyTypeName+eq+'Subcommittee'+or+BodyTypeName+eq+'Land Use')".format(TOKEN)
+        ALL_COMMITTEES = requests.get(url=ALL_COMMITTEES_LINK).json()
         # LOOP THRU COMMITTEES, GET THE COMMITTEE/BODY ID, THEN USE NEXT ENDPOINT
         COMMITTEE_DATA = []
-        for committee in ACTIVE_COMMITTEES:
+        for committee in ALL_COMMITTEES:
         # OFFICE RECORDS/MEMBERS FOR A COMMITTEE
-            COMMITTEE_RECORD_LINK = "https://webapi.legistar.com/v1/nyc/bodies/{}/officerecords/?token={}&$filter=OfficeRecordStartDate+ge+datetime'{}'+and+OfficeRecordEndDate+eq+datetime'{}'".format(committee["BodyId"], TOKEN, TODAY, END)
+            COMMITTEE_RECORD_LINK = "https://webapi.legistar.com/v1/nyc/bodies/{}/officerecords/?token={}&$filter=OfficeRecordStartDate+ge+datetime'{}'+and+OfficeRecordEndDate+le+datetime'{}'".format(committee["BodyId"], TOKEN, TODAY, END)
             COMMITTEE_RECORDS = requests.get(url=COMMITTEE_RECORD_LINK).json()
             RECORDS = []
             for record in COMMITTEE_RECORDS:
+                ACTIVE_MEMBER = True if END in record["OfficeRecordEndDate"] else False
                 UPDATED_RECORD = {
                     "Id": record["OfficeRecordId"],
                     "Guid": record["OfficeRecordGuid"],
@@ -152,20 +159,21 @@ if len(sys.argv) == 2:
                     "FullName": record["OfficeRecordFullName"],
                     "CommitteeId": record["OfficeRecordBodyId"],
                     "CommitteeName": record["OfficeRecordBodyName"],
+                    "CommitteeActive": True if committee["BodyActiveFlag"] else False,
                     "MemberTypeId": record["OfficeRecordMemberTypeId"],
                     "Title": record["OfficeRecordTitle"].capitalize(),
+                    "MemberActive": ACTIVE_MEMBER,
                     "StartDate": record["OfficeRecordStartDate"],
                     "EndDate": record["OfficeRecordEndDate"],
                     "Version": record["OfficeRecordRowVersion"],
-                    "Sort": record["OfficeRecordSort"],
                     "LastUpdatedUTC": record["OfficeRecordLastModifiedUtc"],
                 }
                 RECORDS = RECORDS + [UPDATED_RECORD]
             COMMITTEE_DATA = COMMITTEE_DATA + RECORDS
-        # JSON_FILE = open('active_committees_and_memebers.json', 'w')
-        # json.dump(COMMITTEE_DATA, JSON_FILE, indent=2)
-        with open('active_committees_and_memebers.csv', mode='w') as csv_file:
-            fieldnames = ["Id", "Guid", "MemberId", "FirstName", "LastName", "FullName", "CommitteeId", "CommitteeName", "MemberTypeId", "Title", "StartDate", "EndDate", "Version", "Sort", "LastUpdatedUTC"]
+        JSON_FILE = open(os.path.join(os.getcwd(),'committees/committees_and_memebers.json'), 'w')
+        json.dump(COMMITTEE_DATA, JSON_FILE, indent=2)
+        with open(os.path.join(os.getcwd(),'committees/committees_and_members.csv'), mode='w') as csv_file:
+            fieldnames = ["Id", "Guid", "MemberId", "FirstName", "LastName", "FullName", "CommitteeId", "CommitteeName", "CommitteeActive", "MemberTypeId", "Title", "MemberActive", "StartDate", "EndDate", "Version", "LastUpdatedUTC"]
             writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
             writer.writeheader()
             for row in COMMITTEE_DATA:
