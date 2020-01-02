@@ -16,9 +16,6 @@ if not os.path.exists('single_district_json'):
 if not os.path.exists('committees'):
     os.makedirs('committees')
 
-if not os.path.exists('json'):
-    os.makedirs('json')
-    
 if os.path.isfile("nycc_district-cm_data.csv") is not True:
     csv_response = requests.get('https://docs.google.com/spreadsheet/ccc?key=1NeWUhuBdq6Eoji1QZqfxXTnDi5jBWuvq0UJq7xSZkNM&output=csv')
     with open('nycc_district-cm_data.csv', 'wb') as file:
