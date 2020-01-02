@@ -25,7 +25,7 @@ if os.path.isfile("nycc_district-cm_data.csv") is not True:
         file.write(csv_response.content)
 
 # INSERT LEGISTAR TOKEN
-TOKEN = ""
+TOKEN = "Uvxb0j9syjm3aI8h46DhQvnX5skN4aSUL0x_Ee3ty9M.ew0KICAiVmVyc2lvbiI6IDEsDQogICJOYW1lIjogIk5ZQyByZWFkIHRva2VuIDIwMTcxMDI2IiwNCiAgIkRhdGUiOiAiMjAxNy0xMC0yNlQxNjoyNjo1Mi42ODM0MDYtMDU6MDAiLA0KICAiV3JpdGUiOiBmYWxzZQ0KfQ"
 if len(sys.argv) == 2:
 
     if sys.argv[1] == "convert": # IF THE JSON HAS NOT BEEN MADE CREATE IT
@@ -149,7 +149,6 @@ if len(sys.argv) == 2:
             COMMITTEE_RECORDS = requests.get(url=COMMITTEE_RECORD_LINK).json()
             RECORDS = []
             for record in COMMITTEE_RECORDS:
-                ACTIVE_MEMBER = True if END in record["OfficeRecordEndDate"] else False
                 UPDATED_RECORD = {
                     "Id": record["OfficeRecordId"],
                     "Guid": record["OfficeRecordGuid"],
@@ -162,7 +161,7 @@ if len(sys.argv) == 2:
                     "CommitteeActive": True if committee["BodyActiveFlag"] else False,
                     "MemberTypeId": record["OfficeRecordMemberTypeId"],
                     "Title": record["OfficeRecordTitle"].capitalize(),
-                    "MemberActive": ACTIVE_MEMBER,
+                    "MemberActive": True if END in record["OfficeRecordEndDate"] else False,
                     "StartDate": record["OfficeRecordStartDate"],
                     "EndDate": record["OfficeRecordEndDate"],
                     "Version": record["OfficeRecordRowVersion"],
