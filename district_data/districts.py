@@ -16,13 +16,11 @@ if not os.path.exists('single_district_json'):
 if not os.path.exists('committees'):
     os.makedirs('committees')
 
-if os.path.isfile("nycc_district-cm_data.csv") is not True:
-    csv_response = requests.get('https://docs.google.com/spreadsheet/ccc?key=1NeWUhuBdq6Eoji1QZqfxXTnDi5jBWuvq0UJq7xSZkNM&output=csv')
-    with open('nycc_district-cm_data.csv', 'wb') as file:
-        file.write(csv_response.content)
+if not os.path.exists('council_members'):
+    os.makedirs('council_members')
 
 # INSERT LEGISTAR TOKEN
-TOKEN = "Uvxb0j9syjm3aI8h46DhQvnX5skN4aSUL0x_Ee3ty9M.ew0KICAiVmVyc2lvbiI6IDEsDQogICJOYW1lIjogIk5ZQyByZWFkIHRva2VuIDIwMTcxMDI2IiwNCiAgIkRhdGUiOiAiMjAxNy0xMC0yNlQxNjoyNjo1Mi42ODM0MDYtMDU6MDAiLA0KICAiV3JpdGUiOiBmYWxzZQ0KfQ"
+TOKEN = ""
 if len(sys.argv) == 2:
 
     if sys.argv[1] == "convert": # IF THE JSON HAS NOT BEEN MADE CREATE IT
@@ -174,7 +172,46 @@ if len(sys.argv) == 2:
             writer.writeheader()
             for row in COMMITTEE_DATA:
                 writer.writerow(row)
-        print("List of active committees and current members created.")
+        print("List of all committees and assignments in current session created in JSON and CSV")
+
+    elif sys.argv[1] == "members":
+        MASTER_LIST = None
+        JSON_LIST = []
+        with open('nycc_district-cm_data.csv', newline='') as csvfile:
+            MASTER_CSV = csv.DictReader(csvfile, delimiter=",")
+            MASTER_LIST = list(MASTER_CSV)
+        with open(os.path.join(os.getcwd(),'council_members/members.csv'), mode='w') as csv_file_2:
+            fieldnames = ["PersonId", "Guid", "District", "CouncilDistrict", "FirstName", "LastName", "Gender", "Title", "Party", "Active", "PhotoURL", "FacebookURL", "TwitterURL", "TwitterHandle", "InstagramURL", "InstagramHandle", "Website", "Email", "DistrictOfficeAddress", "DistrictOfficeCity", "DistrictOfficeState", "DistrictOfficeZip", "DistrictOfficePhone", "DistrictOfficeFax", "LegislativeOfficeAddress", "LegislativeOfficeCity", "LegislativeOfficeState", "LegislativeOfficeZip", "LegislativeOfficePhone", "LegislativeOfficeFax", "Version", "LastUpdatedUTC"]
+            writer = csv.DictWriter(csv_file_2, fieldnames=fieldnames)
+            writer.writeheader()
+            for row in MASTER_LIST:
+                DICT_ROW = dict(row)
+                CM_DATA = requests.get(url="https://webapi.legistar.com/v1/nyc/persons/{}/?token={}".format(row["PersonId"],TOKEN)).json()
+                CM_ROW = {
+                    "Active": CM_DATA["PersonActiveFlag"],
+                    "Guid": CM_DATA["PersonGuid"],
+                    "Version": CM_DATA["PersonRowVersion"],
+                    "LastUpdatedUTC": CM_DATA["PersonLastModifiedUtc"],
+                    "DistrictOfficeAddress": CM_DATA["PersonAddress1"],
+                    "DistrictOfficeCity": CM_DATA["PersonCity1"],
+                    "DistrictOfficeState": CM_DATA["PersonState1"],
+                    "DistrictOfficeZip": CM_DATA["PersonZip1"],
+                    "DistrictOfficePhone": CM_DATA["PersonPhone"],
+                    "DistrictOfficeFax": CM_DATA["PersonFax"],
+                    "Email": CM_DATA["PersonEmail"],
+                    "LegislativeOfficeAddress": CM_DATA["PersonAddress2"],
+                    "LegislativeOfficeCity": CM_DATA["PersonCity2"],
+                    "LegislativeOfficeState": CM_DATA["PersonState2"],
+                    "LegislativeOfficeZip": CM_DATA["PersonZip2"],
+                    "LegislativeOfficePhone": CM_DATA["PersonPhone2"],
+                    "LegislativeOfficeFax": CM_DATA["PersonFax2"],
+                }
+                CM_ROW.update(DICT_ROW)
+                writer.writerow(CM_ROW)
+                JSON_LIST.append(CM_ROW)
+        JSON_FILE = open(os.path.join(os.getcwd(),'council_members/members.json'), 'w')
+        json.dump(JSON_LIST, JSON_FILE, indent=2)
+        print('List of all council members in current session created in JSON and CSV.')
 
     elif sys.argv[1] == "check":
         with open('cm_master_file.json') as json_data:
