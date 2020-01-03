@@ -181,13 +181,16 @@ if len(sys.argv) == 2:
             MASTER_CSV = csv.DictReader(csvfile, delimiter=",")
             MASTER_LIST = list(MASTER_CSV)
         with open(os.path.join(os.getcwd(),'council_members/members.csv'), mode='w') as csv_file_2:
-            fieldnames = ["PersonId", "Guid", "District", "CouncilDistrict", "FirstName", "LastName", "Gender", "Title", "Party", "Active", "PhotoURL", "FacebookURL", "TwitterURL", "TwitterHandle", "InstagramURL", "InstagramHandle", "Website", "Email", "DistrictOfficeAddress", "DistrictOfficeCity", "DistrictOfficeState", "DistrictOfficeZip", "DistrictOfficePhone", "DistrictOfficeFax", "LegislativeOfficeAddress", "LegislativeOfficeCity", "LegislativeOfficeState", "LegislativeOfficeZip", "LegislativeOfficePhone", "LegislativeOfficeFax", "Version", "LastUpdatedUTC"]
+            fieldnames = ["PersonId", "Guid", "District", "CouncilDistrict", "FirstName", "LastName", "FullName", "Gender", "Title", "Party", "Active", "PhotoURL", "FacebookURL", "TwitterURL", "TwitterHandle", "InstagramURL", "InstagramHandle", "Website", "Email", "DistrictOfficeAddress", "DistrictOfficeCity", "DistrictOfficeState", "DistrictOfficeZip", "DistrictOfficePhone", "DistrictOfficeFax", "LegislativeOfficeAddress", "LegislativeOfficeCity", "LegislativeOfficeState", "LegislativeOfficeZip", "LegislativeOfficePhone", "LegislativeOfficeFax", "Version", "LastUpdatedUTC"]
             writer = csv.DictWriter(csv_file_2, fieldnames=fieldnames)
             writer.writeheader()
             for row in MASTER_LIST:
                 DICT_ROW = dict(row)
                 CM_DATA = requests.get(url="https://webapi.legistar.com/v1/nyc/persons/{}/?token={}".format(row["PersonId"],TOKEN)).json()
                 CM_ROW = {
+                    "FirstName": CM_DATA["PersonFirstName"],
+                    "LastName": CM_DATA["PersonLastName"],
+                    "FullName": CM_DATA["PersonFullName"],
                     "Active": CM_DATA["PersonActiveFlag"],
                     "Guid": CM_DATA["PersonGuid"],
                     "Version": CM_DATA["PersonRowVersion"],
@@ -206,9 +209,9 @@ if len(sys.argv) == 2:
                     "LegislativeOfficePhone": CM_DATA["PersonPhone2"],
                     "LegislativeOfficeFax": CM_DATA["PersonFax2"],
                 }
-                CM_ROW.update(DICT_ROW)
-                writer.writerow(CM_ROW)
-                JSON_LIST.append(CM_ROW)
+                DICT_ROW.update(CM_ROW)
+                writer.writerow(DICT_ROW)
+                JSON_LIST.append(DICT_ROW)
         JSON_FILE = open(os.path.join(os.getcwd(),'council_members/members.json'), 'w')
         json.dump(JSON_LIST, JSON_FILE, indent=2)
         print('List of all council members in current session created in JSON and CSV.')
