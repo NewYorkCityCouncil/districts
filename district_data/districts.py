@@ -126,7 +126,12 @@ if len(sys.argv) == 2:
         print("Master file created without the GeoJSON data from City Planning.")
 
     elif sys.argv[1] == "committees":
-        # TO DO: Trim out unnecessary data from legistar
+        if  os.path.exists('committees/committees_and_members.csv'):
+            os.remove('committees/committees_and_members.csv')
+
+        if os.path.exists('committees/committees_and_members.json'):
+            os.remove('committees/committees_and_members.json')
+            
         TODAY = datetime.today()
         if (TODAY.year % 4) >= 2:
             TODAY = TODAY.replace(year=TODAY.year - ((TODAY.year % 4) - 2), month=1, day=1).strftime("%Y-%m-%d")
@@ -175,6 +180,11 @@ if len(sys.argv) == 2:
         print("List of all committees and assignments in current session created in JSON and CSV")
 
     elif sys.argv[1] == "members":
+        if  os.path.exists('council_members/members.csv'):
+            os.remove('council_members/members.csv')
+
+        if os.path.exists('council_members/members.json'):
+            os.remove('council_members/members.json')
         MASTER_LIST = None
         JSON_LIST = []
         with open('nycc_district-cm_data.csv', newline='') as csvfile:
