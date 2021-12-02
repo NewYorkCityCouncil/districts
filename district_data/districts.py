@@ -1,6 +1,7 @@
 import json
 import csv
 import os
+import re
 import requests
 import sys
 import pdb
@@ -23,7 +24,55 @@ if not os.path.exists('council_members'):
 TOKEN = ""
 if len(sys.argv) == 2:
 
-    if sys.argv[1] == "convert": # IF THE JSON HAS NOT BEEN MADE CREATE IT
+    if sys.argv[1] == "init":
+        TODAY = datetime.today()
+        SESS_BEGIN = TODAY.replace(year=TODAY.year - ((TODAY.year % 4) - 2), month=1, day=1).strftime("%Y-%m-%d") if (TODAY.year % 4) >= 2 else TODAY.replace(year=TODAY.year - ((TODAY.year % 4) + 2), month=1, day=1).strftime("%Y-%m-%d")
+        SESS_END = "{}-{}-{}".format(int(SESS_BEGIN.split("-")[0]) + 3, 12, 31)
+        print("Current session ends on", SESS_END)
+        # Only active CMs have an end date for the end of the session
+        CM_DATA = requests.get(url="https://webapi.legistar.com/v1/nyc/Bodies/1/OfficeRecords/?$filter=OfficeRecordEndDate+eq+datetime'{}'&token={}".format(SESS_END, TOKEN))
+        CM_DATA = CM_DATA.json()
+        for CM in CM_DATA:
+            PERSON_DATA = requests.get(url="https://webapi.legistar.com/v1/nyc/Persons/{}/?&token={}".format(CM["OfficeRecordPersonId"], TOKEN))
+            CM_PERSONAL_DATA = PERSON_DATA.json()
+            CM["District"] = int(re.findall('[0-9]+', CM_PERSONAL_DATA['PersonWWW'])[0]) if CM_PERSONAL_DATA['PersonWWW'] else 0
+            CM["Vacant"] = False
+            CM["Borough"] = CM_PERSONAL_DATA['PersonCity1']if any(substring in CM_PERSONAL_DATA['PersonCity1'].lower() for substring in BOROUGHS) else "Queens"
+        CM_DATA = sorted(CM_DATA, key = lambda i: i['District'])
+        for i in range(52):
+            if CM_DATA[i]["District"] != i:
+                CM_DATA.insert(i,{"District": i, "Vacant": True})
+        CM_DATA.pop(0) #Removes Public Advocate from list
+        CSV_HEADER = ["District","PersonId","CouncilDistrict","LastName","FirstName","PhotoURL","FacebookURL","TwitterURL","TwitterHandle","InstagramURL","InstagramHandle","Party","Title","Gender","Website"]
+        with open('nycc_district-cm_data_test.csv', 'w', newline='') as file:
+            writer = csv.writer(file)
+            writer.writerow(CSV_HEADER)
+            for CM in CM_DATA:
+                if CM["Vacant"]:
+                    writer.writerow([str(CM["District"]),"","NYCC{}".format(str(CM["District"]).zfill(2)),"","","","","","","","","","","","https://council.nyc.gov/district-{}/".format(CM["District"])])
+                else:
+                    if CM["OfficeRecordMemberTypeId"] == 3:
+                        TITLE = "Council Member"
+                    elif CM["OfficeRecordMemberTypeId"] == 5:
+                        TITLE = "Speaker"
+                    writer.writerow([
+                        str(CM["District"]),
+                        CM["OfficeRecordPersonId"],
+                        "NYCC{}".format(str(CM["District"]).zfill(2)),
+                        CM["OfficeRecordLastName"],
+                        CM["OfficeRecordFirstName"],
+                        "https://raw.githubusercontent.com/NewYorkCityCouncil/districts/master/thumbnails/district-{}.jpg".format(CM["District"]),
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        CM["Borough"],
+                        TITLE,
+                        "",
+                        "https://council.nyc.gov/district-{}/".format(CM["District"]),
+                    ]) 
+    elif sys.argv[1] == "convert": # IF THE JSON HAS NOT BEEN MADE CREATE IT
         try:
             # Will refactor, currently inefficient to open the csv twice: once to get the headers dynamically, and twice to get the csv in a ioTextWrapper object
             CSV_FILE_IO = open('nycc_district-cm_data.csv', 'r')
@@ -31,8 +80,8 @@ if len(sys.argv) == 2:
             READER = csv.DictReader(CSV_FILE_IO, csv.DictReader(CSV_FILE_IO).fieldnames)
             JSON_FILE.write('[')
             for index, row in enumerate(READER): #CONVERT CSV INTO JSON
-                NESTED_DICT = OrderedDict([("id", int(row["district"])),("district", int(row["district"]))])
-                del row["district"]
+                NESTED_DICT = OrderedDict([("id", int(row["District"])),("district", int(row["District"]))])
+                del row["District"]
                 NESTED_DICT.update({"council_member":row})
                 json.dump(NESTED_DICT, JSON_FILE, indent=2)
                 if int(index) is not 50:
